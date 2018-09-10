@@ -9,6 +9,7 @@ defaults:
     values:
       layout: default
 highlighter: rouge
+permalink: pretty
 exclude:
   - README.md
   - identity.css

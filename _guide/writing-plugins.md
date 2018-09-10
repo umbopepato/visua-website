@@ -1,4 +1,4 @@
 ---
 title: Writing plugins
-order: 6
+index: 5
 ---

@@ -7,21 +7,27 @@
   <title>Visua | Develop your design</title>
 </head>
 <body>
-<header>
-  {% include navbar.html %}
-  <div class="container py-4">
-    <div class="mw-600 mx-auto text-center text-light">
-      Visua is a tool that lets you describe the core of your brand's design system using standard css in order to
-      automate themes and assets builds and much more.<br>
-      This same website's bootstrap theme was built using Visua.
+<div class="bg-gradient">
+  <header>
+    {% include navbar.html %}
+    <div class="container py-4">
+      <div class="mw-600 mx-auto text-center text-light">
+        Visua is a tool that lets you describe the core of your brand's design system using standard css in order to
+        automate themes and assets builds and much more.<br>
+        This same website's bootstrap theme was built using Visua.
+      </div>
+      <div class="text-center py-3">
+        <a class="btn btn-light text-primary" href="{{ site.url }}/guide/get-started">Get started</a>
+      </div>
+      <img class="d-block mx-auto mw-600" src="img/home-illustration.png">
     </div>
-    <div class="text-center py-3">
-      <a class="btn btn-light text-primary" href="{{ site.url }}/guide/get-started">Get started</a>
-    </div>
-    <img class="d-block mx-auto mw-600" src="img/home-illustration.png">
-  </div>
-</header>
+  </header>
+</div>
 
 {{ content }}
+
+<footer class="bg-light mt-3">
+  {% include footer.html %}
+</footer>
 </body>
 </html>

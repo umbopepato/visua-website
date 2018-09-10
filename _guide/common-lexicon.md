@@ -1,5 +1,5 @@
 ---
 title: Common lexicon
-order: 3
+index: 2
 ---
 ### Common lexicon

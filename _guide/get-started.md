@@ -1,6 +1,6 @@
 ---
 title: Get started
-order: 1
+index: 0
 ---
 #### Prerequisites
 

@@ -7,7 +7,7 @@ defaults:
       type: guide
       path: _guide
     values:
-      layout: default
+      layout: guide
 highlighter: rouge
 permalink: pretty
 exclude:

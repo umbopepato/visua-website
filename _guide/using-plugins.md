@@ -1,5 +1,5 @@
 ---
 title: Using plugins
-order: 4
+index: 3
 ---
 ### Using plugins

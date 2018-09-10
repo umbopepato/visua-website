@@ -57,7 +57,7 @@
 pre.highlight {
   padding: 16px;
   border-radius: 5px;
-  background: rgba(0, 0, 0, 0.04);
+  background: $gray-100;
 }
 
 code {
@@ -96,5 +96,13 @@ h6:hover .h-anchor {
 
 footer {
   color: $gray-500;
-  padding-top: 100px;
+  padding: 100px 0;
+}
+
+footer a {
+  color: inherit;
+}
+
+footer.below-main {
+  padding-top: 150px;
 }

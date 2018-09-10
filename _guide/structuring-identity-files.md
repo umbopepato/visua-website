@@ -34,8 +34,8 @@ it into dedicated css files. You can do so by using `@import` at-rules, typicall
 }
 ```
 
-The provided paths are considered to be relative to the main `identity.css` and can be nested in folders. The other
-linked stylesheets must have the same structure of the main one and can import others in turn.
+The provided paths are considered to be relative to the main `identity.css`. The other
+linked stylesheets must follow the same structure described in this page and can import others in turn.
 
 Currently the `@import` is the only supported at-rule: others like `@media` of `@keyframes` have no result on the
 behavior of your visua environment and will eventually cause some warnings when using the CLI.
@@ -50,7 +50,7 @@ cases where it needs a hint in the name to be able to eliminate ambiguity and co
 - if you plan to use plugins made by the community then following a common lexicon will give you a wider compatibility
 thus more complete results (more in the next page).
 
-Because of this, is considered a best practice suffixing variables names with the name of the css property which
+Because of this, is considered a best practice suffixing variable names with the name of the css property which
 normally hosts that value:
 
 ```css
@@ -67,7 +67,7 @@ normally hosts that value:
 
 #### Values
 
-The following is the list of all the values Visua is capable of understanding and their suffixes:
+The following is the list of all the values Visua is capable of understanding along with their suffixes:
 
 |Value/Definition|Corresponding CSSStyleValue|Required suffix|
 |---|---|---|

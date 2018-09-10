@@ -43,7 +43,7 @@ bootstrap scss theme for your website. A basic identity file could be the follow
 
 Now that you have a basic set of variables it's time to run a plugin to build the theme starting from that file.  
 `visua-bootstrap` is a basic plugin that maps a set of commonly used variables to bootstrap scss variables and builds
-for you a `_variables.scss` file that you can later use to build your themed bootstrap.
+for you a `variables.scss` file that you can later use to build your themed bootstrap.
 
 First install the plugin:
 

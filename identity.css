@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #276FFF;
+    --secondary-color: #00DBFF;
+    --font-size: 0.93rem;
+    --font-family: 'Raleway';
+    --headings-font-family: 'Raleway';
+    --headings-font-weight: 600;
+    --headings-color: #333333;
+    --headings-line-height: 2;
+    --color: #666666;
+}

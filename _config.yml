@@ -1,0 +1,17 @@
+title: Visua
+collections:
+  guide:
+    output: true
+defaults:
+  - scope:
+      type: guide
+      path: _guide
+    values:
+      layout: default
+highlighter: rouge
+exclude:
+  - README.md
+  - identity.css
+  - node_modules
+  - package.json
+  - package-lock.json

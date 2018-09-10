@@ -1,0 +1,71 @@
+---
+---
+@import 'bootstrap';
+
+.btn-translucent {
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.65);
+  padding: 4px 8px;
+  font-size: 13px;
+
+  &:hover {
+    color: #FFFFFF;
+  }
+}
+
+.mw-600 {
+  max-width: 600px;
+}
+
+.navbar-brand img {
+  width: 40px;
+  height: 40px;
+}
+
+.btn-light {
+  border-radius: 18px;
+}
+
+.nav.text-light {
+  .nav-link {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .nav-link.active,
+  .nav-link:hover {
+    color: #FFFFFF;
+  }
+}
+
+.card {
+  background: white;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+pre.highlight {
+  padding: 16px;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.04);
+}
+
+code {
+  color: #586e75;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: "";
+  clear: both;
+  height: 0;
+}
+
+header {
+  background: $primary;
+  background: -moz-linear-gradient(top, $primary 0%, $secondary 100%);
+  background: -webkit-linear-gradient(top, $primary 0%, $secondary 100%);
+  background: linear-gradient(to bottom, $primary 0%, $secondary 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$primary}', endColorstr='#{$secondary}', GradientType=0);
+}

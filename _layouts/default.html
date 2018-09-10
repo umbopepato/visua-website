@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  {% include head.html %}
+
+  <title>{{ page.title }} | Visua</title>
+</head>
+<body>
+
+{% assign guidesCount = site.guide | size %}
+{% assign guidesSize = guidesCount | times: 22 %}
+<header style="height: {{172.41 | plus: guidesSize }}px">
+  {% include navbar.html %}
+
+  <div class="container">
+
+    <div class="row">
+      <ul class="nav flex-column col-md-3 py-md-5 text-light">
+        {% assign guidePages = site.guide | sort: 'order' %}
+        {% for guidePage in guidePages %}
+        <li class="nav-item">
+          <a class="nav-link py-0 {% if page.url == guidePage.url %}active{% endif %}" href="{{ guidePage.url }}">
+            {{guidePage.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <div class="col-md-9">
+        <div class="d-flex flex-row align-items-center">
+          <h3 class="flex-grow-1 text-light">{{ page.title }}</h3>
+          <a class="btn btn-translucent" href="{{site.github.repository_url}}/blob/gh-pages/{{page.relative_path}}"><i class="fab fa-github"></i> Edit on github</a>
+        </div>
+        <div class="card p-4">
+          {{ content }}
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+</body>
+</html>

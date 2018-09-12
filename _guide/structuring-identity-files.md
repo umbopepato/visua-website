@@ -69,7 +69,7 @@ normally hosts that value:
 
 The following is the list of all the values Visua is capable of understanding along with their suffixes:
 
-|Value/Definition|Corresponding CSSStyleValue|Required suffix|
+|Value|CSSStyleValue instance|Required suffix|
 |---|---|---|
 |`<number>`|`CSSNumericValue`|none|
 |`<percentage>`|`CSSUnitValue`|none|

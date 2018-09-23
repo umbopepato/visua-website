@@ -42,50 +42,45 @@ behavior of your visua environment and will eventually cause some warnings when 
 
 #### Naming variables
 
-Even though you're totally allowed to call the variables as you want, following some rules in doing so is highly
-recommended for two main reasons:
-
-- Visua is almost always able to infer the type of the variables from the content except in some particular
-cases where it needs a hint in the name to be able to eliminate ambiguity and correctly parse the value;
-- if you plan to use plugins made by the community then following a common lexicon will give you a wider compatibility
+Even though you're totally allowed to call the variables as you want, following some rules in doing so is recommended:
+if you plan to use plugins made by the community then following a common lexicon will give you a wider compatibility
 thus more complete results (more in the next page).
 
-Because of this, is considered a best practice suffixing variable names with the name of the css property which
-normally hosts that value:
+A good starting point is suffixing variable names with the name of the css property which normally hosts that value:
 
 ```css
 :root {
-    /*
-    font-family is an example of value which
-    is not recognizable only based on the content.
-    In this case the -font-family suffix helps Visua
-    parsing the value correctly.
-    */
     --headings-font-family: 'Raleway', sans-serif;
 }
 ```
 
+
 #### Values
 
-The following is the list of all the values Visua is capable of understanding along with their suffixes:
+The following is the list of all the values Visua is capable of understanding along with their corresponding `CSSStyleValue` instance:
 
-|Value|CSSStyleValue instance|Required suffix|
-|---|---|---|
-|`<number>`|`CSSNumericValue`|none|
-|`<percentage>`|`CSSUnitValue`|none|
-|`<length>`|`CSSUnitValue`|none|
-|`<angle>`|`CSSUnitValue`|none|
-|`<time>`|`CSSUnitValue`|none|
-|`<frequency>`|`CSSUnitValue`|none|
-|`<resolution>`|`CSSUnitValue`|none|
-|`<flex>`|`CSSUnitValue`|none|
-|`<color>`|`CSSColorValue`|none|
-|`<identifier>`|`CSSKeywordValue`|none|
-|`<string>`|`CSSStringValue`|none|
-|`<position>`|`CSSPositionValue`|none|
-|`<transform>`|`CSSTransformValue`|none|
-|`<url>`|`CSSUrlValue`|none|
-|`<font-family>`|`CSSFontFamilyValue`|`font-family`|
+|Value|CSSStyleValue instance|
+|---|---|
+|`<number>`|`CSSNumericValue`|
+|`<percentage>`|`CSSUnitValue`|
+|`<length>`|`CSSUnitValue`|
+|`<angle>`|`CSSUnitValue`|
+|`<time>`|`CSSUnitValue`|
+|`<frequency>`|`CSSUnitValue`|
+|`<resolution>`|`CSSUnitValue`|
+|`<flex>`|`CSSUnitValue`|
+|`<color>`|`CSSColorValue`|
+|`<identifier>`|`CSSKeywordValue`|
+|`<identifier>#`|`CSSKeywordsValue`|
+|`<string>`|`CSSStringValue`|
+|`<position>`|`CSSPositionValue`|
+|`<transform>`|`CSSTransformValue`|
+|`<url>`|`CSSUrlValue`|
+|`<border>`|`CSSBorderValue`|
+|`<font>`|`CSSFontValue`|
+|`<font-family>`|`CSSFontFamilyValue`|
+|`<gradient>`|`CSSGradientValue`|
+|`<box-shadow>`|`CSSBoxShadowValue`|
 
 
 

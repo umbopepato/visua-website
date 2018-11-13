@@ -1,5 +1,6 @@
 ---
 ---
+
 @import 'bootstrap';
 
 .btn-translucent {
@@ -34,6 +35,12 @@
 
 .btn-light {
   border-radius: 18px;
+}
+
+.toc,
+.toc ul {
+  list-style: none;
+  padding-left: 16px !important;
 }
 
 .nav.text-light {
@@ -91,7 +98,7 @@ h6:hover .h-anchor {
   background: -moz-linear-gradient(top, $primary 0%, $secondary 100%);
   background: -webkit-linear-gradient(top, $primary 0%, $secondary 100%);
   background: linear-gradient(to bottom, $primary 0%, $secondary 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$primary}', endColorstr='#{$secondary}', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$primary}', endColorstr='#{$secondary}', GradientType=0);
 }
 
 .bg-gradient {

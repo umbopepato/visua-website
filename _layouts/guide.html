@@ -35,11 +35,11 @@
           {% for guidePage in guidePages %}
           <li class="nav-item">
             <a class="nav-link p-0 {% if page.url == guidePage.url %}active{% endif %}" href="{{ guidePage.url }}">
-              {{guidePage.title }}
+              {{guidePage.title}}
             </a>
             {% if page.url == guidePage.url %}
-            {% include toc.html html=content class="nav.flex-column.text-light" item_class="nav-item"
-            anchor_class="nav-link.py-0" %}
+            {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
+            anchor_class="nav-link.p-0" %}
             {% endif %}
           </li>
           {% endfor %}

@@ -34,19 +34,19 @@ it into dedicated css files. You can do so by using `@import` at-rules, typicall
 }
 ```
 
-The provided paths are considered to be relative to the main `identity.css`. The other
+The imported paths are considered to be relative to the main `identity.css`. The other
 linked stylesheets must follow the same structure described in this page and can import others in turn.
 
-Currently the `@import` is the only supported at-rule: others like `@media` of `@keyframes` have no result on the
+Currently the `@import` is the only supported at-rule: others like `@media` or `@keyframes` have no result on the
 behavior of your visua environment and will eventually cause some warnings when using the CLI.
 
 #### Naming variables
 
 Even though you're totally allowed to call the variables as you want, following some rules in doing so is recommended:
 if you plan to use plugins made by the community then following a common lexicon will give you a wider compatibility
-thus more complete results (more in the next page).
+thus more complete results (more in the next pages).
 
-A good starting point is suffixing variable names with the name of the css property which normally hosts that value:
+A good starting point is suffixing variable names with the name of the css property which normally holds that value:
 
 ```css
 :root {
@@ -57,7 +57,8 @@ A good starting point is suffixing variable names with the name of the css prope
 
 #### Values
 
-The following is the list of all the values Visua is capable of understanding along with their corresponding `CSSStyleValue` instance:
+The following is the list of all the values Visua is capable of understanding along with their corresponding
+`CSSStyleValue` instances:
 
 |Value|CSSStyleValue instance|
 |---|---|
@@ -81,8 +82,12 @@ The following is the list of all the values Visua is capable of understanding al
 |`<font-family>`|`CSSFontFamilyValue`|
 |`<gradient>`|`CSSGradientValue`|
 |`<box-shadow>`|`CSSBoxShadowValue`|
+|`<filter>`|`CSSFilterValue`|  
 
 
+
+Visua doesn't have specific values for a lot of css properties which are composed of one or more keywords 
+such as `display`, `cursor` or `overflow`. All those values are interpreted as `CSSKeyword(s)Value`
 
 
 

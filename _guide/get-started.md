@@ -23,8 +23,8 @@ $ npm install --save visua
 
 #### Create your first identity file
 
-The first step in using visua is creating an `identity.css` file in the folder of the project you plan to use
-visua in. A visua identity file is nothing more than a standard css file made of only css variables, possibly combined.
+The first step in using visua is creating an `identity.css` file in your project root.
+A visua identity file is nothing more than a standard css file made of only css variables, possibly combined.
   
 Let's say you want to use visua to describe colors, fonts and sizing of your brand and use that information to build a
 bootstrap scss theme for your website. A basic identity file could be the following:
@@ -53,7 +53,7 @@ $ npm install --save visua-bootstrap
 
 note that all visua plugins are npm packages that start with `visua-`.
 
-Now run the plugin using the visua CLI (be sure to be in the same directory where `identity.css` is, otherwise `cd` there):
+Now run the plugin using the visua CLI (be sure of being in the same directory where `identity.css` is, otherwise `cd` there):
 
 ```bash
 $ visua run bootstrap

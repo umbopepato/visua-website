@@ -2,14 +2,24 @@ title: Visua
 collections:
   guide:
     output: true
+  reference:
+    output: true
 defaults:
   - scope:
       type: guide
       path: _guide
     values:
       layout: guide
+  - scope:
+      type: reference
+      path: _reference
+    values:
+      layout: guide
 highlighter: rouge
 permalink: pretty
+include:
+  - '_*_.md'
+  - '_*_.*.md'
 exclude:
   - README.md
   - identity.css

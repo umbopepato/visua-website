@@ -61,6 +61,10 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
+.card.page {
+  min-height: 800px;
+}
+
 pre.highlight {
   padding: 16px;
   border-radius: 5px;
@@ -69,6 +73,23 @@ pre.highlight {
 
 code {
   color: #586e75;
+}
+
+.tsd-signature {
+  display: block;
+  padding: 8px 24px;
+  margin: 0 -24px;
+  border-top: 1px solid $gray-200;
+  border-bottom: 1px solid $gray-200;
+}
+
+.tsd-signature-type,
+.tsd-signature-symbol {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.tsd-comment p {
+  margin-bottom: 8px;
 }
 
 .clearfix:after {

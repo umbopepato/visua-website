@@ -3,7 +3,8 @@
   {% assign urlParts = page.url | downcase | split: '/' %}
   {% for item in site.data.navigation %}
     <li class="nav-item">
-      <a class="nav-link {% if item.name == urlParts[1] %}active{% endif %}" href="{{item.link}}">{{item.displayName}}</a>
+      <a class="nav-link {% if item.name == urlParts[1] %}active{% endif %}"
+         href="{{item.link | absolute_url}}">{{item.displayName}}</a>
     </li>
   {% endfor %}
   <li class="nav-item">

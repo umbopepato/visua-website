@@ -14,12 +14,12 @@ defaults:
       type: reference
       path: _reference
     values:
-      layout: guide
+      layout: reference
 highlighter: rouge
 permalink: pretty
 include:
-  - '_*_.md'
-  - '_*_.*.md'
+  - '_*_.html'
+  - '_*_.*.html'
 exclude:
   - README.md
   - identity.css

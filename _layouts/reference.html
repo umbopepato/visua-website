@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  {% include head.html %}
+
+  <title>{{ page.title }} | Visua</title>
+
+  <script>
+
+      document.addEventListener('DOMContentLoaded', () => {
+          let bgGradientDynamic = document.querySelector('.bg-gradient-dynamic');
+          let headerHeight = document.querySelector('header').getBoundingClientRect().height;
+          let sidenavHeight = document.querySelector('.sidenav').getBoundingClientRect().height;
+          let bgHeight = headerHeight + sidenavHeight;
+          if (bgHeight > 300) bgGradientDynamic.style.setProperty('--sidenav-height', bgHeight + 'px');
+      });
+
+  </script>
+</head>
+<body class="bg-gradient-dynamic">
+
+{% assign referencePages = site.reference | where: "kind", "1" %}
+{% assign pagesCount = referencePages | size %}
+<header>
+  {% include navbar.html %}
+</header>
+
+<main role="main">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-3">
+        <div class="sidenav py-md-4">
+          <h5 class="text-light">Modules</h5>
+          <ul class="nav flex-column text-light">
+            {% assign sortedPages = referencePages | sort: "name" | reverse %}
+            {% for referencePage in sortedPages %}
+            <li class="nav-item">
+              {% assign pageName = referencePage.name | remove: "&quot;" %}
+              <a class="nav-link p-0 {% if page.name == referencePage.name %}active{% endif %}"
+                 href="{{ referencePage.url }}">
+                {{ pageName }}
+              </a>
+              {% if page.url == referencePage.url %}
+              {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
+              anchor_class="nav-link.p-0" %}
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-9">
+        <div class="d-flex flex-row align-items-center py-2">
+          <h3 class="flex-grow-1 text-light mb-0">{{ page.title }}</h3>
+          <a class="btn btn-translucent" href="{{site.github.repository_url}}/blob/gh-pages/{{page.relative_path}}">
+            <i class="fab fa-github"></i> Edit on GitHub
+          </a>
+        </div>
+        <div class="card p-4 page">
+
+          {% include anchor_headings.html html=content anchorBody='<i class="fas fa-link small"></i>'
+          anchorClass="h-anchor" %}
+
+          <div class="d-flex flex-row align-items-center pt-5 mt-auto">
+
+            {% if page.index != 0 %}
+            {% assign prevIndex = page.index | minus: 1 %}
+            <a href="{{ referencePages[prevIndex].url }}"
+               class="btn btn-outline-gray d-flex flex-row align-items-center">
+              <i class="fas fa-arrow-left mr-3"></i>
+              <div class="d-flex flex-column align-items-end">
+                <small>Prev</small>
+                <div class="text-body">{{ referencePages[prevIndex].title }}</div>
+              </div>
+            </a>
+            {% endif %}
+
+            <div class="flex-grow-1"></div>
+
+            {% assign lastPageIndex = pagesCount | minus: 1 %}
+            {% if page.index != lastPageIndex %}
+            {% assign nextIndex = page.index | plus: 1 %}
+            <a href="{{ referencePages[nextIndex].url }}"
+               class="btn btn-outline-gray d-flex flex-row align-items-center">
+              <div class="d-flex flex-column align-items-start">
+                <small>Next</small>
+                <div class="text-body">{{ referencePages[nextIndex].title }}</div>
+              </div>
+              <i class="fas fa-arrow-right ml-3"></i>
+            </a>
+            {% endif %}
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</main>
+
+
+<footer class="bg-light below-main">
+  {% include footer.html %}
+</footer>
+
+</body>
+</html>

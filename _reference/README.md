@@ -20,7 +20,7 @@ title:  visua
       <div class="tsd-index-content">
           <section class="tsd-index-section ">
             <strong>External modules</strong>
-            <ul class="pl-3">
+            <ul>
                 <li class="tsd-kind-external-module"><a href=".#_cssom_ast_cssom_converter_" class="tsd-kind-icon">"cssom/ast-<wbr>cssom-<wbr>converter"</a></li>
                 <li class="tsd-kind-external-module"><a href="../_cssom_css_/" class="tsd-kind-icon">"cssom/css"</a></li>
                 <li class="tsd-kind-external-module"><a href="../_cssom_css_border_value_/" class="tsd-kind-icon">"cssom/css-<wbr>border-<wbr>value"</a></li>
@@ -57,15 +57,15 @@ title:  visua
       </div>
     </section>
   </section>
-          <section>
-    <div class="lead">External modules</div>
-            <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
-        
-        <h4 id="_cssom_ast_cssom_converter_">"cssom/ast-<wbr>cssom-<wbr>converter"</h4>
-      </div>
+      <section>
+  <div class="lead">External modules</div>
+      <section class="pb-4 pt-2 tsd-kind-external-module">
+    <div class="d-flex flex-row">
 
-        <code class="tsd-signature tsd-kind-icon">"cssom/ast-<wbr>cssom-<wbr>converter"<span class="tsd-signature-symbol">:</span> </code>
+      <h4 id="_cssom_ast_cssom_converter_">"cssom/ast-<wbr>cssom-<wbr>converter"</h4>
+    </div>
+
+    <code class="tsd-signature tsd-kind-icon">"cssom/ast-<wbr>cssom-<wbr>converter"<span class="tsd-signature-symbol">:</span> </code>
 
 <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
@@ -74,15 +74,15 @@ title:  visua
 </aside>
 
 
-    
+  
 
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
-        
-        <h4 id="_cssom_ast_cssom_converter_.astcssomconverter">Ast<wbr>Cssom<wbr>Converter</h4>
-      </div>
+        <section class="pb-4 pt-2 tsd-kind-class tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
 
-        <code class="tsd-signature tsd-kind-icon">Ast<wbr>Cssom<wbr>Converter<span class="tsd-signature-symbol">:</span> </code>
+      <h4 id="_cssom_ast_cssom_converter_.astcssomconverter">Ast<wbr>Cssom<wbr>Converter</h4>
+    </div>
+
+    <code class="tsd-signature tsd-kind-icon">Ast<wbr>Cssom<wbr>Converter<span class="tsd-signature-symbol">:</span> </code>
 
 <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
@@ -91,20 +91,20 @@ title:  visua
 </aside>
 
 
-    
+  
 
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
-        
-        <h4 id="_cssom_ast_cssom_converter_.astcssomconverter.constructor">constructor</h4>
-      </div>
+        <section class="pb-4 pt-2 tsd-kind-constructor tsd-parent-kind-class">
+    <div class="d-flex flex-row">
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>new <wbr>Ast<wbr>Cssom<wbr>Converter<span class="tsd-signature-symbol">(</span>ast<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span>, options<span class="tsd-signature-symbol">: </span><a href=".#_cssom_ast_cssom_converter_.astcssomconverteroptions" class="tsd-signature-type">AstCssomConverterOptions</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href=".#_cssom_ast_cssom_converter_.astcssomconverter" class="tsd-signature-type">AstCssomConverter</a></code>
-</div>
+      <h4 id="_cssom_ast_cssom_converter_.astcssomconverter.constructor">constructor</h4>
+    </div>
 
-<div class="d-flex flex-column">
-    <div>
+    <ul class="tsd-signatures tsd-kind-constructor tsd-parent-kind-class">
+    <li class="tsd-signature tsd-kind-icon">new <wbr>Ast<wbr>Cssom<wbr>Converter<span class="tsd-signature-symbol">(</span>ast<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span>, options<span class="tsd-signature-symbol">: </span><a href=".#_cssom_ast_cssom_converter_.astcssomconverteroptions" class="tsd-signature-type">AstCssomConverterOptions</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href=".#_cssom_ast_cssom_converter_.astcssomconverter" class="tsd-signature-type">AstCssomConverter</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/cssom/ast-cssom-converter.ts#L165">cssom/ast-cssom-converter.ts:165</a></small>
@@ -113,7 +113,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">ast: <span class="tsd-signature-type">any</span></div>
 
@@ -129,22 +129,22 @@ title:  visua
   <strong>Returns <a href=".#_cssom_ast_cssom_converter_.astcssomconverter" class="tsd-signature-type">AstCssomConverter</a></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
-        
-        <h4 id="_cssom_ast_cssom_converter_.astcssomconverter.getstylemap">get<wbr>Style<wbr>Map</h4>
-      </div>
+        <section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class">
+    <div class="d-flex flex-row">
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>get<wbr>Style<wbr>Map<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a><span class="tsd-signature-symbol">&gt;</span></code>
-</div>
+      <h4 id="_cssom_ast_cssom_converter_.astcssomconverter.getstylemap">get<wbr>Style<wbr>Map</h4>
+    </div>
 
-<div class="d-flex flex-column">
-    <div>
+    <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class">
+    <li class="tsd-signature tsd-kind-icon">get<wbr>Style<wbr>Map<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a><span class="tsd-signature-symbol">&gt;</span></li>
+</ul>
+
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/cssom/ast-cssom-converter.ts#L172">cssom/ast-cssom-converter.ts:172</a></small>
@@ -156,18 +156,18 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a><span class="tsd-signature-symbol">&gt;</span></strong>
 
 
+    </li>
+</ul>  
+
+</section>
+</section>
+        <section class="pb-4 pt-2 tsd-kind-type-alias tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
+
+      <h4 id="_cssom_ast_cssom_converter_.astcssomconverteroptions">Ast<wbr>Cssom<wbr>Converter<wbr>Options</h4>
     </div>
-</div>    
 
-</section>
-</section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
-        
-        <h4 id="_cssom_ast_cssom_converter_.astcssomconverteroptions">Ast<wbr>Cssom<wbr>Converter<wbr>Options</h4>
-      </div>
-
-        <code class="tsd-signature tsd-kind-icon">Ast<wbr>Cssom<wbr>Converter<wbr>Options<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">object</span></code>
+    <code class="tsd-signature tsd-kind-icon">Ast<wbr>Cssom<wbr>Converter<wbr>Options<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">object</span></code>
 
 <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
@@ -178,20 +178,20 @@ title:  visua
 
     <div class="tsd-type-declaration">
         <strong>Type declaration</strong>
-            <div class="tsd-parameters d-flex flex-column">
-</div>
+            <ul class="tsd-parameters">
+</ul>
     </div>
-    
+  
 
 </section>
 </section>
-            <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
-        
-        <h4 id="_logger_">"logger"</h4>
-      </div>
+      <section class="pb-4 pt-2 tsd-kind-external-module">
+    <div class="d-flex flex-row">
 
-        <code class="tsd-signature tsd-kind-icon">"logger"<span class="tsd-signature-symbol">:</span> </code>
+      <h4 id="_logger_">"logger"</h4>
+    </div>
+
+    <code class="tsd-signature tsd-kind-icon">"logger"<span class="tsd-signature-symbol">:</span> </code>
 
 <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
@@ -200,15 +200,15 @@ title:  visua
 </aside>
 
 
-    
+  
 
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-variable tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_logger_.logger">logger</h4>
-      </div>
+      <h4 id="_logger_.logger">logger</h4>
+    </div>
 
-        <code class="tsd-signature tsd-kind-icon">logger<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Logger</span><span class="tsd-signature-symbol"> =&nbsp;winston.createLogger({format: winston.format.combine(winston.format.colorize(),winston.format.simple(),),transports: [new winston.transports.Console(),],})</span></code>
+    <code class="tsd-signature tsd-kind-icon">logger<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Logger</span><span class="tsd-signature-symbol"> =&nbsp;winston.createLogger({format: winston.format.combine(winston.format.colorize(),winston.format.simple(),),transports: [new winston.transports.Console(),],})</span></code>
 
 <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
@@ -217,17 +217,17 @@ title:  visua
 </aside>
 
 
-    
+  
 
 </section>
 </section>
-            <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
-        
-        <h4 id="_util_">"util"</h4>
-      </div>
+      <section class="pb-4 pt-2 tsd-kind-external-module">
+    <div class="d-flex flex-row">
 
-        <code class="tsd-signature tsd-kind-icon">"util"<span class="tsd-signature-symbol">:</span> </code>
+      <h4 id="_util_">"util"</h4>
+    </div>
+
+    <code class="tsd-signature tsd-kind-icon">"util"<span class="tsd-signature-symbol">:</span> </code>
 
 <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
@@ -236,20 +236,20 @@ title:  visua
 </aside>
 
 
-    
+  
 
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.inrange">in<wbr>Range</h4>
-      </div>
+      <h4 id="_util_.inrange">in<wbr>Range</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>in<wbr>Range<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, min<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, max<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">boolean</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">in<wbr>Range<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, min<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, max<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">boolean</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L15">util.ts:15</a></small>
@@ -258,7 +258,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">num: <span class="tsd-signature-type">number</span></div>
 
@@ -279,22 +279,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">boolean</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.map">map</h4>
-      </div>
+      <h4 id="_util_.map">map</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>map<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, inMin<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, inMax<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, outMin<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, outMax<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">map<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, inMin<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, inMax<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, outMin<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, outMax<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L21">util.ts:21</a></small>
@@ -303,7 +303,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">num: <span class="tsd-signature-type">number</span></div>
 
@@ -334,22 +334,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">number</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.mod">mod</h4>
-      </div>
+      <h4 id="_util_.mod">mod</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>mod<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, mod<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">mod<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, mod<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L25">util.ts:25</a></small>
@@ -358,7 +358,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">num: <span class="tsd-signature-type">number</span></div>
 
@@ -374,22 +374,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">number</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.removeleadingdashes">remove<wbr>Leading<wbr>Dashes</h4>
-      </div>
+      <h4 id="_util_.removeleadingdashes">remove<wbr>Leading<wbr>Dashes</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>remove<wbr>Leading<wbr>Dashes<span class="tsd-signature-symbol">(</span>property<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">remove<wbr>Leading<wbr>Dashes<span class="tsd-signature-symbol">(</span>property<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L3">util.ts:3</a></small>
@@ -398,7 +398,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">property: <span class="tsd-signature-type">string</span></div>
 
@@ -409,22 +409,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">string</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.removequotes">remove<wbr>Quotes</h4>
-      </div>
+      <h4 id="_util_.removequotes">remove<wbr>Quotes</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>remove<wbr>Quotes<span class="tsd-signature-symbol">(</span>string<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">remove<wbr>Quotes<span class="tsd-signature-symbol">(</span>string<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L7">util.ts:7</a></small>
@@ -433,7 +433,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">string: <span class="tsd-signature-type">string</span></div>
 
@@ -444,22 +444,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">string</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.restrict">restrict</h4>
-      </div>
+      <h4 id="_util_.restrict">restrict</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>restrict<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, min<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, max<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">restrict<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, min<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span>, max<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L17">util.ts:17</a></small>
@@ -468,7 +468,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">num: <span class="tsd-signature-type">number</span></div>
 
@@ -489,22 +489,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">number</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.tocamelcase">to<wbr>Camel<wbr>Case</h4>
-      </div>
+      <h4 id="_util_.tocamelcase">to<wbr>Camel<wbr>Case</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>to<wbr>Camel<wbr>Case<span class="tsd-signature-symbol">(</span>property<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">to<wbr>Camel<wbr>Case<span class="tsd-signature-symbol">(</span>property<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L11">util.ts:11</a></small>
@@ -513,7 +513,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">property: <span class="tsd-signature-type">string</span></div>
 
@@ -524,22 +524,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">string</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.torad">to<wbr>Rad</h4>
-      </div>
+      <h4 id="_util_.torad">to<wbr>Rad</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>to<wbr>Rad<span class="tsd-signature-symbol">(</span>angle<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">to<wbr>Rad<span class="tsd-signature-symbol">(</span>angle<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L29">util.ts:29</a></small>
@@ -548,7 +548,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">angle: <span class="tsd-signature-type">number</span></div>
 
@@ -559,22 +559,22 @@ title:  visua
   <strong>Returns <span class="tsd-signature-type">number</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
-                <section class="pb-4 pt-2">
-      <div class="d-flex flex-row">
+        <section class="pb-4 pt-2 tsd-kind-function tsd-parent-kind-external-module">
+    <div class="d-flex flex-row">
         <div class="h4 pr-1"><span class="badge badge-primary">Const</span></div>
-        <h4 id="_util_.warnat">warn<wbr>At</h4>
-      </div>
+      <h4 id="_util_.warnat">warn<wbr>At</h4>
+    </div>
 
-        <div class="d-flex flex-column py-2 px-4 tsd-signature">
-    <code>warn<wbr>At<span class="tsd-signature-symbol">(</span>message<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span>, location<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">object</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></code>
-</div>
+    <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
+    <li class="tsd-signature tsd-kind-icon">warn<wbr>At<span class="tsd-signature-symbol">(</span>message<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span>, location<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">object</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+</ul>
 
-<div class="d-flex flex-column">
-    <div>
+<ul class="tsd-descriptions">
+    <li class="tsd-description">
         <aside class="tsd-sources pb-2">
     <div class="d-flex flex-column">
           <small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/af043bd/src/util.ts#L31">util.ts:31</a></small>
@@ -583,7 +583,7 @@ title:  visua
 
 
   <strong>Parameters</strong>
-  <ul class="pl-3">
+  <ul class="pl-3 pb-2 list-style-initial">
       <li>
         <div class="h6 mb-0">message: <span class="tsd-signature-type">string</span></div>
 
@@ -593,16 +593,16 @@ title:  visua
         <div class="h6 mb-0">location: <span class="tsd-signature-type">object</span></div>
 
         
-            <div class="tsd-parameters d-flex flex-column">
-</div>
+            <ul class="tsd-parameters">
+</ul>
       </li>
   </ul>
 
   <strong>Returns <span class="tsd-signature-type">void</span></strong>
 
 
-    </div>
-</div>    
+    </li>
+</ul>  
 
 </section>
 </section>

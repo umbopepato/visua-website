@@ -2,6 +2,7 @@
 ---
 
 @import 'bootstrap';
+@import '../_sass/tsd-theme';
 
 .btn-translucent {
   background: rgba(255, 255, 255, 0.08);
@@ -73,27 +74,6 @@ pre.highlight {
 
 code {
   color: #586e75;
-}
-
-.tsd-signature {
-  display: block;
-  padding: 8px 24px;
-  margin: 0 -24px;
-  border-top: 1px solid $gray-200;
-  border-bottom: 1px solid $gray-200;
-}
-
-.tsd-index-section ul {
-  column-count: 3;
-}
-
-.tsd-signature-type,
-.tsd-signature-symbol {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
-
-.tsd-comment p {
-  margin-bottom: 8px;
 }
 
 .clearfix:after {

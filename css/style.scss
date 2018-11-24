@@ -83,6 +83,10 @@ code {
   border-bottom: 1px solid $gray-200;
 }
 
+.tsd-index-section ul {
+  column-count: 3;
+}
+
 .tsd-signature-type,
 .tsd-signature-symbol {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;

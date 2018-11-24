@@ -38,7 +38,10 @@
             {% for referencePage in sortedPages %}
             <li class="nav-item">
               {% assign pageName = referencePage.name | remove: "&quot;" %}
-              <a class="nav-link p-0 {% if page.name == referencePage.name %}active{% endif %}"
+              {% if page.moduleUrl == referencePage.moduleUrl %}
+                {% assign pageIndex = forloop.index | minus: 1 %}
+              {% endif %}
+              <a class="nav-link p-0 {% if page.moduleUrl == referencePage.moduleUrl %}active{% endif %}"
                  href="{{ referencePage.url }}">
                 {{ pageName }}
               </a>
@@ -53,27 +56,21 @@
       </div>
 
       <div class="col-md-9">
-        <div class="d-flex flex-row align-items-center py-2">
-          <h3 class="flex-grow-1 text-light mb-0">{{ page.title }}</h3>
-          <a class="btn btn-translucent" href="{{site.github.repository_url}}/blob/gh-pages/{{page.relative_path}}">
-            <i class="fab fa-github"></i> Edit on GitHub
-          </a>
-        </div>
+        <h3 class="flex-grow-1 text-light mb-0 py-2">{{ page.title }}</h3>
         <div class="card p-4 page">
 
-          {% include anchor_headings.html html=content anchorBody='<i class="fas fa-link small"></i>'
-          anchorClass="h-anchor" %}
+          {{ content }}
 
           <div class="d-flex flex-row align-items-center pt-5 mt-auto">
 
-            {% if page.index != 0 %}
-            {% assign prevIndex = page.index | minus: 1 %}
-            <a href="{{ referencePages[prevIndex].url }}"
+            {% if pageIndex != 0 %}
+            {% assign prevIndex = pageIndex | minus: 1 %}
+            <a href="{{ sortedPages[prevIndex].url }}"
                class="btn btn-outline-gray d-flex flex-row align-items-center">
               <i class="fas fa-arrow-left mr-3"></i>
               <div class="d-flex flex-column align-items-end">
                 <small>Prev</small>
-                <div class="text-body">{{ referencePages[prevIndex].title }}</div>
+                <div class="text-body">{{ sortedPages[prevIndex].title }}</div>
               </div>
             </a>
             {% endif %}
@@ -81,13 +78,13 @@
             <div class="flex-grow-1"></div>
 
             {% assign lastPageIndex = pagesCount | minus: 1 %}
-            {% if page.index != lastPageIndex %}
-            {% assign nextIndex = page.index | plus: 1 %}
-            <a href="{{ referencePages[nextIndex].url }}"
+            {% if pageIndex != lastPageIndex %}
+            {% assign nextIndex = pageIndex | plus: 1 %}
+            <a href="{{ sortedPages[nextIndex].url }}"
                class="btn btn-outline-gray d-flex flex-row align-items-center">
               <div class="d-flex flex-column align-items-start">
                 <small>Next</small>
-                <div class="text-body">{{ referencePages[nextIndex].title }}</div>
+                <div class="text-body">{{ sortedPages[nextIndex].title }}</div>
               </div>
               <i class="fas fa-arrow-right ml-3"></i>
             </a>

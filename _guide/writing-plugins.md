@@ -54,7 +54,7 @@ Your plugin class must be the default export of this module.
 If your plugin accepts options then you should implement the `options()` getter to return a non empty `OptionsMap`.
 `OptionsMap` is an `Object` whose keys are strings corresponding to your options names without the leading "`--`"
 and whose values are either type constructors such as `String` or `Boolean` or `ValueInitializer`s: functions that take
-the option's textual value and convert it.
+the option's textual value and deserialize it.
 
 Consider the following options:
 

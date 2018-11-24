@@ -66,11 +66,11 @@
             {% if pageIndex != 0 %}
             {% assign prevIndex = pageIndex | minus: 1 %}
             <a href="{{ sortedPages[prevIndex].url }}"
-               class="btn btn-outline-gray d-flex flex-row align-items-center">
+               class="btn btn-outline-gray d-flex flex-row align-items-center navigation-button">
               <i class="fas fa-arrow-left mr-3"></i>
-              <div class="d-flex flex-column align-items-end">
+              <div class="d-flex flex-column align-items-end overflow-hidden">
                 <small>Prev</small>
-                <div class="text-body">{{ sortedPages[prevIndex].title }}</div>
+                <div class="text-body text-truncate w-100">{{ sortedPages[prevIndex].name }}</div>
               </div>
             </a>
             {% endif %}
@@ -81,10 +81,10 @@
             {% if pageIndex != lastPageIndex %}
             {% assign nextIndex = pageIndex | plus: 1 %}
             <a href="{{ sortedPages[nextIndex].url }}"
-               class="btn btn-outline-gray d-flex flex-row align-items-center">
-              <div class="d-flex flex-column align-items-start">
+               class="btn btn-outline-gray d-flex flex-row align-items-center navigation-button">
+              <div class="d-flex flex-column align-items-start overflow-hidden">
                 <small>Next</small>
-                <div class="text-body">{{ sortedPages[nextIndex].title }}</div>
+                <div class="text-body text-truncate w-100">{{ sortedPages[nextIndex].name }}</div>
               </div>
               <i class="fas fa-arrow-right ml-3"></i>
             </a>

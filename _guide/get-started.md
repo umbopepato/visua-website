@@ -4,7 +4,6 @@ index: 0
 ---
 #### Prerequisites
 
-Visua is compatible with nodejs versions greater than ...  
 This guide assumes your environment is already set up with [node.js](https://nodejs.org) and [npm](https://npmjs.org).
 
 #### Install
@@ -18,7 +17,7 @@ $ npm install -g visua
 or locally if you plan to use it in you CI/CD pipelines
 
 ```bash
-$ npm install --save visua
+$ npm install visua
 ```
 
 #### Create your first identity file
@@ -48,12 +47,12 @@ for you a `variables.scss` file that you can later use to build your themed boot
 First install the plugin:
 
 ```bash
-$ npm install --save visua-bootstrap
+$ npm install visua-bootstrap
 ```
 
 note that all visua plugins are npm packages that start with `visua-`.
 
-Now run the plugin using the visua CLI (be sure of being in the same directory where `identity.css` is, otherwise `cd` there):
+Now run the plugin using the visua CLI (be sure to be in the same directory where `identity.css` is, otherwise `cd` there):
 
 ```bash
 $ visua run bootstrap

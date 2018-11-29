@@ -18,8 +18,8 @@ defaults:
 highlighter: rouge
 permalink: pretty
 include:
-  - '_*_.html'
-  - '_*_.*.html'
+  - '_*_.md'
+  - '_*_.*.md'
 exclude:
   - README.md
   - identity.css

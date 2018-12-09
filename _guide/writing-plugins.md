@@ -10,7 +10,7 @@ your very specific needs. Writing visua plugins is very easy, just matter of cre
 
 The easiest way of getting started writing plugins is by using visua cli to generate an empty plugin.
 
-The `plugin` command starts an interactive shell that will guide you through the creation of you plugin.
+Visua's CLI `plugin` command starts an interactive shell that will guide you through the creation of you plugin.
 
 Once finished it should have created a folder called `visua-` followed by the slug you have chosen for your plugin with the following structure:
 
@@ -86,7 +86,7 @@ The `run` method is the entry point of your plugin, called by the cli. The argum
 Here you can get all the variables you need from the map using the [StyleMap API](https://visua.io/reference/style-map).
 
 Note that options are not required to the user so in many cases some of them won't be available in the `options` object.
-Always check their existence with the `options.hasOwnProperty()` method before trying to access them and try as much as 
+Always check their existence with the `in` operator before trying to access them and try as much as 
 you can to provide a fallback value when they're not set.
 
 If you think you really need an option to be set then check its existence in `options` and if it's not there
@@ -104,7 +104,7 @@ export default class extends Plugin {
     }
 
     run(styleMap: StyleMap, options: {[key: string]: any}) {
-        if (!options.hasOwnProperty('mandatoryOption')) {
+        if (!(mandatoryOption in options)) {
             throw new PluginError('Please provide `mandatoryOption`!');
         }
         // ...

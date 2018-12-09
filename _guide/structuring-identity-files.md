@@ -6,7 +6,7 @@ index: 1
 
 In its simplest form an `identity.css` file is a list of css variables defining various aspects of your design system.
 
-Just create and empty stylesheet and define all the variables you'll want to use inside the `:root` pseudo-selector as
+Just create an empty stylesheet and define all the variables you'll want to use inside the `:root` pseudo-selector as
 you would normally do for the web. Also like in the web you can reference other variables by using the `var()` function
 as well as perform operations on numeric values using `calc()`.
 

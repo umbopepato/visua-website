@@ -34,6 +34,16 @@
   height: 40px;
 }
 
+.navbar-toggler {
+  border: none;
+  outline: none;
+  transition: color .3s ease;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.8);
+  }
+}
+
 .btn-light {
   border-radius: 18px;
 }

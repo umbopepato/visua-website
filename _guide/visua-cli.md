@@ -3,9 +3,12 @@ title: Visua CLI
 index: 2
 ---
 
+Visua's npm package exposes a small CLI under the `visua` command for managing your projects, running and building
+plugins.
+
 #### Global options
 
-The following options can be prepended to `list` and `run` commands:
+The following global options can be prepended to `list` and `run` commands:
 
 ```
 -s or --strict
@@ -17,7 +20,8 @@ Stops visua execution if some error has occurred during parsing.
 -p or --path [identityFilePath]
 ```
 
-Tells visua to use `identityFilePath` as main identity file instead of the default `./identity.css`.
+Tells visua to use `identityFilePath` as main identity file instead of the default `./identity.css`. `identityFilePath`
+can also be the path of a directory containing a file exactly called `identity.css`.
 
 #### List
 

@@ -104,7 +104,7 @@ export default class extends Plugin {
     }
 
     run(styleMap: StyleMap, options: {[key: string]: any}) {
-        if (!(mandatoryOption in options)) {
+        if (!('mandatoryOption' in options)) {
             throw new PluginError('Please provide `mandatoryOption`!');
         }
         // ...
@@ -118,7 +118,7 @@ export default class extends Plugin {
 The starter template is already set up for testing with `mocha`, `chai` and `ts-node`. In `test/index.spec.ts` you can
 find a basic example of how to test your plugin with mock data.
 
-If you plan to publish the plugin take some time to write a good suite test.
+If you plan to publish the plugin take some time to test it properly.
 
 #### A complete example
 

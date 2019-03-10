@@ -19,6 +19,10 @@ as well as perform operations on numeric values using `calc()`.
 }
 ```
 
+Variables can also be specified without the `:root` pseudo-selector and Visua will recognize them correctly, but syntax
+highlighting and code completion won't work in most code editors if variables are not wrapped in a valid block so using
+`:root` is still preferable, besides being standard CSS.
+
 #### External stylesheets
 
 When your brand definition becomes too voluminous for a single stylesheet you'll certainly want to divide some parts of

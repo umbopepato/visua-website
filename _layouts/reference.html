@@ -6,17 +6,7 @@
 
   <title>{{ page.title }} | Visua</title>
 
-  <script>
-
-      document.addEventListener('DOMContentLoaded', () => {
-          let bgGradientDynamic = document.querySelector('.bg-gradient-dynamic');
-          let headerHeight = document.querySelector('header').getBoundingClientRect().height;
-          let sidenavHeight = document.querySelector('.sidenav').getBoundingClientRect().height;
-          let bgHeight = headerHeight + sidenavHeight;
-          if (bgHeight > 300) bgGradientDynamic.style.setProperty('--sidenav-height', bgHeight + 'px');
-      });
-
-  </script>
+  <script src="{{ site.url }}/js/dynamic-bg.js"></script>
 </head>
 <body class="bg-gradient-dynamic">
 
@@ -30,7 +20,7 @@
   <div class="container">
 
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-3 d-none d-md-block">
         <div class="sidenav py-md-4">
           <h5 class="text-light">Modules</h5>
           <ul class="nav flex-column text-light">

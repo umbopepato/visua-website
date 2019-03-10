@@ -8,13 +8,14 @@ This guide assumes your environment is already set up with [node.js](https://nod
 
 #### Install
 
-Install visua globally
+In most cases installing visua globally is fine:
 
 ```bash
 $ npm install -g visua
 ```
 
-or locally if you plan to use it in you CI/CD pipelines
+however if you plan to use it in environments other than your computer (for example in your CI/CD pipelines) installing
+it locally is the preferred way:
 
 ```bash
 $ npm install visua

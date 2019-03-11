@@ -1,6 +1,6 @@
 - name: guide
   displayName: Guide
   link: guide/get-started
-- name: docs
+- name: reference
   displayName: Reference
-  link: docs/visua
+  link: reference/_visua_/

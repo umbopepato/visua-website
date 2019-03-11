@@ -6,7 +6,7 @@ index: 1
 
 In its simplest form an `identity.css` file is a list of css variables defining various aspects of your design system.
 
-Just create and empty stylesheet and define all the variables you'll want to use inside the `:root` pseudo-selector as
+Just create an empty stylesheet and define all the variables you'll want to use inside the `:root` pseudo-selector as
 you would normally do for the web. Also like in the web you can reference other variables by using the `var()` function
 as well as perform operations on numeric values using `calc()`.
 
@@ -18,6 +18,10 @@ as well as perform operations on numeric values using `calc()`.
     --secondary-logo-size: calc(var(--logo-size) / 2);
 }
 ```
+
+Variables can also be specified without the `:root` pseudo-selector and Visua will recognize them correctly, but syntax
+highlighting and code completion won't work in most code editors if variables are not wrapped in a valid block so using
+`:root` is still preferable, besides being standard CSS.
 
 #### External stylesheets
 
@@ -34,60 +38,60 @@ it into dedicated css files. You can do so by using `@import` at-rules, typicall
 }
 ```
 
-The provided paths are considered to be relative to the main `identity.css`. The other
+The imported paths are considered to be relative to the main `identity.css`. The other
 linked stylesheets must follow the same structure described in this page and can import others in turn.
 
-Currently the `@import` is the only supported at-rule: others like `@media` of `@keyframes` have no result on the
+Currently the `@import` is the only supported at-rule: others like `@media` or `@keyframes` have no result on the
 behavior of your visua environment and will eventually cause some warnings when using the CLI.
 
 #### Naming variables
 
-Even though you're totally allowed to call the variables as you want, following some rules in doing so is highly
-recommended for two main reasons:
+Even though you're totally allowed to call the variables as you want, following some rules in doing so is recommended:
+if you plan to use plugins made by the community then following a common lexicon will give you a wider compatibility
+thus more complete results (more in the next pages).
 
-- Visua is almost always able to infer the type of the variables from the content except in some particular
-cases where it needs a hint in the name to be able to eliminate ambiguity and correctly parse the value;
-- if you plan to use plugins made by the community then following a common lexicon will give you a wider compatibility
-thus more complete results (more in the next page).
-
-Because of this, is considered a best practice suffixing variable names with the name of the css property which
-normally hosts that value:
+A good starting point is suffixing variable names with the name of the css property which normally holds that value:
 
 ```css
 :root {
-    /*
-    font-family is an example of value which
-    is not recognizable only based on the content.
-    In this case the -font-family suffix helps Visua
-    parsing the value correctly.
-    */
     --headings-font-family: 'Raleway', sans-serif;
 }
 ```
 
+
 #### Values
 
-The following is the list of all the values Visua is capable of understanding along with their suffixes:
+The following is the list of all the values Visua is capable of understanding along with their corresponding
+`CSSStyleValue` instances:
 
-|Value/Definition|Corresponding CSSStyleValue|Required suffix|
-|---|---|---|
-|`<number>`|`CSSNumericValue`|none|
-|`<percentage>`|`CSSUnitValue`|none|
-|`<length>`|`CSSUnitValue`|none|
-|`<angle>`|`CSSUnitValue`|none|
-|`<time>`|`CSSUnitValue`|none|
-|`<frequency>`|`CSSUnitValue`|none|
-|`<resolution>`|`CSSUnitValue`|none|
-|`<flex>`|`CSSUnitValue`|none|
-|`<color>`|`CSSColorValue`|none|
-|`<identifier>`|`CSSKeywordValue`|none|
-|`<string>`|`CSSStringValue`|none|
-|`<position>`|`CSSPositionValue`|none|
-|`<transform>`|`CSSTransformValue`|none|
-|`<url>`|`CSSUrlValue`|none|
-|`<font-family>`|`CSSFontFamilyValue`|`font-family`|
+|Value|CSSStyleValue instance|
+|---|---|
+|`<number>`|`CSSNumericValue`|
+|`<percentage>`|`CSSUnitValue`|
+|`<length>`|`CSSUnitValue`|
+|`<angle>`|`CSSUnitValue`|
+|`<time>`|`CSSUnitValue`|
+|`<frequency>`|`CSSUnitValue`|
+|`<resolution>`|`CSSUnitValue`|
+|`<flex>`|`CSSUnitValue`|
+|`<color>`|`CSSColorValue`|
+|`<identifier>`|`CSSKeywordValue`|
+|`<identifier>#`|`CSSKeywordsValue`|
+|`<string>`|`CSSStringValue`|
+|`<position>`|`CSSPositionValue`|
+|`<transform>`|`CSSTransformValue`|
+|`<url>`|`CSSUrlValue`|
+|`<border>`|`CSSBorderValue`|
+|`<font>`|`CSSFontValue`|
+|`<font-family>`|`CSSFontFamilyValue`|
+|`<gradient>`|`CSSGradientValue`|
+|`<box-shadow>`|`CSSBoxShadowValue`|
+|`<filter>`|`CSSFilterValue`|  
 
 
+
+Visua doesn't have specific values for a lot of css properties which are composed of one or more keywords 
+such as `display`, `cursor` or `overflow`. All those values are interpreted as `CSSKeyword(s)Value`
 
 
 

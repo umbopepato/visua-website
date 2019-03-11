@@ -4,27 +4,27 @@ index: 0
 ---
 #### Prerequisites
 
-Visua is compatible with nodejs versions greater than ...  
 This guide assumes your environment is already set up with [node.js](https://nodejs.org) and [npm](https://npmjs.org).
 
 #### Install
 
-Install visua globally
+In most cases installing visua globally is fine:
 
 ```bash
 $ npm install -g visua
 ```
 
-or locally if you plan to use it in you CI/CD pipelines
+however if you plan to use it in environments other than your computer (for example in your CI/CD pipelines) installing
+it locally is the preferred way:
 
 ```bash
-$ npm install --save visua
+$ npm install visua
 ```
 
 #### Create your first identity file
 
-The first step in using visua is creating an `identity.css` file in the folder of the project you plan to use
-visua in. A visua identity file is nothing more than a standard css file made of only css variables, possibly combined.
+The first step in using visua is creating an `identity.css` file in your project root.
+A visua identity file is nothing more than a standard css file made of only css variables, possibly combined.
   
 Let's say you want to use visua to describe colors, fonts and sizing of your brand and use that information to build a
 bootstrap scss theme for your website. A basic identity file could be the following:
@@ -42,13 +42,13 @@ bootstrap scss theme for your website. A basic identity file could be the follow
 #### Run a plugin
 
 Now that you have a basic set of variables it's time to run a plugin to build the theme starting from that file.  
-`visua-bootstrap` is a basic plugin that maps a set of commonly used variables to bootstrap scss variables and builds
+`visua-bootstrap` is a basic plugin that maps a set of commonly used variables to bootstrap scss variables and creates
 for you a `variables.scss` file that you can later use to build your themed bootstrap.
 
 First install the plugin:
 
 ```bash
-$ npm install --save visua-bootstrap
+$ npm install visua-bootstrap
 ```
 
 note that all visua plugins are npm packages that start with `visua-`.

@@ -1,0 +1,113 @@
+.tsd-signature {
+  display: block;
+  padding: 8px 24px;
+  margin: 0 -24px;
+  border-top: 1px solid $gray-200;
+  border-bottom: 1px solid $gray-200;
+}
+
+ul.list-style-initial {
+  list-style: initial;
+}
+
+.tsd-index-section ul {
+  column-count: 3;
+  list-style: none;
+  padding: 0;
+}
+
+.tsd-descriptions,
+.tsd-signatures,
+.tsd-parameters {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.tsd-parameter-siganture .tsd-signatures {
+  margin-bottom: 8px;
+}
+
+.tsd-signature,
+.tsd-signature-type,
+.tsd-signature-symbol {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.tsd-comment p {
+  margin-bottom: 8px;
+}
+
+.tsd-kind-icon::before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  width: 17px;
+  height: 17px;
+  margin: 0 3px 4px 0;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tsd-kind-class > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-class.svg);
+}
+
+.tsd-kind-object-literal > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-object-literal.svg);
+}
+
+.tsd-kind-variable > .tsd-kind-icon::before,
+.tsd-kind-property > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-variable.svg);
+}
+
+.tsd-kind-function > .tsd-kind-icon::before,
+.tsd-kind-call-signature > .tsd-kind-icon::before,
+.tsd-kind-method > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-function.svg);
+}
+
+.tsd-kind-index-signature > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-index-signature.svg);
+}
+
+.tsd-kind-type-alias > .tsd-kind-icon::before,
+.tsd-kind-type-literal > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-type-alias.svg);
+}
+
+.tsd-kind-enum > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-enumeration.svg);
+}
+
+.tsd-kind-enum-member > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-enumeration-member.svg);
+}
+
+.tsd-kind-enum-member > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-enumeration-member.svg);
+}
+
+.tsd-kind-property.tsd-parent-kind-enum > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-enumeration-property.svg);
+}
+
+.tsd-kind-method.tsd-parent-kind-enum > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-enumeration-method.svg);
+}
+
+.tsd-kind-interface > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-interface.svg);
+}
+
+.tsd-kind-constructor > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-constructor.svg);
+}
+
+.tsd-kind-get-signature > .tsd-kind-icon::before,
+.tsd-kind-accessor > .tsd-kind-icon::before {
+  background-image: url(../img/tsd-accessor.svg);
+}
+
+

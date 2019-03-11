@@ -1,0 +1,600 @@
+---
+name: "CSSMathSum"
+kindString: Class
+kind: 128
+modelUrl: ./_cssom_css_numeric_value_.cssmathsum.md
+moduleUrl: _cssom_css_numeric_value_
+title: Class CSSMathSum
+---
+
+
+<section class="pt-2 tsd-panel tsd-hierarchy">
+<div class="lead">Hierarchy</div>
+<ul class="pl-3 tsd-hierarchy list-style-initial">
+<li>
+<a href="../_cssom_css_numeric_value_.cssmathvalue/" class="tsd-signature-type">CSSMathValue</a>
+<ul class="pl-3 tsd-hierarchy list-style-initial">
+<li>
+<span class="target">CSSMathSum</span>
+
+</li>
+</ul>
+</li>
+</ul>
+
+</section>
+
+
+
+
+
+<section >
+<div class="lead pb-2">Index</div>
+<section class="tsd-panel tsd-index-panel">
+<div class="tsd-index-content">
+<section class="tsd-index-section ">
+<strong>Constructors</strong>
+<ul>
+<li class="tsd-kind-constructor tsd-parent-kind-class"><a href="../_cssom_css_numeric_value_.cssmathsum/#constructor" class="tsd-kind-icon">constructor</a></li>
+</ul>
+</section>
+<section class="tsd-index-section ">
+<strong>Properties</strong>
+<ul>
+<li class="tsd-kind-property tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#operator" class="tsd-kind-icon">operator</a></li>
+<li class="tsd-kind-property tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#type" class="tsd-kind-icon">type</a></li>
+<li class="tsd-kind-property tsd-parent-kind-class"><a href="../_cssom_css_numeric_value_.cssmathsum/#values" class="tsd-kind-icon">values</a></li>
+</ul>
+</section>
+<section class="tsd-index-section tsd-is-inherited">
+<strong>Methods</strong>
+<ul>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#add" class="tsd-kind-icon">add</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-protected"><a href="../_cssom_css_numeric_value_.cssmathsum/#createtype" class="tsd-kind-icon">create<wbr>Type</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#div" class="tsd-kind-icon">div</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#equals" class="tsd-kind-icon">equals</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#max" class="tsd-kind-icon">max</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#min" class="tsd-kind-icon">min</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#mul" class="tsd-kind-icon">mul</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-protected"><a href="../_cssom_css_numeric_value_.cssmathsum/#multiplyunitmaps" class="tsd-kind-icon">multiply<wbr>Unit<wbr>Maps</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#solve" class="tsd-kind-icon">solve</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#sub" class="tsd-kind-icon">sub</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><a href="../_cssom_css_numeric_value_.cssmathsum/#to" class="tsd-kind-icon">to</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-static"><a href="../_cssom_css_numeric_value_.cssmathsum/#rectifynumberishvalue" class="tsd-kind-icon">rectify<wbr>Numberish<wbr>Value</a></li>
+</ul>
+</section>
+</div>
+</section>
+</section>
+<section>
+<div class="lead">Constructors</div>
+<section class="pb-4 pt-2 tsd-kind-constructor tsd-parent-kind-class">
+<div class="d-flex flex-row">
+
+<h4 id="constructor">constructor</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-constructor tsd-parent-kind-class">
+<li class="tsd-signature tsd-kind-icon">new CSSMath<wbr>Sum<span class="tsd-signature-symbol">(</span>values<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssmathsum/" class="tsd-signature-type">CSSMathSum</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L504">cssom/css-numeric-value.ts:504</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0">values: <span class="tsd-signature-type">any</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssmathsum/" class="tsd-signature-type">CSSMathSum</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+</section>
+<section>
+<div class="lead">Properties</div>
+<section class="pb-4 pt-2 tsd-kind-property tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="operator">operator</h4>
+</div>
+
+<code class="tsd-signature tsd-kind-icon">operator<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">CSSMathOperator</span></code>
+
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssmathvalue/">CSSMathValue</a>.<a href="../_cssom_css_numeric_value_.cssmathvalue/#operator">operator</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L465">cssom/css-numeric-value.ts:465</a></small>
+</div>
+</aside>
+
+
+
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-property tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="type">type</h4>
+</div>
+
+<code class="tsd-signature tsd-kind-icon">type<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">CSSNumericType</span><span class="tsd-signature-symbol"> =&nbsp;new Map()</span></code>
+
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#type">type</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L24">cssom/css-numeric-value.ts:24</a></small>
+</div>
+</aside>
+
+
+
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-property tsd-parent-kind-class">
+<div class="d-flex flex-row">
+
+<h4 id="values">values</h4>
+</div>
+
+<code class="tsd-signature tsd-kind-icon">values<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">any</span></code>
+
+<aside class="tsd-sources pb-2">
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L505">cssom/css-numeric-value.ts:505</a></small>
+</div>
+</aside>
+
+
+
+
+</section>
+</section>
+<section>
+<div class="lead">Methods</div>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="add">add</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">add<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>values<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#add">add</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L26">cssom/css-numeric-value.ts:26</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>values: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-protected">
+<div class="d-flex flex-row">
+<div class="h4 pr-1"><span class="badge badge-primary">Protected</span></div>
+<h4 id="createtype">create<wbr>Type</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-protected">
+<li class="tsd-signature tsd-kind-icon">create<wbr>Type<span class="tsd-signature-symbol">(</span>unit<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">CSSNumericType</span></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#createtype">createType</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L327">cssom/css-numeric-value.ts:327</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0">unit: <span class="tsd-signature-type">string</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <span class="tsd-signature-type">CSSNumericType</span></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="div">div</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">div<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>values<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#div">div</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L76">cssom/css-numeric-value.ts:76</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>values: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="equals">equals</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">equals<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>values<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">boolean</span></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#equals">equals</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L123">cssom/css-numeric-value.ts:123</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>values: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <span class="tsd-signature-type">boolean</span></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="max">max</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">max<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>values<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#max">max</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L102">cssom/css-numeric-value.ts:102</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>values: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="min">min</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">min<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>values<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#min">min</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L81">cssom/css-numeric-value.ts:81</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>values: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="mul">mul</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">mul<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>values<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#mul">mul</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L52">cssom/css-numeric-value.ts:52</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>values: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-protected">
+<div class="d-flex flex-row">
+<div class="h4 pr-1"><span class="badge badge-primary">Protected</span></div>
+<h4 id="multiplyunitmaps">multiply<wbr>Unit<wbr>Maps</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-protected">
+<li class="tsd-signature tsd-kind-icon">multiply<wbr>Unit<wbr>Maps<span class="tsd-signature-symbol">(</span>u1<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssunitmap/" class="tsd-signature-type">CSSUnitMap</a>, u2<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssunitmap/" class="tsd-signature-type">CSSUnitMap</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssunitmap/" class="tsd-signature-type">CSSUnitMap</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#multiplyunitmaps">multiplyUnitMaps</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L434">cssom/css-numeric-value.ts:434</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0">u1: <a href="../_cssom_css_numeric_value_.cssunitmap/" class="tsd-signature-type">CSSUnitMap</a></div>
+
+
+</li>
+<li>
+<div class="h6 mb-0">u2: <a href="../_cssom_css_numeric_value_.cssunitmap/" class="tsd-signature-type">CSSUnitMap</a></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssunitmap/" class="tsd-signature-type">CSSUnitMap</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="solve">solve</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">solve<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#solve">solve</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L162">cssom/css-numeric-value.ts:162</a></small>
+</div>
+</aside>
+
+
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="sub">sub</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">sub<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>values<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#sub">sub</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L47">cssom/css-numeric-value.ts:47</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>values: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">[]</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<div class="d-flex flex-row">
+
+<h4 id="to">to</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited">
+<li class="tsd-signature tsd-kind-icon">to<span class="tsd-signature-symbol">(</span>unit<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_unit_value_.cssunitvalue/" class="tsd-signature-type">CSSUnitValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#to">to</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L152">cssom/css-numeric-value.ts:152</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0">unit: <span class="tsd-signature-type">string</span></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_unit_value_.cssunitvalue/" class="tsd-signature-type">CSSUnitValue</a></strong>
+
+
+</li>
+</ul>
+
+</section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-static">
+<div class="d-flex flex-row">
+<div class="h4 pr-1"><span class="badge badge-primary">Static</span></div>
+<h4 id="rectifynumberishvalue">rectify<wbr>Numberish<wbr>Value</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-is-inherited tsd-is-static">
+<li class="tsd-signature tsd-kind-icon">rectify<wbr>Numberish<wbr>Value<span class="tsd-signature-symbol">(</span>num<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_css_unit_value_.cssunitvalue/" class="tsd-signature-type">CSSUnitValue</a><span class="tsd-signature-symbol"> | </span><a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#rectifynumberishvalue">rectifyNumberishValue</a></div>
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L174">cssom/css-numeric-value.ts:174</a></small>
+</div>
+</aside>
+
+
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0">num: <a href="../_cssom_css_numeric_value_/#cssnumberish" class="tsd-signature-type">CSSNumberish</a></div>
+
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_css_unit_value_.cssunitvalue/" class="tsd-signature-type">CSSUnitValue</a>
+<span class="tsd-signature-symbol"> | </span>
+<a href="../_cssom_css_numeric_value_.cssnumericvalue/" class="tsd-signature-type">CSSNumericValue</a>
+</strong>
+
+
+</li>
+</ul>
+
+</section>
+</section>

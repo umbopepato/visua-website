@@ -40,8 +40,13 @@
   transition: color .3s ease;
 
   &:hover {
+    outline: none;
     color: rgba(255, 255, 255, 0.8);
   }
+}
+
+.navbar-nav ul {
+  padding-left: 16px;
 }
 
 .btn-light {
@@ -116,7 +121,7 @@ h6:hover .h-anchor {
   visibility: visible;
 }
 
-@mixin bg-gradient {
+.bg-gradient {
   background: $primary;
   background: -moz-linear-gradient(top, $primary 0%, $secondary 100%);
   background: -webkit-linear-gradient(top, $primary 0%, $secondary 100%);
@@ -124,15 +129,9 @@ h6:hover .h-anchor {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$primary}', endColorstr='#{$secondary}', GradientType=0);
 }
 
-.bg-gradient {
-  @include bg-gradient;
-}
-
-.bg-gradient-dynamic {
-  --sidenav-height: 300px;
-  @include bg-gradient;
+[data-contain] {
+  background-size: 100% 0;
   background-repeat: no-repeat;
-  background-size: 100% var(--sidenav-height);
 }
 
 footer {

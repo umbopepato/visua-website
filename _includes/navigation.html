@@ -2,13 +2,49 @@
 
   {% assign urlParts = page.url | downcase | split: '/' %}
   {% for item in site.data.navigation %}
-    <li class="nav-item">
-      <a class="nav-link {% if item.name == urlParts[1] %}active{% endif %}"
-         href="{{item.link | absolute_url}}">{{item.displayName}}</a>
-    </li>
+  <li class="nav-item">
+    <a class="nav-link {% if item.name == urlParts[1] %}active{% endif %}"
+       href="{{item.link | absolute_url}}">{{item.displayName}}</a>
+    {% if item.name == urlParts[1] and urlParts[1] == 'guide' %}
+    <ul class="nav flex-column text-light d-md-none">
+      {% for guidePage in guidePages %}
+      <li class="nav-item">
+        <a class="nav-link p-0 {% if page.url == guidePage.url %}active{% endif %}" href="{{ guidePage.url }}">
+          {{guidePage.title}}
+        </a>
+        {% if page.url == guidePage.url %}
+        {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
+        anchor_class="nav-link.p-0" %}
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% elsif item.name == urlParts[1] and urlParts[1] == 'reference' %}
+    <ul class="nav flex-column text-light d-md-none">
+      {% assign sortedPages = referencePages | sort: "name" | reverse %}
+      {% for referencePage in sortedPages %}
+      <li class="nav-item">
+        {% assign pageName = referencePage.name | remove: "&quot;" %}
+        {% if page.moduleUrl == referencePage.moduleUrl %}
+        {% assign pageIndex = forloop.index | minus: 1 %}
+        {% endif %}
+        <a class="nav-link p-0 {% if page.moduleUrl == referencePage.moduleUrl %}active{% endif %}"
+           href="{{ referencePage.url }}">
+          {{ pageName }}
+        </a>
+        {% if page.url == referencePage.url %}
+        {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
+        anchor_class="nav-link.p-0" %}
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </li>
   {% endfor %}
   <li class="nav-item">
-    <a class="nav-link" href="https://www.github.com/umbopepato/visua" title="See on GitHub" target="_blank"><i class="fab fa-github"></i></a>
+    <a class="nav-link" href="https://www.github.com/umbopepato/visua" title="See on GitHub" target="_blank"><i
+            class="fab fa-github"></i></a>
   </li>
 
 </ul>

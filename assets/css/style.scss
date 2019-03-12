@@ -2,7 +2,7 @@
 ---
 
 @import 'bootstrap';
-@import '../_sass/tsd-theme';
+@import 'tsd-theme';
 
 .btn-translucent {
   background: rgba(255, 255, 255, 0.08);
@@ -121,12 +121,37 @@ h6:hover .h-anchor {
   visibility: visible;
 }
 
-.bg-gradient {
+@mixin bg-gradient {
   background: $primary;
   background: -moz-linear-gradient(top, $primary 0%, $secondary 100%);
   background: -webkit-linear-gradient(top, $primary 0%, $secondary 100%);
   background: linear-gradient(to bottom, $primary 0%, $secondary 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$primary}', endColorstr='#{$secondary}', GradientType=0);
+}
+
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+    .bg#{$infix}-gradient {
+      @include bg-gradient;
+    }
+    .bg#{$infix}-none {
+      background: none;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  header {
+    padding-bottom: 100px;
+  }
+  main {
+    margin-top: -100px;
+  }
+}
+
+.lh-1 {
+  line-height: 1;
 }
 
 [data-contain] {

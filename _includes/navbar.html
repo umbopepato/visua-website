@@ -1,17 +1,17 @@
 <nav class="navbar navbar-expand-md navbar-dark">
   <div class="container">
     <a class="navbar-brand mr-auto" href="{{ site.url }}">
-      <img class="logo" src="{{ site.url }}/img/secondary-logo.svg"/>
+      <img class="logo" src="{{ '/assets/img/secondary-logo.svg' | relative_url }}"/>
       <span class="brand-name pl-1">{{site.title}}</span>
     </a>
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav"
             aria-controls="navbarToggler"
             aria-expanded="false" aria-label="Toggle navigation">
       <i class="fas fa-bars"></i>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarToggler">
+    <div class="collapse navbar-collapse" id="nav">
       {% include navigation.html %}
     </div>
 

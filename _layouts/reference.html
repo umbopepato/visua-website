@@ -6,89 +6,88 @@
 
   <title>{{ page.title }} | Visua</title>
 
-  <script src="{{ site.url }}/js/contain-sizing.js"></script>
+  <script src="{{ '/assets/js/contain-sizing.js' | relative_url }}"></script>
 </head>
-<body>
+<body class="bg-none bg-md-gradient" data-contain="#sidenav">
 
 {% assign referencePages = site.reference | where: "kind", "1" %}
 {% assign pagesCount = referencePages | size %}
-<header class="bg-gradient" data-contain="#sidenav">
+<header class="bg-gradient bg-md-none">
   {% include navbar.html %}
+</header>
 
-  <main role="main">
-    <div class="container">
+<main role="main">
+  <div class="container">
 
-      <div class="row">
-        <div class="col-md-3 d-none d-md-block">
-          <div class="sidenav py-md-4" id="sidenav">
-            <h5 class="text-light">Modules</h5>
-            <ul class="nav flex-column text-light">
-              {% assign sortedPages = referencePages | sort: "name" | reverse %}
-              {% for referencePage in sortedPages %}
-              <li class="nav-item">
-                {% assign pageName = referencePage.name | remove: "&quot;" %}
-                {% if page.moduleUrl == referencePage.moduleUrl %}
-                {% assign pageIndex = forloop.index | minus: 1 %}
-                {% endif %}
-                <a class="nav-link p-0 {% if page.moduleUrl == referencePage.moduleUrl %}active{% endif %}"
-                   href="{{ referencePage.url }}">
-                  {{ pageName }}
-                </a>
-                {% if page.url == referencePage.url %}
-                {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
-                anchor_class="nav-link.p-0" %}
-                {% endif %}
-              </li>
-              {% endfor %}
-            </ul>
+    <div class="row">
+      <div class="col-md-3 d-none d-md-block">
+        <div class="sidenav py-md-4" id="sidenav">
+          <h5 class="text-light">Modules</h5>
+          <ul class="nav flex-column text-light">
+            {% assign sortedPages = referencePages | sort: "name" | reverse %}
+            {% for referencePage in sortedPages %}
+            <li class="nav-item">
+              {% assign pageName = referencePage.name | remove: "&quot;" %}
+              {% if page.moduleUrl == referencePage.moduleUrl %}
+              {% assign pageIndex = forloop.index | minus: 1 %}
+              {% endif %}
+              <a class="nav-link p-0 {% if page.moduleUrl == referencePage.moduleUrl %}active{% endif %}"
+                 href="{{ referencePage.url }}">
+                {{ pageName }}
+              </a>
+              {% if page.url == referencePage.url %}
+              {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
+              anchor_class="nav-link.p-0" %}
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-9">
+        <h3 class="flex-grow-1 text-light mb-0 py-3 lh-1">{{ page.title }}</h3>
+        <div class="card p-4 page">
+
+          {{ content }}
+
+          <div class="d-flex flex-row align-items-center pt-5 mt-auto">
+
+            {% if pageIndex != 0 %}
+            {% assign prevIndex = pageIndex | minus: 1 %}
+            <a href="{{ sortedPages[prevIndex].url }}"
+               class="btn btn-outline-gray d-flex flex-row align-items-center navigation-button">
+              <i class="fas fa-arrow-left mr-3"></i>
+              <div class="d-flex flex-column align-items-end overflow-hidden">
+                <small>Prev</small>
+                <div class="text-body text-truncate w-100">{{ sortedPages[prevIndex].name }}</div>
+              </div>
+            </a>
+            {% endif %}
+
+            <div class="flex-grow-1"></div>
+
+            {% assign lastPageIndex = pagesCount | minus: 1 %}
+            {% if pageIndex != lastPageIndex %}
+            {% assign nextIndex = pageIndex | plus: 1 %}
+            <a href="{{ sortedPages[nextIndex].url }}"
+               class="btn btn-outline-gray d-flex flex-row align-items-center navigation-button">
+              <div class="d-flex flex-column align-items-start overflow-hidden">
+                <small>Next</small>
+                <div class="text-body text-truncate w-100">{{ sortedPages[nextIndex].name }}</div>
+              </div>
+              <i class="fas fa-arrow-right ml-3"></i>
+            </a>
+            {% endif %}
+
           </div>
         </div>
-
-        <div class="col-md-9">
-          <h3 class="flex-grow-1 text-light mb-0 py-2">{{ page.title }}</h3>
-          <div class="card p-4 page">
-
-            {{ content }}
-
-            <div class="d-flex flex-row align-items-center pt-5 mt-auto">
-
-              {% if pageIndex != 0 %}
-              {% assign prevIndex = pageIndex | minus: 1 %}
-              <a href="{{ sortedPages[prevIndex].url }}"
-                 class="btn btn-outline-gray d-flex flex-row align-items-center navigation-button">
-                <i class="fas fa-arrow-left mr-3"></i>
-                <div class="d-flex flex-column align-items-end overflow-hidden">
-                  <small>Prev</small>
-                  <div class="text-body text-truncate w-100">{{ sortedPages[prevIndex].name }}</div>
-                </div>
-              </a>
-              {% endif %}
-
-              <div class="flex-grow-1"></div>
-
-              {% assign lastPageIndex = pagesCount | minus: 1 %}
-              {% if pageIndex != lastPageIndex %}
-              {% assign nextIndex = pageIndex | plus: 1 %}
-              <a href="{{ sortedPages[nextIndex].url }}"
-                 class="btn btn-outline-gray d-flex flex-row align-items-center navigation-button">
-                <div class="d-flex flex-column align-items-start overflow-hidden">
-                  <small>Next</small>
-                  <div class="text-body text-truncate w-100">{{ sortedPages[nextIndex].name }}</div>
-                </div>
-                <i class="fas fa-arrow-right ml-3"></i>
-              </a>
-              {% endif %}
-
-            </div>
-          </div>
-        </div>
-
       </div>
 
     </div>
-  </main>
 
-</header>
+  </div>
+</main>
 
 
 <footer class="bg-light below-main">

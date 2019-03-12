@@ -6,7 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
     child = document.querySelector(container.dataset.contain);
     console.log(container, child);
     updateBgSize();
+    const nav = $('#nav');
+    nav.on('shown.bs.collapse', updateBgSize);
+    nav.on('hidden.bs.collapse', updateBgSize);
 });
+
 
 window.addEventListener('resize', updateBgSize);
 

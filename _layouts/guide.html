@@ -6,90 +6,88 @@
 
   <title>{{ page.title }} | Visua</title>
 
-  <script src="{{ site.url }}/js/contain-sizing.js"></script>
+  <script src="{{ '/assets/js/contain-sizing.js' | relative_url }}"></script>
 </head>
-<body>
+<body class="bg-none bg-md-gradient" data-contain="#sidenav">
 
 {% assign guidePages = site.guide | sort: 'index' %}
 {% assign guidesCount = site.guide | size %}
 
-<header class="bg-gradient" data-contain="#sidenav">
-
+<header class="bg-gradient bg-md-none">
   {% include navbar.html %}
+</header>
 
-  <main role="main">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-3 d-none d-md-block">
-          <div class="sidenav py-md-4" id="sidenav">
-            <h5 class="text-light">Guide</h5>
-            <ul class="nav flex-column text-light">
-              {% for guidePage in guidePages %}
-              <li class="nav-item">
-                <a class="nav-link p-0 {% if page.url == guidePage.url %}active{% endif %}" href="{{ guidePage.url }}">
-                  {{guidePage.title}}
-                </a>
-                {% if page.url == guidePage.url %}
-                {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
-                anchor_class="nav-link.p-0" %}
-                {% endif %}
-              </li>
-              {% endfor %}
-            </ul>
-          </div>
+<main role="main">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 d-none d-md-block">
+        <div class="sidenav py-md-4" id="sidenav">
+          <h5 class="text-light">Guide</h5>
+          <ul class="nav flex-column text-light">
+            {% for guidePage in guidePages %}
+            <li class="nav-item">
+              <a class="nav-link p-0 {% if page.url == guidePage.url %}active{% endif %}" href="{{ guidePage.url }}">
+                {{guidePage.title}}
+              </a>
+              {% if page.url == guidePage.url %}
+              {% include toc.html html=content class="nav.toc.flex-column.text-light" item_class="nav-item"
+              anchor_class="nav-link.p-0" %}
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
         </div>
+      </div>
 
-        <div class="col-md-9">
-          <div class="d-flex flex-row align-items-center py-2">
-            <h3 class="flex-grow-1 text-light mb-0">{{ page.title }}</h3>
-            <a class="btn btn-translucent" href="{{site.github.repository_url}}/blob/gh-pages/{{page.relative_path}}">
-              <i class="fab fa-github"></i> Edit on GitHub
+      <div class="col-md-9">
+        <div class="d-flex flex-row align-items-center py-3">
+          <h3 class="flex-grow-1 text-light mb-0 lh-1">{{ page.title }}</h3>
+          <a class="btn btn-translucent" href="{{site.github.repository_url}}/blob/gh-pages/{{page.relative_path}}">
+            <i class="fab fa-github"></i> Edit on GitHub
+          </a>
+        </div>
+        <div class="card p-4">
+
+          {% include anchor_headings.html html=content anchorBody='<i class="fas fa-link small"></i>'
+          anchorClass="h-anchor" %}
+
+          <div class="d-flex flex-row align-items-center pt-5">
+
+            {% if page.index != 0 %}
+            {% assign prevIndex = page.index | minus: 1 %}
+            <a href="{{ guidePages[prevIndex].url }}"
+               class="btn btn-outline-gray d-flex flex-row align-items-center">
+              <i class="fas fa-arrow-left mr-3"></i>
+              <div class="d-flex flex-column align-items-end">
+                <small>Prev</small>
+                <div class="text-body">{{ guidePages[prevIndex].title }}</div>
+              </div>
             </a>
-          </div>
-          <div class="card p-4">
+            {% endif %}
 
-            {% include anchor_headings.html html=content anchorBody='<i class="fas fa-link small"></i>'
-            anchorClass="h-anchor" %}
+            <div class="flex-grow-1"></div>
 
-            <div class="d-flex flex-row align-items-center pt-5">
+            {% assign lastPageIndex = guidesCount | minus: 1 %}
+            {% if page.index != lastPageIndex %}
+            {% assign nextIndex = page.index | plus: 1 %}
+            <a href="{{ guidePages[nextIndex].url }}"
+               class="btn btn-outline-gray d-flex flex-row align-items-center">
+              <div class="d-flex flex-column align-items-start">
+                <small>Next</small>
+                <div class="text-body">{{ guidePages[nextIndex].title }}</div>
+              </div>
+              <i class="fas fa-arrow-right ml-3"></i>
+            </a>
+            {% endif %}
 
-              {% if page.index != 0 %}
-              {% assign prevIndex = page.index | minus: 1 %}
-              <a href="{{ guidePages[prevIndex].url }}"
-                 class="btn btn-outline-gray d-flex flex-row align-items-center">
-                <i class="fas fa-arrow-left mr-3"></i>
-                <div class="d-flex flex-column align-items-end">
-                  <small>Prev</small>
-                  <div class="text-body">{{ guidePages[prevIndex].title }}</div>
-                </div>
-              </a>
-              {% endif %}
-
-              <div class="flex-grow-1"></div>
-
-              {% assign lastPageIndex = guidesCount | minus: 1 %}
-              {% if page.index != lastPageIndex %}
-              {% assign nextIndex = page.index | plus: 1 %}
-              <a href="{{ guidePages[nextIndex].url }}"
-                 class="btn btn-outline-gray d-flex flex-row align-items-center">
-                <div class="d-flex flex-column align-items-start">
-                  <small>Next</small>
-                  <div class="text-body">{{ guidePages[nextIndex].title }}</div>
-                </div>
-                <i class="fas fa-arrow-right ml-3"></i>
-              </a>
-              {% endif %}
-
-            </div>
           </div>
         </div>
-
       </div>
 
     </div>
-  </main>
 
-</header>
+  </div>
+</main>
 
 
 <footer class="bg-light below-main">

@@ -6,7 +6,7 @@ index: 1
 
 In its simplest form an `identity.css` file is a list of css variables defining various aspects of your design system.
 
-Just create an empty stylesheet and define all the variables you'll want to use inside the `:root` pseudo-selector as
+Just create an empty stylesheet and define all the variables you need inside the `:root` pseudo-selector as
 you would normally do for the web. Also like in the web you can reference other variables by using the `var()` function
 as well as perform operations on numeric values using `calc()`.
 
@@ -19,14 +19,9 @@ as well as perform operations on numeric values using `calc()`.
 }
 ```
 
-Variables can also be specified without the `:root` pseudo-selector and Visua will recognize them correctly, but syntax
-highlighting and code completion won't work in most code editors if variables are not wrapped in a valid block so using
-`:root` is still preferable, besides being standard CSS.
-
 #### External stylesheets
 
-When your brand definition becomes too voluminous for a single stylesheet you'll certainly want to divide some parts of
-it into dedicated css files. You can do so by using `@import` at-rules, typically at the beginning of `identity.css`.
+Brand definitions can be divided across multiple files by using `@import` at-rules:
 
 ```css
 @import 'colors.css'; /* Single quotes are supported */
@@ -38,18 +33,15 @@ it into dedicated css files. You can do so by using `@import` at-rules, typicall
 }
 ```
 
-The imported paths are considered to be relative to the main `identity.css`. The other
+The imported paths are considered to be relative to the main identity file. The other
 linked stylesheets must follow the same structure described in this page and can import others in turn.
 
-Currently the `@import` is the only supported at-rule: others like `@media` or `@keyframes` have no result on the
-behavior of your visua environment and will eventually cause some warnings when using the CLI.
+Currently `@import` is the only supported at-rule: others like `@media` or `@keyframes` have no result and will
+eventually cause some warnings when using the CLI.
 
 #### Naming variables
 
-Even though you're totally allowed to call the variables as you want, following some rules in doing so is recommended:
-if you plan to use plugins made by the community then following a common lexicon will give you a wider compatibility
-thus more complete results (more in the next pages).
-
+Even though you're totally allowed to call the variables as you want, following some naming rules may be of help.
 A good starting point is suffixing variable names with the name of the css property which normally holds that value:
 
 ```css
@@ -88,7 +80,7 @@ The following is the list of all the values Visua is capable of understanding al
 |`<box-shadow>`|`CSSBoxShadowValue`|
 |`<filter>`|`CSSFilterValue`|  
 
-
+<br>
 
 Visua doesn't have specific values for a lot of css properties which are composed of one or more keywords 
 such as `display`, `cursor` or `overflow`. All those values are interpreted as `CSSKeyword(s)Value`

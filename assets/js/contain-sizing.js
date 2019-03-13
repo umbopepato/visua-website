@@ -16,7 +16,7 @@ window.addEventListener('resize', updateBgSize);
 
 function updateBgSize() {
     if (container && child) {
-        let childBottom = child.getBoundingClientRect().bottom;
+        let childBottom = child.getBoundingClientRect().bottom + window.scrollY;
         let newHeight = Math.max(300, childBottom);
         if (newHeight >= 300 && newHeight !== lastHeight) {
             container.style.backgroundSize = '100% ' + newHeight + 'px';

@@ -3,16 +3,16 @@ title: Writing plugins
 index: 3
 ---
 
-There are some cases in which community plugins aren't enough for your project or you need a custom set of plugins for
-your very specific needs. Writing visua plugins is very easy, just matter of creating a small typescript class.
+Writing visua plugins is very easy, just matter of creating a small TypeScript class.
 
 #### Start from template
 
-The easiest way of getting started writing plugins is by using visua cli to generate an empty plugin.
+The easiest way of getting started writing plugins is by using the visua CLI to generate an empty plugin.
 
-Visua's CLI `plugin` command starts an interactive shell that will guide you through the creation of you plugin.
+The `plugin` command starts an interactive shell that guides you through the creation of you plugin.
 
-Once finished it should have created a folder called `visua-` followed by the slug you have chosen for your plugin with the following structure:
+Once finished it should have created a folder called `visua-` followed by the slug you have chosen for your plugin with
+the following structure:
 
 ```
 visua-plugin-name/
@@ -22,12 +22,14 @@ visua-plugin-name/
  |-- .gitignore
  |-- index.ts
  |-- package.json
+ |-- package-lock.json
+ |-- README.md
  |-- tsconfig.json
 ```
 
 #### Plugin class
 
-A visua plugin in its most basic form is a typescript class extending visua's `Plugin` class.
+A visua plugin in its most basic form is a typescript class extending `Plugin`.
 
 In `index.ts` you'll find an empty implementation of `Plugin`: 
 
@@ -36,9 +38,9 @@ import {StyleMap, Plugin, OptionsMap} from 'visua';
 
 export default class extends Plugin {
 
-    static get options(): OptionsMap {
-        return {};
-    }
+    static options: OptionsMap = {
+        
+    };
 
     run(styleMap: StyleMap, options: {[key: string]: any}) {
         
@@ -47,11 +49,11 @@ export default class extends Plugin {
 }
 ```
 
-Your plugin class must be the default export of this module.
+The plugin class must be the default export of this module.
 
 **Options**
 
-If your plugin accepts options then you should implement the `options()` getter to return a non empty `OptionsMap`.
+If your plugin accepts options then you should override the `options` property to return a non empty `OptionsMap`.
 `OptionsMap` is an `Object` whose keys are strings corresponding to your options names without the leading "`--`"
 and whose values are either type constructors such as `String` or `Boolean` or `ValueInitializer`s: functions that take
 the option's textual value and deserialize it.
@@ -62,16 +64,14 @@ Consider the following options:
 - `--overwrite`, a boolean flag
 - `--tags`, a comma separated list of tags.
 
-The corresponding implementation of `options()` would be the following:
+The corresponding implementation of `options` would be the following:
 
 ```typescript
-static get options(): OptionsMap {
-    return {
-        outFile: String,
-        overwrite: Boolean,
-        tags: (value: string) => value.split(','),
-    };
-}
+static options: OptionsMap = {
+    outFile: String,
+    overwrite: Boolean,
+    tags: (value: string) => value.split(','),
+};
 ```
 
 Choosing camel-case option names is preferable so they don't have to be quoted in the object literal.
@@ -85,8 +85,8 @@ The `run` method is the entry point of your plugin, called by the cli. The argum
 
 Here you can get all the variables you need from the map using the [StyleMap API](https://visua.io/reference/style-map).
 
-Note that options are not required to the user so in many cases some of them won't be available in the `options` object.
-Always check their existence with the `in` operator before trying to access them and try as much as 
+Note that options cannot be strictly required to the user and in many cases some of them won't be available in the 
+`options` object. Always check their existence with the `in` operator before trying to access them and try as much as 
 you can to provide a fallback value when they're not set.
 
 If you think you really need an option to be set then check its existence in `options` and if it's not there
@@ -97,11 +97,9 @@ import {StyleMap, Plugin, OptionsMap, PluginError} from 'visua';
 
 export default class extends Plugin {
 
-    static get options(): OptionsMap {
-        return {
-            mandatoryOption: String,
-        };
-    }
+    static options: OptionsMap = {
+        mandatoryOption: String,
+    };
 
     run(styleMap: StyleMap, options: {[key: string]: any}) {
         if (!('mandatoryOption' in options)) {
@@ -113,20 +111,59 @@ export default class extends Plugin {
 }
 ```
 
-#### Testing
+#### Variables
 
-The starter template is already set up for testing with `mocha`, `chai` and `ts-node`. In `test/index.spec.ts` you can
-find a basic example of how to test your plugin with mock data.
+The same goes for CSS variables: the user is not required to define all of those that you plugin uses. Try to provide
+progressive results and when one ore more missing variables are fundamental to the purpose of your plugin throw a
+`PluginError` requesting them to the user.
 
-If you plan to publish the plugin take some time to test it properly.
+#### Writing templates
 
-#### A complete example
+If your plugin generates code files chances are you have to deal with templates. This can get pretty tricky because of
+possible undefined variables. The visua plugin module exports two utility 
+[template literals](https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/template_strings) for this scenario:
+`templatel` and `template`.
 
-The following is an example taken from `visua-bootstrap`, a super simple plugin that maps your visua variables 
-to [bootstrap theme variables](https://getbootstrap.com/docs/4.1/getting-started/theming/#variable-defaults).
+They both correct template literals indentation and prevent null and undefined values from being displayed. In addition
+the former removes _entire lines_ where there is at least one undefined value.
 
-#### Bigger plugins
+```typescript
+run(styleMap: StyleMap, options: {[key: string]: any}) {
+    // Suppose the first two variables are not defined
+    const {varOne, varTwo, varThree} = styleMap.getAll(['var-one', 'var-two', 'var-three']);
+    
+    // Simple template literal
+    const simpleLiteral = `
+        $out-var-one: ${varOne};
+        $out-var-two: ${varTwo};
+        $out-var-three: ${varThree};
+    `;
+    //        $out-var-one: undefined;
+    //        $out-var-two: undefined;
+    //        $out-var-three: <var-three value>;
+    
+    // With templatel tag
+    const tmpTag = templatel`
+        $out-var-one: ${varOne};
+        $out-var-two: ${varTwo};
+        $out-var-three: ${varThree};
+    `;
+    // $out-var-three: <var-three value>;
+}
+```
 
-If your plugin is composed of many typescript files the project can become a bit messy. In this cases consider moving
-your typescript source files in a `src/` folder and setting `build/` or `dist/` as output folder in `tsconfig.json`.
-Don't forget to change your module's `main` in `package.json` from `index.js` to your new entry point.
+#### Publishing
+
+Review the following checklist before publishing your plugin to npm:
+
+- **Naming and keywords**  
+  Make sure the npm package of the plugin is named `visua-<plugin-name>` and has the `visua` and `visua-plugin` keywords
+  (if you generated it using the CLI this should be fine).
+
+- **Check visua versions**  
+  Be explicit about the version of visua with which your plugin is compatible: make sure the `visua` package is 
+  only listed in devDependencies and peerDependencies (with the same version) and *not* in dependencies.
+  
+- **Test it properly**  
+  The starter template is already set up for testing with `mocha`, `chai` and `ts-node`. In `test/index.spec.ts` you can
+  find a basic example of how to test your plugin with mock data.

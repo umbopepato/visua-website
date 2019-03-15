@@ -114,7 +114,7 @@ export default class extends Plugin {
 #### Variables
 
 The same goes for CSS variables: the user is not required to define all of those that you plugin uses. Try to provide
-progressive results and when one ore more missing variables are fundamental to the purpose of your plugin throw a
+progressive results and when one or more missing variables are fundamental to the purpose of your plugin throw a
 `PluginError` requesting them to the user.
 
 #### Writing templates

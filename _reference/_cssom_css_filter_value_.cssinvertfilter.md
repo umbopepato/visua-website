@@ -69,7 +69,7 @@ title: Class CSSInvertFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-filter-value.ts#L95">cssom/css-filter-value.ts:95</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L95">cssom/css-filter-value.ts:95</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSInvertFilter
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-filter-value.ts#L97">cssom/css-filter-value.ts:97</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L97">cssom/css-filter-value.ts:97</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSInvertFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-filter-value.ts#L104">cssom/css-filter-value.ts:104</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L104">cssom/css-filter-value.ts:104</a></small>
 </div>
 </aside>
 

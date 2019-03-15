@@ -70,7 +70,7 @@ title: Class CSSFontFamilyValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-family-value.ts#L17">cssom/css-font-family-value.ts:17</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-family-value.ts#L17">cssom/css-font-family-value.ts:17</a></small>
 </div>
 </aside>
 
@@ -104,7 +104,7 @@ title: Class CSSFontFamilyValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-family-value.ts#L19">cssom/css-font-family-value.ts:19</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-family-value.ts#L19">cssom/css-font-family-value.ts:19</a></small>
 </div>
 </aside>
 
@@ -122,7 +122,7 @@ title: Class CSSFontFamilyValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-family-value.ts#L7">cssom/css-font-family-value.ts:7</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-family-value.ts#L7">cssom/css-font-family-value.ts:7</a></small>
 </div>
 </aside>
 
@@ -147,7 +147,7 @@ title: Class CSSFontFamilyValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-family-value.ts#L23">cssom/css-font-family-value.ts:23</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-family-value.ts#L23">cssom/css-font-family-value.ts:23</a></small>
 </div>
 </aside>
 

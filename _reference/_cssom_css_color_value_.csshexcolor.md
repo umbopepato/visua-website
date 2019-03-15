@@ -84,7 +84,7 @@ title: Class CSSHexColor
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L231">cssom/css-color-value.ts:231</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L231">cssom/css-color-value.ts:231</a></small>
 </div>
 </aside>
 
@@ -133,7 +133,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L231">cssom/css-color-value.ts:231</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L231">cssom/css-color-value.ts:231</a></small>
 </div>
 </aside>
 
@@ -151,7 +151,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L230">cssom/css-color-value.ts:230</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L230">cssom/css-color-value.ts:230</a></small>
 </div>
 </aside>
 
@@ -169,7 +169,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L229">cssom/css-color-value.ts:229</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L229">cssom/css-color-value.ts:229</a></small>
 </div>
 </aside>
 
@@ -187,7 +187,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L228">cssom/css-color-value.ts:228</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L228">cssom/css-color-value.ts:228</a></small>
 </div>
 </aside>
 
@@ -213,7 +213,7 @@ title: Class CSSHexColor
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_css_color_value_.csscolorvalue/">CSSColorValue</a>.<a href="../_cssom_css_color_value_.csscolorvalue/#isopaque">isOpaque</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L298">cssom/css-color-value.ts:298</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L298">cssom/css-color-value.ts:298</a></small>
 </div>
 </aside>
 
@@ -241,7 +241,7 @@ title: Class CSSHexColor
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_css_color_value_.csscolorvalue/">CSSColorValue</a>.<a href="../_cssom_css_color_value_.csscolorvalue/#to">to</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L270">cssom/css-color-value.ts:270</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L270">cssom/css-color-value.ts:270</a></small>
 </div>
 </aside>
 
@@ -276,7 +276,7 @@ title: Class CSSHexColor
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L294">cssom/css-color-value.ts:294</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L294">cssom/css-color-value.ts:294</a></small>
 </div>
 </aside>
 
@@ -303,7 +303,7 @@ title: Class CSSHexColor
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L258">cssom/css-color-value.ts:258</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L258">cssom/css-color-value.ts:258</a></small>
 </div>
 </aside>
 
@@ -339,7 +339,7 @@ title: Class CSSHexColor
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_color_value_.csscolorvalue/">CSSColorValue</a>.<a href="../_cssom_css_color_value_.csscolorvalue/#hsltorgbnumeric">hslToRgbNumeric</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L198">cssom/css-color-value.ts:198</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L198">cssom/css-color-value.ts:198</a></small>
 </div>
 </aside>
 
@@ -385,7 +385,7 @@ title: Class CSSHexColor
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_color_value_.csscolorvalue/">CSSColorValue</a>.<a href="../_cssom_css_color_value_.csscolorvalue/#resolvenumericalpha">resolveNumericAlpha</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L215">cssom/css-color-value.ts:215</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L215">cssom/css-color-value.ts:215</a></small>
 </div>
 </aside>
 
@@ -421,7 +421,7 @@ title: Class CSSHexColor
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_color_value_.csscolorvalue/">CSSColorValue</a>.<a href="../_cssom_css_color_value_.csscolorvalue/#rgbtohslnumeric">rgbToHslNumeric</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L162">cssom/css-color-value.ts:162</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L162">cssom/css-color-value.ts:162</a></small>
 </div>
 </aside>
 
@@ -466,7 +466,7 @@ title: Class CSSHexColor
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_color_value_.csscolorvalue/">CSSColorValue</a>.<a href="../_cssom_css_color_value_.csscolorvalue/#x11colorsmap">x11ColorsMap</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L10">cssom/css-color-value.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L10">cssom/css-color-value.ts:10</a></small>
 </div>
 </aside>
 
@@ -483,7 +483,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L11">cssom/css-color-value.ts:11</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L11">cssom/css-color-value.ts:11</a></small>
 </div>
 </aside>
 
@@ -501,7 +501,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L12">cssom/css-color-value.ts:12</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L12">cssom/css-color-value.ts:12</a></small>
 </div>
 </aside>
 
@@ -519,7 +519,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L13">cssom/css-color-value.ts:13</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L13">cssom/css-color-value.ts:13</a></small>
 </div>
 </aside>
 
@@ -537,7 +537,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L14">cssom/css-color-value.ts:14</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L14">cssom/css-color-value.ts:14</a></small>
 </div>
 </aside>
 
@@ -555,7 +555,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L15">cssom/css-color-value.ts:15</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L15">cssom/css-color-value.ts:15</a></small>
 </div>
 </aside>
 
@@ -573,7 +573,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L16">cssom/css-color-value.ts:16</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L16">cssom/css-color-value.ts:16</a></small>
 </div>
 </aside>
 
@@ -591,7 +591,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L17">cssom/css-color-value.ts:17</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L17">cssom/css-color-value.ts:17</a></small>
 </div>
 </aside>
 
@@ -609,7 +609,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L18">cssom/css-color-value.ts:18</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L18">cssom/css-color-value.ts:18</a></small>
 </div>
 </aside>
 
@@ -627,7 +627,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L19">cssom/css-color-value.ts:19</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L19">cssom/css-color-value.ts:19</a></small>
 </div>
 </aside>
 
@@ -645,7 +645,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L20">cssom/css-color-value.ts:20</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L20">cssom/css-color-value.ts:20</a></small>
 </div>
 </aside>
 
@@ -663,7 +663,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L21">cssom/css-color-value.ts:21</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L21">cssom/css-color-value.ts:21</a></small>
 </div>
 </aside>
 
@@ -681,7 +681,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L22">cssom/css-color-value.ts:22</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L22">cssom/css-color-value.ts:22</a></small>
 </div>
 </aside>
 
@@ -699,7 +699,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L23">cssom/css-color-value.ts:23</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L23">cssom/css-color-value.ts:23</a></small>
 </div>
 </aside>
 
@@ -717,7 +717,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L24">cssom/css-color-value.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L24">cssom/css-color-value.ts:24</a></small>
 </div>
 </aside>
 
@@ -735,7 +735,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L25">cssom/css-color-value.ts:25</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L25">cssom/css-color-value.ts:25</a></small>
 </div>
 </aside>
 
@@ -753,7 +753,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L26">cssom/css-color-value.ts:26</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L26">cssom/css-color-value.ts:26</a></small>
 </div>
 </aside>
 
@@ -771,7 +771,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L27">cssom/css-color-value.ts:27</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L27">cssom/css-color-value.ts:27</a></small>
 </div>
 </aside>
 
@@ -789,7 +789,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L28">cssom/css-color-value.ts:28</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L28">cssom/css-color-value.ts:28</a></small>
 </div>
 </aside>
 
@@ -807,7 +807,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L29">cssom/css-color-value.ts:29</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L29">cssom/css-color-value.ts:29</a></small>
 </div>
 </aside>
 
@@ -825,7 +825,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L30">cssom/css-color-value.ts:30</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L30">cssom/css-color-value.ts:30</a></small>
 </div>
 </aside>
 
@@ -843,7 +843,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L31">cssom/css-color-value.ts:31</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L31">cssom/css-color-value.ts:31</a></small>
 </div>
 </aside>
 
@@ -861,7 +861,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L32">cssom/css-color-value.ts:32</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L32">cssom/css-color-value.ts:32</a></small>
 </div>
 </aside>
 
@@ -879,7 +879,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L33">cssom/css-color-value.ts:33</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L33">cssom/css-color-value.ts:33</a></small>
 </div>
 </aside>
 
@@ -897,7 +897,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L34">cssom/css-color-value.ts:34</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L34">cssom/css-color-value.ts:34</a></small>
 </div>
 </aside>
 
@@ -915,7 +915,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L35">cssom/css-color-value.ts:35</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L35">cssom/css-color-value.ts:35</a></small>
 </div>
 </aside>
 
@@ -933,7 +933,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L36">cssom/css-color-value.ts:36</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L36">cssom/css-color-value.ts:36</a></small>
 </div>
 </aside>
 
@@ -951,7 +951,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L37">cssom/css-color-value.ts:37</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L37">cssom/css-color-value.ts:37</a></small>
 </div>
 </aside>
 
@@ -969,7 +969,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L38">cssom/css-color-value.ts:38</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L38">cssom/css-color-value.ts:38</a></small>
 </div>
 </aside>
 
@@ -987,7 +987,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L39">cssom/css-color-value.ts:39</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L39">cssom/css-color-value.ts:39</a></small>
 </div>
 </aside>
 
@@ -1005,7 +1005,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L40">cssom/css-color-value.ts:40</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L40">cssom/css-color-value.ts:40</a></small>
 </div>
 </aside>
 
@@ -1023,7 +1023,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L41">cssom/css-color-value.ts:41</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L41">cssom/css-color-value.ts:41</a></small>
 </div>
 </aside>
 
@@ -1041,7 +1041,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L42">cssom/css-color-value.ts:42</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L42">cssom/css-color-value.ts:42</a></small>
 </div>
 </aside>
 
@@ -1059,7 +1059,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L43">cssom/css-color-value.ts:43</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L43">cssom/css-color-value.ts:43</a></small>
 </div>
 </aside>
 
@@ -1077,7 +1077,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L44">cssom/css-color-value.ts:44</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L44">cssom/css-color-value.ts:44</a></small>
 </div>
 </aside>
 
@@ -1095,7 +1095,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L45">cssom/css-color-value.ts:45</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L45">cssom/css-color-value.ts:45</a></small>
 </div>
 </aside>
 
@@ -1113,7 +1113,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L46">cssom/css-color-value.ts:46</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L46">cssom/css-color-value.ts:46</a></small>
 </div>
 </aside>
 
@@ -1131,7 +1131,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L47">cssom/css-color-value.ts:47</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L47">cssom/css-color-value.ts:47</a></small>
 </div>
 </aside>
 
@@ -1149,7 +1149,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L48">cssom/css-color-value.ts:48</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L48">cssom/css-color-value.ts:48</a></small>
 </div>
 </aside>
 
@@ -1167,7 +1167,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L49">cssom/css-color-value.ts:49</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L49">cssom/css-color-value.ts:49</a></small>
 </div>
 </aside>
 
@@ -1185,7 +1185,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L50">cssom/css-color-value.ts:50</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L50">cssom/css-color-value.ts:50</a></small>
 </div>
 </aside>
 
@@ -1203,7 +1203,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L51">cssom/css-color-value.ts:51</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L51">cssom/css-color-value.ts:51</a></small>
 </div>
 </aside>
 
@@ -1221,7 +1221,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L52">cssom/css-color-value.ts:52</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L52">cssom/css-color-value.ts:52</a></small>
 </div>
 </aside>
 
@@ -1239,7 +1239,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L53">cssom/css-color-value.ts:53</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L53">cssom/css-color-value.ts:53</a></small>
 </div>
 </aside>
 
@@ -1257,7 +1257,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L54">cssom/css-color-value.ts:54</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L54">cssom/css-color-value.ts:54</a></small>
 </div>
 </aside>
 
@@ -1275,7 +1275,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L55">cssom/css-color-value.ts:55</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L55">cssom/css-color-value.ts:55</a></small>
 </div>
 </aside>
 
@@ -1293,7 +1293,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L56">cssom/css-color-value.ts:56</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L56">cssom/css-color-value.ts:56</a></small>
 </div>
 </aside>
 
@@ -1311,7 +1311,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L57">cssom/css-color-value.ts:57</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L57">cssom/css-color-value.ts:57</a></small>
 </div>
 </aside>
 
@@ -1329,7 +1329,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L58">cssom/css-color-value.ts:58</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L58">cssom/css-color-value.ts:58</a></small>
 </div>
 </aside>
 
@@ -1347,7 +1347,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L59">cssom/css-color-value.ts:59</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L59">cssom/css-color-value.ts:59</a></small>
 </div>
 </aside>
 
@@ -1365,7 +1365,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L60">cssom/css-color-value.ts:60</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L60">cssom/css-color-value.ts:60</a></small>
 </div>
 </aside>
 
@@ -1383,7 +1383,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L61">cssom/css-color-value.ts:61</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L61">cssom/css-color-value.ts:61</a></small>
 </div>
 </aside>
 
@@ -1401,7 +1401,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L62">cssom/css-color-value.ts:62</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L62">cssom/css-color-value.ts:62</a></small>
 </div>
 </aside>
 
@@ -1419,7 +1419,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L63">cssom/css-color-value.ts:63</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L63">cssom/css-color-value.ts:63</a></small>
 </div>
 </aside>
 
@@ -1437,7 +1437,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L64">cssom/css-color-value.ts:64</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L64">cssom/css-color-value.ts:64</a></small>
 </div>
 </aside>
 
@@ -1455,7 +1455,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L65">cssom/css-color-value.ts:65</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L65">cssom/css-color-value.ts:65</a></small>
 </div>
 </aside>
 
@@ -1473,7 +1473,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L66">cssom/css-color-value.ts:66</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L66">cssom/css-color-value.ts:66</a></small>
 </div>
 </aside>
 
@@ -1491,7 +1491,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L67">cssom/css-color-value.ts:67</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L67">cssom/css-color-value.ts:67</a></small>
 </div>
 </aside>
 
@@ -1509,7 +1509,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L68">cssom/css-color-value.ts:68</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L68">cssom/css-color-value.ts:68</a></small>
 </div>
 </aside>
 
@@ -1527,7 +1527,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L69">cssom/css-color-value.ts:69</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L69">cssom/css-color-value.ts:69</a></small>
 </div>
 </aside>
 
@@ -1545,7 +1545,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L70">cssom/css-color-value.ts:70</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L70">cssom/css-color-value.ts:70</a></small>
 </div>
 </aside>
 
@@ -1563,7 +1563,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L71">cssom/css-color-value.ts:71</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L71">cssom/css-color-value.ts:71</a></small>
 </div>
 </aside>
 
@@ -1581,7 +1581,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L72">cssom/css-color-value.ts:72</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L72">cssom/css-color-value.ts:72</a></small>
 </div>
 </aside>
 
@@ -1599,7 +1599,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L73">cssom/css-color-value.ts:73</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L73">cssom/css-color-value.ts:73</a></small>
 </div>
 </aside>
 
@@ -1617,7 +1617,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L74">cssom/css-color-value.ts:74</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L74">cssom/css-color-value.ts:74</a></small>
 </div>
 </aside>
 
@@ -1635,7 +1635,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L75">cssom/css-color-value.ts:75</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L75">cssom/css-color-value.ts:75</a></small>
 </div>
 </aside>
 
@@ -1653,7 +1653,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L76">cssom/css-color-value.ts:76</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L76">cssom/css-color-value.ts:76</a></small>
 </div>
 </aside>
 
@@ -1671,7 +1671,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L77">cssom/css-color-value.ts:77</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L77">cssom/css-color-value.ts:77</a></small>
 </div>
 </aside>
 
@@ -1689,7 +1689,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L78">cssom/css-color-value.ts:78</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L78">cssom/css-color-value.ts:78</a></small>
 </div>
 </aside>
 
@@ -1707,7 +1707,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L79">cssom/css-color-value.ts:79</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L79">cssom/css-color-value.ts:79</a></small>
 </div>
 </aside>
 
@@ -1725,7 +1725,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L80">cssom/css-color-value.ts:80</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L80">cssom/css-color-value.ts:80</a></small>
 </div>
 </aside>
 
@@ -1743,7 +1743,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L81">cssom/css-color-value.ts:81</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L81">cssom/css-color-value.ts:81</a></small>
 </div>
 </aside>
 
@@ -1761,7 +1761,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L82">cssom/css-color-value.ts:82</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L82">cssom/css-color-value.ts:82</a></small>
 </div>
 </aside>
 
@@ -1779,7 +1779,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L83">cssom/css-color-value.ts:83</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L83">cssom/css-color-value.ts:83</a></small>
 </div>
 </aside>
 
@@ -1797,7 +1797,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L84">cssom/css-color-value.ts:84</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L84">cssom/css-color-value.ts:84</a></small>
 </div>
 </aside>
 
@@ -1815,7 +1815,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L85">cssom/css-color-value.ts:85</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L85">cssom/css-color-value.ts:85</a></small>
 </div>
 </aside>
 
@@ -1833,7 +1833,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L86">cssom/css-color-value.ts:86</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L86">cssom/css-color-value.ts:86</a></small>
 </div>
 </aside>
 
@@ -1851,7 +1851,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L87">cssom/css-color-value.ts:87</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L87">cssom/css-color-value.ts:87</a></small>
 </div>
 </aside>
 
@@ -1869,7 +1869,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L88">cssom/css-color-value.ts:88</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L88">cssom/css-color-value.ts:88</a></small>
 </div>
 </aside>
 
@@ -1887,7 +1887,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L89">cssom/css-color-value.ts:89</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L89">cssom/css-color-value.ts:89</a></small>
 </div>
 </aside>
 
@@ -1905,7 +1905,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L90">cssom/css-color-value.ts:90</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L90">cssom/css-color-value.ts:90</a></small>
 </div>
 </aside>
 
@@ -1923,7 +1923,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L91">cssom/css-color-value.ts:91</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L91">cssom/css-color-value.ts:91</a></small>
 </div>
 </aside>
 
@@ -1941,7 +1941,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L92">cssom/css-color-value.ts:92</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L92">cssom/css-color-value.ts:92</a></small>
 </div>
 </aside>
 
@@ -1959,7 +1959,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L93">cssom/css-color-value.ts:93</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L93">cssom/css-color-value.ts:93</a></small>
 </div>
 </aside>
 
@@ -1977,7 +1977,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L94">cssom/css-color-value.ts:94</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L94">cssom/css-color-value.ts:94</a></small>
 </div>
 </aside>
 
@@ -1995,7 +1995,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L95">cssom/css-color-value.ts:95</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L95">cssom/css-color-value.ts:95</a></small>
 </div>
 </aside>
 
@@ -2013,7 +2013,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L96">cssom/css-color-value.ts:96</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L96">cssom/css-color-value.ts:96</a></small>
 </div>
 </aside>
 
@@ -2031,7 +2031,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L97">cssom/css-color-value.ts:97</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L97">cssom/css-color-value.ts:97</a></small>
 </div>
 </aside>
 
@@ -2049,7 +2049,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L98">cssom/css-color-value.ts:98</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L98">cssom/css-color-value.ts:98</a></small>
 </div>
 </aside>
 
@@ -2067,7 +2067,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L99">cssom/css-color-value.ts:99</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L99">cssom/css-color-value.ts:99</a></small>
 </div>
 </aside>
 
@@ -2085,7 +2085,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L100">cssom/css-color-value.ts:100</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L100">cssom/css-color-value.ts:100</a></small>
 </div>
 </aside>
 
@@ -2103,7 +2103,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L101">cssom/css-color-value.ts:101</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L101">cssom/css-color-value.ts:101</a></small>
 </div>
 </aside>
 
@@ -2121,7 +2121,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L102">cssom/css-color-value.ts:102</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L102">cssom/css-color-value.ts:102</a></small>
 </div>
 </aside>
 
@@ -2139,7 +2139,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L103">cssom/css-color-value.ts:103</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L103">cssom/css-color-value.ts:103</a></small>
 </div>
 </aside>
 
@@ -2157,7 +2157,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L104">cssom/css-color-value.ts:104</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L104">cssom/css-color-value.ts:104</a></small>
 </div>
 </aside>
 
@@ -2175,7 +2175,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L105">cssom/css-color-value.ts:105</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L105">cssom/css-color-value.ts:105</a></small>
 </div>
 </aside>
 
@@ -2193,7 +2193,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L106">cssom/css-color-value.ts:106</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L106">cssom/css-color-value.ts:106</a></small>
 </div>
 </aside>
 
@@ -2211,7 +2211,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L107">cssom/css-color-value.ts:107</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L107">cssom/css-color-value.ts:107</a></small>
 </div>
 </aside>
 
@@ -2229,7 +2229,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L108">cssom/css-color-value.ts:108</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L108">cssom/css-color-value.ts:108</a></small>
 </div>
 </aside>
 
@@ -2247,7 +2247,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L109">cssom/css-color-value.ts:109</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L109">cssom/css-color-value.ts:109</a></small>
 </div>
 </aside>
 
@@ -2265,7 +2265,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L110">cssom/css-color-value.ts:110</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L110">cssom/css-color-value.ts:110</a></small>
 </div>
 </aside>
 
@@ -2283,7 +2283,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L111">cssom/css-color-value.ts:111</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L111">cssom/css-color-value.ts:111</a></small>
 </div>
 </aside>
 
@@ -2301,7 +2301,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L112">cssom/css-color-value.ts:112</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L112">cssom/css-color-value.ts:112</a></small>
 </div>
 </aside>
 
@@ -2319,7 +2319,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L113">cssom/css-color-value.ts:113</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L113">cssom/css-color-value.ts:113</a></small>
 </div>
 </aside>
 
@@ -2337,7 +2337,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L114">cssom/css-color-value.ts:114</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L114">cssom/css-color-value.ts:114</a></small>
 </div>
 </aside>
 
@@ -2355,7 +2355,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L115">cssom/css-color-value.ts:115</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L115">cssom/css-color-value.ts:115</a></small>
 </div>
 </aside>
 
@@ -2373,7 +2373,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L116">cssom/css-color-value.ts:116</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L116">cssom/css-color-value.ts:116</a></small>
 </div>
 </aside>
 
@@ -2391,7 +2391,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L117">cssom/css-color-value.ts:117</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L117">cssom/css-color-value.ts:117</a></small>
 </div>
 </aside>
 
@@ -2409,7 +2409,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L118">cssom/css-color-value.ts:118</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L118">cssom/css-color-value.ts:118</a></small>
 </div>
 </aside>
 
@@ -2427,7 +2427,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L119">cssom/css-color-value.ts:119</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L119">cssom/css-color-value.ts:119</a></small>
 </div>
 </aside>
 
@@ -2445,7 +2445,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L120">cssom/css-color-value.ts:120</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L120">cssom/css-color-value.ts:120</a></small>
 </div>
 </aside>
 
@@ -2463,7 +2463,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L121">cssom/css-color-value.ts:121</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L121">cssom/css-color-value.ts:121</a></small>
 </div>
 </aside>
 
@@ -2481,7 +2481,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L122">cssom/css-color-value.ts:122</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L122">cssom/css-color-value.ts:122</a></small>
 </div>
 </aside>
 
@@ -2499,7 +2499,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L123">cssom/css-color-value.ts:123</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L123">cssom/css-color-value.ts:123</a></small>
 </div>
 </aside>
 
@@ -2517,7 +2517,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L124">cssom/css-color-value.ts:124</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L124">cssom/css-color-value.ts:124</a></small>
 </div>
 </aside>
 
@@ -2535,7 +2535,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L125">cssom/css-color-value.ts:125</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L125">cssom/css-color-value.ts:125</a></small>
 </div>
 </aside>
 
@@ -2553,7 +2553,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L126">cssom/css-color-value.ts:126</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L126">cssom/css-color-value.ts:126</a></small>
 </div>
 </aside>
 
@@ -2571,7 +2571,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L127">cssom/css-color-value.ts:127</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L127">cssom/css-color-value.ts:127</a></small>
 </div>
 </aside>
 
@@ -2589,7 +2589,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L128">cssom/css-color-value.ts:128</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L128">cssom/css-color-value.ts:128</a></small>
 </div>
 </aside>
 
@@ -2607,7 +2607,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L129">cssom/css-color-value.ts:129</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L129">cssom/css-color-value.ts:129</a></small>
 </div>
 </aside>
 
@@ -2625,7 +2625,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L130">cssom/css-color-value.ts:130</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L130">cssom/css-color-value.ts:130</a></small>
 </div>
 </aside>
 
@@ -2643,7 +2643,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L131">cssom/css-color-value.ts:131</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L131">cssom/css-color-value.ts:131</a></small>
 </div>
 </aside>
 
@@ -2661,7 +2661,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L132">cssom/css-color-value.ts:132</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L132">cssom/css-color-value.ts:132</a></small>
 </div>
 </aside>
 
@@ -2679,7 +2679,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L133">cssom/css-color-value.ts:133</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L133">cssom/css-color-value.ts:133</a></small>
 </div>
 </aside>
 
@@ -2697,7 +2697,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L134">cssom/css-color-value.ts:134</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L134">cssom/css-color-value.ts:134</a></small>
 </div>
 </aside>
 
@@ -2715,7 +2715,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L135">cssom/css-color-value.ts:135</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L135">cssom/css-color-value.ts:135</a></small>
 </div>
 </aside>
 
@@ -2733,7 +2733,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L136">cssom/css-color-value.ts:136</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L136">cssom/css-color-value.ts:136</a></small>
 </div>
 </aside>
 
@@ -2751,7 +2751,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L137">cssom/css-color-value.ts:137</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L137">cssom/css-color-value.ts:137</a></small>
 </div>
 </aside>
 
@@ -2769,7 +2769,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L138">cssom/css-color-value.ts:138</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L138">cssom/css-color-value.ts:138</a></small>
 </div>
 </aside>
 
@@ -2787,7 +2787,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L139">cssom/css-color-value.ts:139</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L139">cssom/css-color-value.ts:139</a></small>
 </div>
 </aside>
 
@@ -2805,7 +2805,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L140">cssom/css-color-value.ts:140</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L140">cssom/css-color-value.ts:140</a></small>
 </div>
 </aside>
 
@@ -2823,7 +2823,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L141">cssom/css-color-value.ts:141</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L141">cssom/css-color-value.ts:141</a></small>
 </div>
 </aside>
 
@@ -2841,7 +2841,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L142">cssom/css-color-value.ts:142</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L142">cssom/css-color-value.ts:142</a></small>
 </div>
 </aside>
 
@@ -2859,7 +2859,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L143">cssom/css-color-value.ts:143</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L143">cssom/css-color-value.ts:143</a></small>
 </div>
 </aside>
 
@@ -2877,7 +2877,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L144">cssom/css-color-value.ts:144</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L144">cssom/css-color-value.ts:144</a></small>
 </div>
 </aside>
 
@@ -2895,7 +2895,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L145">cssom/css-color-value.ts:145</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L145">cssom/css-color-value.ts:145</a></small>
 </div>
 </aside>
 
@@ -2913,7 +2913,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L146">cssom/css-color-value.ts:146</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L146">cssom/css-color-value.ts:146</a></small>
 </div>
 </aside>
 
@@ -2931,7 +2931,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L147">cssom/css-color-value.ts:147</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L147">cssom/css-color-value.ts:147</a></small>
 </div>
 </aside>
 
@@ -2949,7 +2949,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L148">cssom/css-color-value.ts:148</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L148">cssom/css-color-value.ts:148</a></small>
 </div>
 </aside>
 
@@ -2967,7 +2967,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L149">cssom/css-color-value.ts:149</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L149">cssom/css-color-value.ts:149</a></small>
 </div>
 </aside>
 
@@ -2985,7 +2985,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L150">cssom/css-color-value.ts:150</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L150">cssom/css-color-value.ts:150</a></small>
 </div>
 </aside>
 
@@ -3003,7 +3003,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L151">cssom/css-color-value.ts:151</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L151">cssom/css-color-value.ts:151</a></small>
 </div>
 </aside>
 
@@ -3021,7 +3021,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L152">cssom/css-color-value.ts:152</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L152">cssom/css-color-value.ts:152</a></small>
 </div>
 </aside>
 
@@ -3039,7 +3039,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L153">cssom/css-color-value.ts:153</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L153">cssom/css-color-value.ts:153</a></small>
 </div>
 </aside>
 
@@ -3057,7 +3057,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L154">cssom/css-color-value.ts:154</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L154">cssom/css-color-value.ts:154</a></small>
 </div>
 </aside>
 
@@ -3075,7 +3075,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L155">cssom/css-color-value.ts:155</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L155">cssom/css-color-value.ts:155</a></small>
 </div>
 </aside>
 
@@ -3093,7 +3093,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L156">cssom/css-color-value.ts:156</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L156">cssom/css-color-value.ts:156</a></small>
 </div>
 </aside>
 
@@ -3111,7 +3111,7 @@ title: Class CSSHexColor
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-color-value.ts#L157">cssom/css-color-value.ts:157</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-color-value.ts#L157">cssom/css-color-value.ts:157</a></small>
 </div>
 </aside>
 

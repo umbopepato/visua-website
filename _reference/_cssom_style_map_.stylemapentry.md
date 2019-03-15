@@ -49,7 +49,7 @@ title: Interface StyleMapEntry
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L8">cssom/style-map.ts:8</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L8">cssom/style-map.ts:8</a></small>
 </div>
 </aside>
 
@@ -67,7 +67,7 @@ title: Interface StyleMapEntry
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L9">cssom/style-map.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L9">cssom/style-map.ts:9</a></small>
 </div>
 </aside>
 

@@ -64,7 +64,7 @@ The style map containing all the css variables defined in the parsed identity cs
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L79">cssom/style-map.ts:79</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L79">cssom/style-map.ts:79</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -141,7 +141,7 @@ The callback to run against each property
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L25">cssom/style-map.ts:25</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L25">cssom/style-map.ts:25</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -190,7 +190,7 @@ The corresponding style value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L37">cssom/style-map.ts:37</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L37">cssom/style-map.ts:37</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -246,7 +246,7 @@ The Object of found properties (the names are converted from hyphen-case to came
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L53">cssom/style-map.ts:53</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L53">cssom/style-map.ts:53</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -295,7 +295,7 @@ An array of StyleMapEntries
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L88">cssom/style-map.ts:88</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L88">cssom/style-map.ts:88</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -327,7 +327,7 @@ Prints the StyleMap in a table
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/style-map.ts#L67">cssom/style-map.ts:67</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L67">cssom/style-map.ts:67</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

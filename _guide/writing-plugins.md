@@ -34,7 +34,7 @@ A visua plugin in its most basic form is a typescript class extending `Plugin`.
 In `index.ts` you'll find an empty implementation of `Plugin`: 
 
 ```typescript
-import {StyleMap, Plugin, OptionsMap} from 'visua';
+import {StyleMap, Plugin, OptionsMap, Options} from 'visua';
 
 export default class extends Plugin {
 
@@ -42,7 +42,7 @@ export default class extends Plugin {
         
     };
 
-    run(styleMap: StyleMap, options: {[key: string]: any}) {
+    run(styleMap: StyleMap, options: Options) {
         
     }
 
@@ -93,7 +93,7 @@ If you think you really need an option to be set then check its existence in `op
 throw a `PluginError` specifying in the message that the user should set the option:
 
 ```typescript
-import {StyleMap, Plugin, OptionsMap, PluginError} from 'visua';
+import {StyleMap, Plugin, OptionsMap, Options, PluginError} from 'visua';
 
 export default class extends Plugin {
 
@@ -101,7 +101,7 @@ export default class extends Plugin {
         mandatoryOption: String,
     };
 
-    run(styleMap: StyleMap, options: {[key: string]: any}) {
+    run(styleMap: StyleMap, options: Options) {
         if (!('mandatoryOption' in options)) {
             throw new PluginError('Please provide `mandatoryOption`!');
         }
@@ -128,7 +128,7 @@ They both correct template literals indentation and prevent null and undefined v
 the former removes _entire lines_ where there is at least one undefined value.
 
 ```typescript
-run(styleMap: StyleMap, options: {[key: string]: any}) {
+run(styleMap: StyleMap, options: Options) {
     // Suppose the first two variables are not defined
     const {varOne, varTwo, varThree} = styleMap.getAll(['var-one', 'var-two', 'var-three']);
     

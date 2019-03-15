@@ -57,7 +57,7 @@ The components of the border value
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-border-value.ts#L15">cssom/css-border-value.ts:15</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L15">cssom/css-border-value.ts:15</a></small>
 </div>
 </aside>
 
@@ -75,7 +75,7 @@ The components of the border value
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-border-value.ts#L14">cssom/css-border-value.ts:14</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L14">cssom/css-border-value.ts:14</a></small>
 </div>
 </aside>
 
@@ -93,7 +93,7 @@ The components of the border value
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-border-value.ts#L13">cssom/css-border-value.ts:13</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L13">cssom/css-border-value.ts:13</a></small>
 </div>
 </aside>
 

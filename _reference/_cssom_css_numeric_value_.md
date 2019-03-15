@@ -52,7 +52,7 @@ title: External module &quot;cssom/css-numeric-value&quot;
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L5">cssom/css-numeric-value.ts:5</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L5">cssom/css-numeric-value.ts:5</a></small>
 </div>
 </aside>
 

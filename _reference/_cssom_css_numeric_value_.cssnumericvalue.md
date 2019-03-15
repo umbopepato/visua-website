@@ -78,7 +78,7 @@ title: Class CSSNumericValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L24">cssom/css-numeric-value.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L24">cssom/css-numeric-value.ts:24</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L26">cssom/css-numeric-value.ts:26</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L26">cssom/css-numeric-value.ts:26</a></small>
 </div>
 </aside>
 
@@ -138,7 +138,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L327">cssom/css-numeric-value.ts:327</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L327">cssom/css-numeric-value.ts:327</a></small>
 </div>
 </aside>
 
@@ -173,7 +173,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L76">cssom/css-numeric-value.ts:76</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L76">cssom/css-numeric-value.ts:76</a></small>
 </div>
 </aside>
 
@@ -208,7 +208,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L123">cssom/css-numeric-value.ts:123</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L123">cssom/css-numeric-value.ts:123</a></small>
 </div>
 </aside>
 
@@ -243,7 +243,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L102">cssom/css-numeric-value.ts:102</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L102">cssom/css-numeric-value.ts:102</a></small>
 </div>
 </aside>
 
@@ -278,7 +278,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L81">cssom/css-numeric-value.ts:81</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L81">cssom/css-numeric-value.ts:81</a></small>
 </div>
 </aside>
 
@@ -313,7 +313,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L52">cssom/css-numeric-value.ts:52</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L52">cssom/css-numeric-value.ts:52</a></small>
 </div>
 </aside>
 
@@ -348,7 +348,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L434">cssom/css-numeric-value.ts:434</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L434">cssom/css-numeric-value.ts:434</a></small>
 </div>
 </aside>
 
@@ -388,7 +388,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L162">cssom/css-numeric-value.ts:162</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L162">cssom/css-numeric-value.ts:162</a></small>
 </div>
 </aside>
 
@@ -415,7 +415,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L47">cssom/css-numeric-value.ts:47</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L47">cssom/css-numeric-value.ts:47</a></small>
 </div>
 </aside>
 
@@ -450,7 +450,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L152">cssom/css-numeric-value.ts:152</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L152">cssom/css-numeric-value.ts:152</a></small>
 </div>
 </aside>
 
@@ -485,7 +485,7 @@ title: Class CSSNumericValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-numeric-value.ts#L174">cssom/css-numeric-value.ts:174</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L174">cssom/css-numeric-value.ts:174</a></small>
 </div>
 </aside>
 

@@ -70,7 +70,7 @@ title: Class CSSSystemFontValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-value.ts#L77">cssom/css-font-value.ts:77</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L77">cssom/css-font-value.ts:77</a></small>
 </div>
 </aside>
 
@@ -104,7 +104,7 @@ title: Class CSSSystemFontValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-value.ts#L79">cssom/css-font-value.ts:79</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L79">cssom/css-font-value.ts:79</a></small>
 </div>
 </aside>
 
@@ -122,7 +122,7 @@ title: Class CSSSystemFontValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-value.ts#L70">cssom/css-font-value.ts:70</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L70">cssom/css-font-value.ts:70</a></small>
 </div>
 </aside>
 
@@ -147,7 +147,7 @@ title: Class CSSSystemFontValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-font-value.ts#L83">cssom/css-font-value.ts:83</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L83">cssom/css-font-value.ts:83</a></small>
 </div>
 </aside>
 

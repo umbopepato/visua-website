@@ -81,7 +81,7 @@ title: Class CSSTimingFunctionValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-timing-function-value.ts#L22">cssom/css-timing-function-value.ts:22</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L22">cssom/css-timing-function-value.ts:22</a></small>
 </div>
 </aside>
 
@@ -115,7 +115,7 @@ title: Class CSSTimingFunctionValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-timing-function-value.ts#L24">cssom/css-timing-function-value.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L24">cssom/css-timing-function-value.ts:24</a></small>
 </div>
 </aside>
 
@@ -140,7 +140,7 @@ title: Class CSSTimingFunctionValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-timing-function-value.ts#L28">cssom/css-timing-function-value.ts:28</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L28">cssom/css-timing-function-value.ts:28</a></small>
 </div>
 </aside>
 
@@ -175,7 +175,7 @@ title: Class CSSTimingFunctionValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-timing-function-value.ts#L32">cssom/css-timing-function-value.ts:32</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L32">cssom/css-timing-function-value.ts:32</a></small>
 </div>
 </aside>
 

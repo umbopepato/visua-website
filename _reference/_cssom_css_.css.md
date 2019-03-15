@@ -101,7 +101,7 @@ const size = new CSSUnitValue(14, 'px');
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L539">cssom/css.ts:539</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L539">cssom/css.ts:539</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -147,7 +147,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L440">cssom/css.ts:440</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L440">cssom/css.ts:440</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -193,7 +193,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L593">cssom/css.ts:593</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L593">cssom/css.ts:593</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -239,7 +239,7 @@ Returns true if the provided units are compatible (ie cm and mm are compatible, 
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L368">cssom/css.ts:368</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L368">cssom/css.ts:368</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -285,7 +285,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L422">cssom/css.ts:422</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L422">cssom/css.ts:422</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -331,7 +331,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L485">cssom/css.ts:485</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L485">cssom/css.ts:485</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -377,7 +377,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L566">cssom/css.ts:566</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L566">cssom/css.ts:566</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -423,7 +423,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L557">cssom/css.ts:557</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L557">cssom/css.ts:557</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -469,7 +469,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L575">cssom/css.ts:575</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L575">cssom/css.ts:575</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -515,7 +515,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L350">cssom/css.ts:350</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L350">cssom/css.ts:350</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -561,7 +561,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L359">cssom/css.ts:359</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L359">cssom/css.ts:359</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -607,7 +607,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L584">cssom/css.ts:584</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L584">cssom/css.ts:584</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -653,7 +653,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L626">cssom/css.ts:626</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L626">cssom/css.ts:626</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -699,7 +699,7 @@ The name of the unit
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L603">cssom/css.ts:603</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L603">cssom/css.ts:603</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -745,7 +745,7 @@ The name or symbol of the unit
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L494">cssom/css.ts:494</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L494">cssom/css.ts:494</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -791,7 +791,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L449">cssom/css.ts:449</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L449">cssom/css.ts:449</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -837,7 +837,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L548">cssom/css.ts:548</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L548">cssom/css.ts:548</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -883,7 +883,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L431">cssom/css.ts:431</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L431">cssom/css.ts:431</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -929,7 +929,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L530">cssom/css.ts:530</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L530">cssom/css.ts:530</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -975,7 +975,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L332">cssom/css.ts:332</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L332">cssom/css.ts:332</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1021,7 +1021,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L467">cssom/css.ts:467</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L467">cssom/css.ts:467</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1067,7 +1067,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L341">cssom/css.ts:341</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L341">cssom/css.ts:341</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1113,7 +1113,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L458">cssom/css.ts:458</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L458">cssom/css.ts:458</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1159,7 +1159,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L476">cssom/css.ts:476</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L476">cssom/css.ts:476</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1205,7 +1205,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L503">cssom/css.ts:503</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L503">cssom/css.ts:503</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1251,7 +1251,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L377">cssom/css.ts:377</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L377">cssom/css.ts:377</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1297,7 +1297,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L613">cssom/css.ts:613</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L613">cssom/css.ts:613</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1343,7 +1343,7 @@ The name or symbol of the unit
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L521">cssom/css.ts:521</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L521">cssom/css.ts:521</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1389,7 +1389,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L512">cssom/css.ts:512</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L512">cssom/css.ts:512</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1435,7 +1435,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L395">cssom/css.ts:395</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L395">cssom/css.ts:395</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1481,7 +1481,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L413">cssom/css.ts:413</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L413">cssom/css.ts:413</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1527,7 +1527,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L404">cssom/css.ts:404</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L404">cssom/css.ts:404</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -1573,7 +1573,7 @@ The numeric value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css.ts#L386">cssom/css.ts:386</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L386">cssom/css.ts:386</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

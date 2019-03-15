@@ -48,7 +48,7 @@ title: External module &quot;visua&quot;
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/visua.ts#L88">visua.ts:88</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/visua.ts#L88">visua.ts:88</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

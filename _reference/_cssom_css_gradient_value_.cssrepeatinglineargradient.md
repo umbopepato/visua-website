@@ -63,7 +63,7 @@ title: Class CSSRepeatingLinearGradient
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L62">cssom/css-gradient-value.ts:62</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L62">cssom/css-gradient-value.ts:62</a></small>
 </div>
 </aside>
 
@@ -97,7 +97,7 @@ title: Class CSSRepeatingLinearGradient
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L64">cssom/css-gradient-value.ts:64</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L64">cssom/css-gradient-value.ts:64</a></small>
 </div>
 </aside>
 

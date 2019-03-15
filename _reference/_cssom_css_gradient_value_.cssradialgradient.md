@@ -72,7 +72,7 @@ title: Class CSSRadialGradient
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L80">cssom/css-gradient-value.ts:80</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L80">cssom/css-gradient-value.ts:80</a></small>
 </div>
 </aside>
 
@@ -111,7 +111,7 @@ title: Class CSSRadialGradient
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L78">cssom/css-gradient-value.ts:78</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L78">cssom/css-gradient-value.ts:78</a></small>
 </div>
 </aside>
 
@@ -129,7 +129,7 @@ title: Class CSSRadialGradient
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L80">cssom/css-gradient-value.ts:80</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L80">cssom/css-gradient-value.ts:80</a></small>
 </div>
 </aside>
 
@@ -147,7 +147,7 @@ title: Class CSSRadialGradient
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L79">cssom/css-gradient-value.ts:79</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L79">cssom/css-gradient-value.ts:79</a></small>
 </div>
 </aside>
 
@@ -165,7 +165,7 @@ title: Class CSSRadialGradient
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L82">cssom/css-gradient-value.ts:82</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L82">cssom/css-gradient-value.ts:82</a></small>
 </div>
 </aside>
 
@@ -190,7 +190,7 @@ title: Class CSSRadialGradient
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/dbefde1/src/cssom/css-gradient-value.ts#L108">cssom/css-gradient-value.ts:108</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L108">cssom/css-gradient-value.ts:108</a></small>
 </div>
 </aside>
 

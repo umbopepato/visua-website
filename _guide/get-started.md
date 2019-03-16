@@ -4,24 +4,19 @@ index: 0
 ---
 #### Prerequisites
 
-This guide assumes your environment is already set up with [node.js](https://nodejs.org) and [npm](https://npmjs.org).
+Be sure to have a recent version of [node.js](https://nodejs.org) and [npm](https://npmjs.org) installed.
 
 #### Install
 
-In most cases installing visua globally is fine:
+Install visua as a devDependency in your project:
 
 ```bash
-$ npm install -g visua
+$ npm i -D visua
 ```
 
-however if you plan to use it in environments other than your computer (for example in your CI/CD pipelines) installing
-it locally is the preferred way:
+(if necessary, initialize an npm package with `npm init`).
 
-```bash
-$ npm install visua
-```
-
-#### Create your first identity file
+#### Identity files
 
 The first step in using visua is creating an `identity.css` file in your project root.
 A visua identity file is nothing more than a standard css file made of only css variables, possibly combined.
@@ -42,21 +37,19 @@ bootstrap scss theme for your website. A basic identity file could be the follow
 #### Run a plugin
 
 Now that you have a basic set of variables it's time to run a plugin to build the theme starting from that file.  
-`visua-bootstrap` is a basic plugin that maps a set of commonly used variables to bootstrap scss variables and creates
+`visua-bootstrap` is a basic plugin that maps a set of variables to bootstrap scss variables and creates
 for you a `variables.scss` file that you can later use to build your themed bootstrap.
 
 First install the plugin:
 
 ```bash
-$ npm install visua-bootstrap
+$ npm i -D visua-bootstrap
 ```
-
-note that all visua plugins are npm packages that start with `visua-`.
 
 Now run the plugin using the visua CLI (be sure to be in the same directory where `identity.css` is, otherwise `cd` there):
 
 ```bash
-$ visua run bootstrap
+$ npx visua run bootstrap
 ```
 
 This should have created a `variables.scss` file in the same directory that looks like this:

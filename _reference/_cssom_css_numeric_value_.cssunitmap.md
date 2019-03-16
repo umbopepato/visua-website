@@ -264,7 +264,7 @@ Returns an iterable of key, value pairs for every entry in the map.
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L11">cssom/css-numeric-value.ts:11</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L11">cssom/css-numeric-value.ts:11</a></small>
 </div>
 </aside>
 

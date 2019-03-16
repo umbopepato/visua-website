@@ -6,6 +6,26 @@ modelUrl: ./_cssom_css_border_value_.cssbordervalue.md
 moduleUrl: _cssom_css_border_value_
 title: Class CSSBorderValue
 ---
+<section class="tsd-panel tsd-comment">
+<div class="pt-1 tsd-comment">
+<div markdown="1">
+Represents a CSS border value like the one used in `border` properties.
+</div>
+<div markdown="1">
+**Syntax**
+```
+[<length>] <identifier> <color>
+```
+
+**Examples**
+```
+--border: 1px solid black;
+--border: 4px dotted #CCC;
+```
+
+</div>
+</div>
+</section>
 
 
 <section class="pt-2 tsd-panel tsd-hierarchy">
@@ -73,7 +93,7 @@ title: Class CSSBorderValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L33">cssom/css-border-value.ts:33</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L50">cssom/css-border-value.ts:50</a></small>
 </div>
 </aside>
 
@@ -107,7 +127,7 @@ title: Class CSSBorderValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L33">cssom/css-border-value.ts:33</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L50">cssom/css-border-value.ts:50</a></small>
 </div>
 </aside>
 
@@ -125,7 +145,7 @@ title: Class CSSBorderValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L20">cssom/css-border-value.ts:20</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L37">cssom/css-border-value.ts:37</a></small>
 </div>
 </aside>
 
@@ -143,7 +163,7 @@ title: Class CSSBorderValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L18">cssom/css-border-value.ts:18</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L35">cssom/css-border-value.ts:35</a></small>
 </div>
 </aside>
 
@@ -161,7 +181,7 @@ title: Class CSSBorderValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L21">cssom/css-border-value.ts:21</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L38">cssom/css-border-value.ts:38</a></small>
 </div>
 </aside>
 
@@ -179,7 +199,7 @@ title: Class CSSBorderValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L19">cssom/css-border-value.ts:19</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L36">cssom/css-border-value.ts:36</a></small>
 </div>
 </aside>
 
@@ -204,9 +224,14 @@ title: Class CSSBorderValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L48">cssom/css-border-value.ts:48</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L68">cssom/css-border-value.ts:68</a></small>
 </div>
 </aside>
+<div class="pt-1 tsd-comment">
+<div markdown="1">
+Serializes the `CSSBorderValue` to standard CSS
+</div>
+</div>
 
 
 

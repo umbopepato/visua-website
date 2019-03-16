@@ -2,7 +2,7 @@
   <div class="row">
     <div class="col">
       <div class="d-flex flex-row align-items-center">
-        <img src="{{ site.url }}/img/secondary-logo-gray.svg" style="width: 30px; height: 30px;">
+        <img src="{{ '/assets/img/secondary-logo-gray.svg' | relative_url }}" style="width: 30px; height: 30px;">
         <span class="pl-2">Visua</span>
       </div>
     </div>
@@ -12,11 +12,11 @@
       {% endfor %}
       <a href="https://github.com/umbopepato/visua" target="_blank">See on GitHub</a>
     </div>
-    <div class="col d-flex flex-column">
+    <div class="col d-none d-md-flex flex-column">
       <a href="https://www.npmjs.com/search?q=keywords:visua-plugin" target="_blank">Browse plugins</a>
       <a href="{{ site.url }}/guide/writing-plugins">Writing plugins</a>
     </div>
-    <div class="col">
+    <div class="col d-none d-md-flex">
 
     </div>
   </div>

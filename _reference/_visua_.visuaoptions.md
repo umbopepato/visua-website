@@ -49,7 +49,7 @@ title: Interface VisuaOptions
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/visua.ts#L43">visua.ts:43</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/visua.ts#L41">visua.ts:41</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -72,7 +72,7 @@ The path to the main identity file or to the directory containing it
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/visua.ts#L48">visua.ts:48</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/visua.ts#L46">visua.ts:46</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

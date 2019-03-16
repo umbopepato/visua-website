@@ -52,7 +52,7 @@ title: Interface CSSUnitData
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L56">cssom/css.ts:56</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L56">cssom/css.ts:56</a></small>
 </div>
 </aside>
 
@@ -70,7 +70,7 @@ title: Interface CSSUnitData
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L55">cssom/css.ts:55</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L55">cssom/css.ts:55</a></small>
 </div>
 </aside>
 
@@ -88,7 +88,7 @@ title: Interface CSSUnitData
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L52">cssom/css.ts:52</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L52">cssom/css.ts:52</a></small>
 </div>
 </aside>
 
@@ -106,7 +106,7 @@ title: Interface CSSUnitData
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L53">cssom/css.ts:53</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L53">cssom/css.ts:53</a></small>
 </div>
 </aside>
 
@@ -124,7 +124,7 @@ title: Interface CSSUnitData
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L54">cssom/css.ts:54</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L54">cssom/css.ts:54</a></small>
 </div>
 </aside>
 

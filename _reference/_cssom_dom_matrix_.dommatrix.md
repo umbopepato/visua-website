@@ -121,7 +121,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#constructor">constructor</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L221">cssom/dom-matrix.ts:221</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L221">cssom/dom-matrix.ts:221</a></small>
 </div>
 </aside>
 
@@ -156,7 +156,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#a">a</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L201">cssom/dom-matrix.ts:201</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L201">cssom/dom-matrix.ts:201</a></small>
 </div>
 </aside>
 
@@ -175,7 +175,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#b">b</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L200">cssom/dom-matrix.ts:200</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L200">cssom/dom-matrix.ts:200</a></small>
 </div>
 </aside>
 
@@ -194,7 +194,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#c">c</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L202">cssom/dom-matrix.ts:202</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L202">cssom/dom-matrix.ts:202</a></small>
 </div>
 </aside>
 
@@ -213,7 +213,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#d">d</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L203">cssom/dom-matrix.ts:203</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L203">cssom/dom-matrix.ts:203</a></small>
 </div>
 </aside>
 
@@ -232,7 +232,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#e">e</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L204">cssom/dom-matrix.ts:204</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L204">cssom/dom-matrix.ts:204</a></small>
 </div>
 </aside>
 
@@ -251,7 +251,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#f">f</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L205">cssom/dom-matrix.ts:205</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L205">cssom/dom-matrix.ts:205</a></small>
 </div>
 </aside>
 
@@ -270,7 +270,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#is2d">is2D</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L28">cssom/dom-matrix.ts:28</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L28">cssom/dom-matrix.ts:28</a></small>
 </div>
 </aside>
 
@@ -289,7 +289,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m11">m11</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L206">cssom/dom-matrix.ts:206</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L206">cssom/dom-matrix.ts:206</a></small>
 </div>
 </aside>
 
@@ -308,7 +308,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m12">m12</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L207">cssom/dom-matrix.ts:207</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L207">cssom/dom-matrix.ts:207</a></small>
 </div>
 </aside>
 
@@ -327,7 +327,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m13">m13</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L208">cssom/dom-matrix.ts:208</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L208">cssom/dom-matrix.ts:208</a></small>
 </div>
 </aside>
 
@@ -346,7 +346,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m14">m14</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L209">cssom/dom-matrix.ts:209</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L209">cssom/dom-matrix.ts:209</a></small>
 </div>
 </aside>
 
@@ -365,7 +365,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m21">m21</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L210">cssom/dom-matrix.ts:210</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L210">cssom/dom-matrix.ts:210</a></small>
 </div>
 </aside>
 
@@ -384,7 +384,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m22">m22</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L211">cssom/dom-matrix.ts:211</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L211">cssom/dom-matrix.ts:211</a></small>
 </div>
 </aside>
 
@@ -403,7 +403,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m23">m23</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L212">cssom/dom-matrix.ts:212</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L212">cssom/dom-matrix.ts:212</a></small>
 </div>
 </aside>
 
@@ -422,7 +422,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m24">m24</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L213">cssom/dom-matrix.ts:213</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L213">cssom/dom-matrix.ts:213</a></small>
 </div>
 </aside>
 
@@ -441,7 +441,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m31">m31</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L214">cssom/dom-matrix.ts:214</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L214">cssom/dom-matrix.ts:214</a></small>
 </div>
 </aside>
 
@@ -460,7 +460,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m32">m32</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L215">cssom/dom-matrix.ts:215</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L215">cssom/dom-matrix.ts:215</a></small>
 </div>
 </aside>
 
@@ -479,7 +479,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m33">m33</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L216">cssom/dom-matrix.ts:216</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L216">cssom/dom-matrix.ts:216</a></small>
 </div>
 </aside>
 
@@ -498,7 +498,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m34">m34</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L217">cssom/dom-matrix.ts:217</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L217">cssom/dom-matrix.ts:217</a></small>
 </div>
 </aside>
 
@@ -517,7 +517,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m41">m41</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L218">cssom/dom-matrix.ts:218</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L218">cssom/dom-matrix.ts:218</a></small>
 </div>
 </aside>
 
@@ -536,7 +536,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m42">m42</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L219">cssom/dom-matrix.ts:219</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L219">cssom/dom-matrix.ts:219</a></small>
 </div>
 </aside>
 
@@ -555,7 +555,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m43">m43</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L220">cssom/dom-matrix.ts:220</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L220">cssom/dom-matrix.ts:220</a></small>
 </div>
 </aside>
 
@@ -574,7 +574,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#m44">m44</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L221">cssom/dom-matrix.ts:221</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L221">cssom/dom-matrix.ts:221</a></small>
 </div>
 </aside>
 
@@ -601,7 +601,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#isidentity">isIdentity</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L30">cssom/dom-matrix.ts:30</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L30">cssom/dom-matrix.ts:30</a></small>
 </div>
 </aside>
 
@@ -632,7 +632,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#flipx">flipX</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L164">cssom/dom-matrix.ts:164</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L164">cssom/dom-matrix.ts:164</a></small>
 </div>
 </aside>
 
@@ -660,7 +660,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#flipy">flipY</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L170">cssom/dom-matrix.ts:170</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L170">cssom/dom-matrix.ts:170</a></small>
 </div>
 </aside>
 
@@ -688,7 +688,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#multiply">multiply</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L158">cssom/dom-matrix.ts:158</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L158">cssom/dom-matrix.ts:158</a></small>
 </div>
 </aside>
 
@@ -723,7 +723,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L233">cssom/dom-matrix.ts:233</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L233">cssom/dom-matrix.ts:233</a></small>
 </div>
 </aside>
 
@@ -758,7 +758,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L252">cssom/dom-matrix.ts:252</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L252">cssom/dom-matrix.ts:252</a></small>
 </div>
 </aside>
 
@@ -794,7 +794,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#rotate">rotate</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L128">cssom/dom-matrix.ts:128</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L128">cssom/dom-matrix.ts:128</a></small>
 </div>
 </aside>
 
@@ -840,7 +840,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#rotateaxisangle">rotateAxisAngle</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L140">cssom/dom-matrix.ts:140</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L140">cssom/dom-matrix.ts:140</a></small>
 </div>
 </aside>
 
@@ -890,7 +890,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L316">cssom/dom-matrix.ts:316</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L316">cssom/dom-matrix.ts:316</a></small>
 </div>
 </aside>
 
@@ -941,7 +941,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#rotatefromvector">rotateFromVector</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L134">cssom/dom-matrix.ts:134</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L134">cssom/dom-matrix.ts:134</a></small>
 </div>
 </aside>
 
@@ -981,7 +981,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L303">cssom/dom-matrix.ts:303</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L303">cssom/dom-matrix.ts:303</a></small>
 </div>
 </aside>
 
@@ -1021,7 +1021,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L290">cssom/dom-matrix.ts:290</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L290">cssom/dom-matrix.ts:290</a></small>
 </div>
 </aside>
 
@@ -1067,7 +1067,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#scale">scale</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L110">cssom/dom-matrix.ts:110</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L110">cssom/dom-matrix.ts:110</a></small>
 </div>
 </aside>
 
@@ -1113,7 +1113,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#scale3d">scale3d</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L116">cssom/dom-matrix.ts:116</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L116">cssom/dom-matrix.ts:116</a></small>
 </div>
 </aside>
 
@@ -1163,7 +1163,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L272">cssom/dom-matrix.ts:272</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L272">cssom/dom-matrix.ts:272</a></small>
 </div>
 </aside>
 
@@ -1214,7 +1214,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#scalenonuniform">scaleNonUniform</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L122">cssom/dom-matrix.ts:122</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L122">cssom/dom-matrix.ts:122</a></small>
 </div>
 </aside>
 
@@ -1274,7 +1274,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L281">cssom/dom-matrix.ts:281</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L281">cssom/dom-matrix.ts:281</a></small>
 </div>
 </aside>
 
@@ -1334,7 +1334,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L263">cssom/dom-matrix.ts:263</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L263">cssom/dom-matrix.ts:263</a></small>
 </div>
 </aside>
 
@@ -1380,7 +1380,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#skewx">skewX</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L146">cssom/dom-matrix.ts:146</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L146">cssom/dom-matrix.ts:146</a></small>
 </div>
 </aside>
 
@@ -1415,7 +1415,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L338">cssom/dom-matrix.ts:338</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L338">cssom/dom-matrix.ts:338</a></small>
 </div>
 </aside>
 
@@ -1451,7 +1451,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#skewy">skewY</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L152">cssom/dom-matrix.ts:152</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L152">cssom/dom-matrix.ts:152</a></small>
 </div>
 </aside>
 
@@ -1486,7 +1486,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L345">cssom/dom-matrix.ts:345</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L345">cssom/dom-matrix.ts:345</a></small>
 </div>
 </aside>
 
@@ -1522,7 +1522,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#toarray">toArray</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L176">cssom/dom-matrix.ts:176</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L176">cssom/dom-matrix.ts:176</a></small>
 </div>
 </aside>
 
@@ -1550,7 +1550,7 @@ title: Class DOMMatrix
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_dom_matrix_.dommatrixreadonly/">DOMMatrixReadOnly</a>.<a href="../_cssom_dom_matrix_.dommatrixreadonly/#translate">translate</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L104">cssom/dom-matrix.ts:104</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L104">cssom/dom-matrix.ts:104</a></small>
 </div>
 </aside>
 
@@ -1595,7 +1595,7 @@ title: Class DOMMatrix
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/dom-matrix.ts#L256">cssom/dom-matrix.ts:256</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/dom-matrix.ts#L256">cssom/dom-matrix.ts:256</a></small>
 </div>
 </aside>
 

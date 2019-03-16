@@ -50,7 +50,7 @@ title: Interface CSSRadialGradientDimensions
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-gradient-value.ts#L73">cssom/css-gradient-value.ts:73</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L73">cssom/css-gradient-value.ts:73</a></small>
 </div>
 </aside>
 
@@ -68,7 +68,7 @@ title: Interface CSSRadialGradientDimensions
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-gradient-value.ts#L71">cssom/css-gradient-value.ts:71</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L71">cssom/css-gradient-value.ts:71</a></small>
 </div>
 </aside>
 
@@ -86,7 +86,7 @@ title: Interface CSSRadialGradientDimensions
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-gradient-value.ts#L72">cssom/css-gradient-value.ts:72</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L72">cssom/css-gradient-value.ts:72</a></small>
 </div>
 </aside>
 

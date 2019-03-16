@@ -69,7 +69,7 @@ title: Class CSSOpacityFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-filter-value.ts#L110">cssom/css-filter-value.ts:110</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L110">cssom/css-filter-value.ts:110</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSOpacityFilter
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-filter-value.ts#L112">cssom/css-filter-value.ts:112</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L112">cssom/css-filter-value.ts:112</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSOpacityFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-filter-value.ts#L119">cssom/css-filter-value.ts:119</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L119">cssom/css-filter-value.ts:119</a></small>
 </div>
 </aside>
 

@@ -41,14 +41,14 @@ title: External module &quot;visua&quot;
 </div>
 
 <ul class="tsd-signatures tsd-kind-function tsd-parent-kind-external-module">
-<li class="tsd-signature tsd-kind-icon">visua<span class="tsd-signature-symbol">(</span>options<span class="tsd-signature-symbol">?: </span><a href="../_visua_.visuaoptions/" class="tsd-signature-type">VisuaOptions</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a><span class="tsd-signature-symbol">&gt;</span></li>
+<li class="tsd-signature tsd-kind-icon">visua<span class="tsd-signature-symbol">(</span>options<span class="tsd-signature-symbol">?: </span><a href="../_visua_.visuaoptions/" class="tsd-signature-type">VisuaOptions</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a></li>
 </ul>
 
 <ul class="tsd-descriptions">
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/visua.ts#L90">visua.ts:90</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/visua.ts#L88">visua.ts:88</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -60,7 +60,7 @@ If called without options, the `visua` method searches for a file named exactly
 identity.css in the current working directory:
 
 ```typescript
-const styleMap = await visua();
+const styleMap = visua();
 ```
 
 The path option can be used to specify a relative path to a directory containing
@@ -68,14 +68,14 @@ the file identity.css or to a specific file.
 
 The following example searches for a file named identity.css in cwd/subdir:
 ```typescript
-const styleMap = await visua({
+const styleMap = visua({
     path: 'subdir',
 });
 ```
 
 The following example loads a file named main.css in subdir subdirectory:
 ```typescript
-const styleMap = await visua({
+const styleMap = visua({
     path: 'subdir/main.css',
 });
 ```
@@ -83,7 +83,7 @@ const styleMap = await visua({
 The strict option can be used to terminate the process on parse errors,
 otherwise Visua will try to recover from soft errors in the css:
 ```typescript
-const styleMap = await visua({
+const styleMap = visua({
     path: 'subdir/main.css',
     strict: true,
 });
@@ -107,10 +107,10 @@ Visua options
 </li>
 </ul>
 
-<strong>Returns <span class="tsd-signature-type">Promise</span><span class="tsd-signature-symbol">&lt;</span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a><span class="tsd-signature-symbol">&gt;</span></strong>
+<strong>Returns <a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a></strong>
 
 <div class="pt-1" markdown="1">
-A Promise that resolves with the generated StyleMap
+The generated StyleMap
 
 </div>
 

@@ -71,7 +71,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L32">cssom/css.ts:32</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L32">cssom/css.ts:32</a></small>
 </div>
 </aside>
 
@@ -89,7 +89,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L9">cssom/css.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L9">cssom/css.ts:9</a></small>
 </div>
 </aside>
 
@@ -107,7 +107,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L15">cssom/css.ts:15</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L15">cssom/css.ts:15</a></small>
 </div>
 </aside>
 
@@ -125,7 +125,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L7">cssom/css.ts:7</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L7">cssom/css.ts:7</a></small>
 </div>
 </aside>
 
@@ -143,7 +143,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L27">cssom/css.ts:27</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L27">cssom/css.ts:27</a></small>
 </div>
 </aside>
 
@@ -161,7 +161,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L36">cssom/css.ts:36</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L36">cssom/css.ts:36</a></small>
 </div>
 </aside>
 
@@ -179,7 +179,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L35">cssom/css.ts:35</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L35">cssom/css.ts:35</a></small>
 </div>
 </aside>
 
@@ -197,7 +197,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L34">cssom/css.ts:34</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L34">cssom/css.ts:34</a></small>
 </div>
 </aside>
 
@@ -215,7 +215,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L13">cssom/css.ts:13</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L13">cssom/css.ts:13</a></small>
 </div>
 </aside>
 
@@ -233,7 +233,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L14">cssom/css.ts:14</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L14">cssom/css.ts:14</a></small>
 </div>
 </aside>
 
@@ -251,7 +251,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L37">cssom/css.ts:37</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L37">cssom/css.ts:37</a></small>
 </div>
 </aside>
 
@@ -269,7 +269,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L28">cssom/css.ts:28</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L28">cssom/css.ts:28</a></small>
 </div>
 </aside>
 
@@ -287,7 +287,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L16">cssom/css.ts:16</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L16">cssom/css.ts:16</a></small>
 </div>
 </aside>
 
@@ -305,7 +305,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L10">cssom/css.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L10">cssom/css.ts:10</a></small>
 </div>
 </aside>
 
@@ -323,7 +323,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L33">cssom/css.ts:33</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L33">cssom/css.ts:33</a></small>
 </div>
 </aside>
 
@@ -341,7 +341,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L18">cssom/css.ts:18</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L18">cssom/css.ts:18</a></small>
 </div>
 </aside>
 
@@ -359,7 +359,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L8">cssom/css.ts:8</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L8">cssom/css.ts:8</a></small>
 </div>
 </aside>
 
@@ -377,7 +377,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L31">cssom/css.ts:31</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L31">cssom/css.ts:31</a></small>
 </div>
 </aside>
 
@@ -395,7 +395,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L4">cssom/css.ts:4</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L4">cssom/css.ts:4</a></small>
 </div>
 </aside>
 
@@ -413,7 +413,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L11">cssom/css.ts:11</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L11">cssom/css.ts:11</a></small>
 </div>
 </aside>
 
@@ -431,7 +431,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L5">cssom/css.ts:5</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L5">cssom/css.ts:5</a></small>
 </div>
 </aside>
 
@@ -449,7 +449,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L12">cssom/css.ts:12</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L12">cssom/css.ts:12</a></small>
 </div>
 </aside>
 
@@ -467,7 +467,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L6">cssom/css.ts:6</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L6">cssom/css.ts:6</a></small>
 </div>
 </aside>
 
@@ -485,7 +485,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L26">cssom/css.ts:26</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L26">cssom/css.ts:26</a></small>
 </div>
 </aside>
 
@@ -503,7 +503,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L17">cssom/css.ts:17</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L17">cssom/css.ts:17</a></small>
 </div>
 </aside>
 
@@ -521,7 +521,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L19">cssom/css.ts:19</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L19">cssom/css.ts:19</a></small>
 </div>
 </aside>
 
@@ -539,7 +539,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L30">cssom/css.ts:30</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L30">cssom/css.ts:30</a></small>
 </div>
 </aside>
 
@@ -557,7 +557,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L29">cssom/css.ts:29</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L29">cssom/css.ts:29</a></small>
 </div>
 </aside>
 
@@ -575,7 +575,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L23">cssom/css.ts:23</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L23">cssom/css.ts:23</a></small>
 </div>
 </aside>
 
@@ -593,7 +593,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L21">cssom/css.ts:21</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L21">cssom/css.ts:21</a></small>
 </div>
 </aside>
 
@@ -611,7 +611,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L22">cssom/css.ts:22</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L22">cssom/css.ts:22</a></small>
 </div>
 </aside>
 
@@ -629,7 +629,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L25">cssom/css.ts:25</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L25">cssom/css.ts:25</a></small>
 </div>
 </aside>
 
@@ -647,7 +647,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L24">cssom/css.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L24">cssom/css.ts:24</a></small>
 </div>
 </aside>
 
@@ -665,7 +665,7 @@ title: Enumeration CSSUnit
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css.ts#L20">cssom/css.ts:20</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css.ts#L20">cssom/css.ts:20</a></small>
 </div>
 </aside>
 

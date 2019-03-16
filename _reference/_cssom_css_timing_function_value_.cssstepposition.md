@@ -39,7 +39,7 @@ title: Enumeration CSSStepPosition
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-timing-function-value.ts#L19">cssom/css-timing-function-value.ts:19</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L19">cssom/css-timing-function-value.ts:19</a></small>
 </div>
 </aside>
 
@@ -57,7 +57,7 @@ title: Enumeration CSSStepPosition
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-timing-function-value.ts#L18">cssom/css-timing-function-value.ts:18</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L18">cssom/css-timing-function-value.ts:18</a></small>
 </div>
 </aside>
 

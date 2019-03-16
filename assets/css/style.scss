@@ -2,7 +2,7 @@
 ---
 
 @import 'bootstrap';
-@import '../_sass/tsd-theme';
+@import 'tsd-theme';
 
 .btn-translucent {
   background: rgba(255, 255, 255, 0.08);
@@ -29,6 +29,10 @@
   max-width: 600px;
 }
 
+.mw-900 {
+  max-width: 900px;
+}
+
 .navbar-brand img {
   width: 40px;
   height: 40px;
@@ -40,8 +44,13 @@
   transition: color .3s ease;
 
   &:hover {
+    outline: none;
     color: rgba(255, 255, 255, 0.8);
   }
+}
+
+.navbar-nav ul {
+  padding-left: 16px;
 }
 
 .btn-light {
@@ -124,15 +133,39 @@ h6:hover .h-anchor {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$primary}', endColorstr='#{$secondary}', GradientType=0);
 }
 
-.bg-gradient {
-  @include bg-gradient;
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+    .bg#{$infix}-gradient {
+      @include bg-gradient;
+    }
+    .bg#{$infix}-none {
+      background: none;
+    }
+  }
 }
 
-.bg-gradient-dynamic {
-  --sidenav-height: 300px;
-  @include bg-gradient;
+@include media-breakpoint-down(sm) {
+  header.expand {
+    padding-bottom: 100px;
+  }
+  main.overlap {
+    margin-top: -100px;
+  }
+}
+
+.lh-1 {
+  line-height: 1;
+}
+
+[data-contain] {
+  background-size: 100% 0;
   background-repeat: no-repeat;
-  background-size: 100% var(--sidenav-height);
+}
+
+.alert-light {
+  background: $gray-700;
+  border: 1px solid $gray-500;
 }
 
 footer {

@@ -82,7 +82,7 @@ title: Class CSSMathProduct
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L498">cssom/css-numeric-value.ts:498</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L498">cssom/css-numeric-value.ts:498</a></small>
 </div>
 </aside>
 
@@ -117,7 +117,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssmathvalue/">CSSMathValue</a>.<a href="../_cssom_css_numeric_value_.cssmathvalue/#operator">operator</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L465">cssom/css-numeric-value.ts:465</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L465">cssom/css-numeric-value.ts:465</a></small>
 </div>
 </aside>
 
@@ -136,7 +136,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#type">type</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L24">cssom/css-numeric-value.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L24">cssom/css-numeric-value.ts:24</a></small>
 </div>
 </aside>
 
@@ -154,7 +154,7 @@ title: Class CSSMathProduct
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L499">cssom/css-numeric-value.ts:499</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L499">cssom/css-numeric-value.ts:499</a></small>
 </div>
 </aside>
 
@@ -180,7 +180,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#add">add</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L26">cssom/css-numeric-value.ts:26</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L26">cssom/css-numeric-value.ts:26</a></small>
 </div>
 </aside>
 
@@ -216,7 +216,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#createtype">createType</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L327">cssom/css-numeric-value.ts:327</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L327">cssom/css-numeric-value.ts:327</a></small>
 </div>
 </aside>
 
@@ -252,7 +252,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#div">div</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L76">cssom/css-numeric-value.ts:76</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L76">cssom/css-numeric-value.ts:76</a></small>
 </div>
 </aside>
 
@@ -288,7 +288,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#equals">equals</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L123">cssom/css-numeric-value.ts:123</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L123">cssom/css-numeric-value.ts:123</a></small>
 </div>
 </aside>
 
@@ -324,7 +324,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#max">max</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L102">cssom/css-numeric-value.ts:102</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L102">cssom/css-numeric-value.ts:102</a></small>
 </div>
 </aside>
 
@@ -360,7 +360,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#min">min</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L81">cssom/css-numeric-value.ts:81</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L81">cssom/css-numeric-value.ts:81</a></small>
 </div>
 </aside>
 
@@ -396,7 +396,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#mul">mul</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L52">cssom/css-numeric-value.ts:52</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L52">cssom/css-numeric-value.ts:52</a></small>
 </div>
 </aside>
 
@@ -432,7 +432,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#multiplyunitmaps">multiplyUnitMaps</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L434">cssom/css-numeric-value.ts:434</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L434">cssom/css-numeric-value.ts:434</a></small>
 </div>
 </aside>
 
@@ -473,7 +473,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#solve">solve</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L162">cssom/css-numeric-value.ts:162</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L162">cssom/css-numeric-value.ts:162</a></small>
 </div>
 </aside>
 
@@ -501,7 +501,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#sub">sub</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L47">cssom/css-numeric-value.ts:47</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L47">cssom/css-numeric-value.ts:47</a></small>
 </div>
 </aside>
 
@@ -537,7 +537,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#to">to</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L152">cssom/css-numeric-value.ts:152</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L152">cssom/css-numeric-value.ts:152</a></small>
 </div>
 </aside>
 
@@ -573,7 +573,7 @@ title: Class CSSMathProduct
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_numeric_value_.cssnumericvalue/">CSSNumericValue</a>.<a href="../_cssom_css_numeric_value_.cssnumericvalue/#rectifynumberishvalue">rectifyNumberishValue</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-numeric-value.ts#L174">cssom/css-numeric-value.ts:174</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-numeric-value.ts#L174">cssom/css-numeric-value.ts:174</a></small>
 </div>
 </aside>
 

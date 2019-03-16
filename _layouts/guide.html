@@ -6,22 +6,22 @@
 
   <title>{{ page.title }} | Visua</title>
 
-  <script src="{{ site.url }}/js/dynamic-bg.js"></script>
+  <script src="{{ '/assets/js/contain-sizing.js' | relative_url }}"></script>
 </head>
-<body class="bg-gradient-dynamic">
+<body class="bg-none bg-md-gradient" data-contain="#sidenav">
 
 {% assign guidePages = site.guide | sort: 'index' %}
 {% assign guidesCount = site.guide | size %}
-<header>
+
+<header class="bg-gradient bg-md-none expand">
   {% include navbar.html %}
 </header>
 
-<main role="main">
+<main role="main" class="overlap">
   <div class="container">
-
     <div class="row">
       <div class="col-md-3 d-none d-md-block">
-        <div class="sidenav py-md-4">
+        <div class="sidenav py-md-4" id="sidenav">
           <h5 class="text-light">Guide</h5>
           <ul class="nav flex-column text-light">
             {% for guidePage in guidePages %}
@@ -40,18 +40,18 @@
       </div>
 
       <div class="col-md-9">
-        <div class="d-flex flex-row align-items-center py-2">
-          <h3 class="flex-grow-1 text-light mb-0">{{ page.title }}</h3>
+        <div class="d-flex flex-row align-items-center py-3">
+          <h3 class="flex-grow-1 text-light mb-0 lh-1">{{ page.title }}</h3>
           <a class="btn btn-translucent" href="{{site.github.repository_url}}/blob/gh-pages/{{page.relative_path}}">
             <i class="fab fa-github"></i> Edit on GitHub
           </a>
         </div>
-        <div class="card p-4">
+        <div class="card page p-4">
 
           {% include anchor_headings.html html=content anchorBody='<i class="fas fa-link small"></i>'
           anchorClass="h-anchor" %}
 
-          <div class="d-flex flex-row align-items-center pt-5">
+          <div class="d-flex flex-row align-items-center pt-5 mt-auto">
 
             {% if page.index != 0 %}
             {% assign prevIndex = page.index | minus: 1 %}

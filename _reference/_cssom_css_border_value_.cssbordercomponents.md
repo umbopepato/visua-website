@@ -6,6 +6,13 @@ modelUrl: ./_cssom_css_border_value_.cssbordercomponents.md
 moduleUrl: _cssom_css_border_value_
 title: Interface CSSBorderComponents
 ---
+<section class="tsd-panel tsd-comment">
+<div class="pt-1 tsd-comment">
+<div markdown="1">
+The components of the border value
+</div>
+</div>
+</section>
 
 
 <section class="pt-2 tsd-panel tsd-hierarchy">
@@ -50,7 +57,7 @@ title: Interface CSSBorderComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L12">cssom/css-border-value.ts:12</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L15">cssom/css-border-value.ts:15</a></small>
 </div>
 </aside>
 
@@ -68,7 +75,7 @@ title: Interface CSSBorderComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L11">cssom/css-border-value.ts:11</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L14">cssom/css-border-value.ts:14</a></small>
 </div>
 </aside>
 
@@ -86,7 +93,7 @@ title: Interface CSSBorderComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-border-value.ts#L10">cssom/css-border-value.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L13">cssom/css-border-value.ts:13</a></small>
 </div>
 </aside>
 

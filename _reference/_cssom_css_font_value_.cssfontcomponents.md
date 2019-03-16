@@ -54,7 +54,7 @@ title: Interface CSSFontComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-font-value.ts#L14">cssom/css-font-value.ts:14</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L14">cssom/css-font-value.ts:14</a></small>
 </div>
 </aside>
 
@@ -72,7 +72,7 @@ title: Interface CSSFontComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-font-value.ts#L13">cssom/css-font-value.ts:13</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L13">cssom/css-font-value.ts:13</a></small>
 </div>
 </aside>
 
@@ -90,7 +90,7 @@ title: Interface CSSFontComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-font-value.ts#L12">cssom/css-font-value.ts:12</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L12">cssom/css-font-value.ts:12</a></small>
 </div>
 </aside>
 
@@ -108,7 +108,7 @@ title: Interface CSSFontComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-font-value.ts#L11">cssom/css-font-value.ts:11</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L11">cssom/css-font-value.ts:11</a></small>
 </div>
 </aside>
 
@@ -126,7 +126,7 @@ title: Interface CSSFontComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-font-value.ts#L8">cssom/css-font-value.ts:8</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L8">cssom/css-font-value.ts:8</a></small>
 </div>
 </aside>
 
@@ -144,7 +144,7 @@ title: Interface CSSFontComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-font-value.ts#L9">cssom/css-font-value.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L9">cssom/css-font-value.ts:9</a></small>
 </div>
 </aside>
 
@@ -162,7 +162,7 @@ title: Interface CSSFontComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/098ba6b/src/cssom/css-font-value.ts#L10">cssom/css-font-value.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-font-value.ts#L10">cssom/css-font-value.ts:10</a></small>
 </div>
 </aside>
 

@@ -6,22 +6,22 @@
 
   <title>{{ page.title }} | Visua</title>
 
-  <script src="{{ site.url }}/js/dynamic-bg.js"></script>
+  <script src="{{ '/assets/js/contain-sizing.js' | relative_url }}"></script>
 </head>
-<body class="bg-gradient-dynamic">
+<body class="bg-none bg-md-gradient" data-contain="#sidenav">
 
 {% assign referencePages = site.reference | where: "kind", "1" %}
 {% assign pagesCount = referencePages | size %}
-<header>
+<header class="bg-gradient bg-md-none expand">
   {% include navbar.html %}
 </header>
 
-<main role="main">
+<main role="main" class="overlap">
   <div class="container">
 
     <div class="row">
       <div class="col-md-3 d-none d-md-block">
-        <div class="sidenav py-md-4">
+        <div class="sidenav py-md-4" id="sidenav">
           <h5 class="text-light">Modules</h5>
           <ul class="nav flex-column text-light">
             {% assign sortedPages = referencePages | sort: "name" | reverse %}
@@ -29,7 +29,7 @@
             <li class="nav-item">
               {% assign pageName = referencePage.name | remove: "&quot;" %}
               {% if page.moduleUrl == referencePage.moduleUrl %}
-                {% assign pageIndex = forloop.index | minus: 1 %}
+              {% assign pageIndex = forloop.index | minus: 1 %}
               {% endif %}
               <a class="nav-link p-0 {% if page.moduleUrl == referencePage.moduleUrl %}active{% endif %}"
                  href="{{ referencePage.url }}">
@@ -46,7 +46,7 @@
       </div>
 
       <div class="col-md-9">
-        <h3 class="flex-grow-1 text-light mb-0 py-2">{{ page.title }}</h3>
+        <h3 class="flex-grow-1 text-light mb-0 py-3 lh-1">{{ page.title }}</h3>
         <div class="card p-4 page">
 
           {{ content }}

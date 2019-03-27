@@ -69,7 +69,7 @@ title: Class CSSKeywordsValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-keyword-value.ts#L3">cssom/css-keyword-value.ts:3</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-keyword-value.ts#L3">cssom/css-keyword-value.ts:3</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSKeywordsValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-keyword-value.ts#L5">cssom/css-keyword-value.ts:5</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-keyword-value.ts#L5">cssom/css-keyword-value.ts:5</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSKeywordsValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-keyword-value.ts#L9">cssom/css-keyword-value.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-keyword-value.ts#L9">cssom/css-keyword-value.ts:9</a></small>
 </div>
 </aside>
 

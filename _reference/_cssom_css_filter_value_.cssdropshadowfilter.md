@@ -69,7 +69,7 @@ title: Class CSSDropShadowFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L53">cssom/css-filter-value.ts:53</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L53">cssom/css-filter-value.ts:53</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSDropShadowFilter
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L55">cssom/css-filter-value.ts:55</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L55">cssom/css-filter-value.ts:55</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSDropShadowFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L59">cssom/css-filter-value.ts:59</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L59">cssom/css-filter-value.ts:59</a></small>
 </div>
 </aside>
 

@@ -69,7 +69,7 @@ title: Class CSSShadow
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L25">cssom/css-box-shadow-value.ts:25</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L25">cssom/css-box-shadow-value.ts:25</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSShadow
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L22">cssom/css-box-shadow-value.ts:22</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L22">cssom/css-box-shadow-value.ts:22</a></small>
 </div>
 </aside>
 
@@ -121,7 +121,7 @@ title: Class CSSShadow
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L24">cssom/css-box-shadow-value.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L24">cssom/css-box-shadow-value.ts:24</a></small>
 </div>
 </aside>
 
@@ -139,7 +139,7 @@ title: Class CSSShadow
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L19">cssom/css-box-shadow-value.ts:19</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L19">cssom/css-box-shadow-value.ts:19</a></small>
 </div>
 </aside>
 
@@ -157,7 +157,7 @@ title: Class CSSShadow
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L20">cssom/css-box-shadow-value.ts:20</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L20">cssom/css-box-shadow-value.ts:20</a></small>
 </div>
 </aside>
 
@@ -175,7 +175,7 @@ title: Class CSSShadow
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L21">cssom/css-box-shadow-value.ts:21</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L21">cssom/css-box-shadow-value.ts:21</a></small>
 </div>
 </aside>
 
@@ -193,7 +193,7 @@ title: Class CSSShadow
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L23">cssom/css-box-shadow-value.ts:23</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L23">cssom/css-box-shadow-value.ts:23</a></small>
 </div>
 </aside>
 
@@ -218,7 +218,7 @@ title: Class CSSShadow
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L39">cssom/css-box-shadow-value.ts:39</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L39">cssom/css-box-shadow-value.ts:39</a></small>
 </div>
 </aside>
 

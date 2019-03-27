@@ -75,7 +75,7 @@ title: Class CSSCubicBezierTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#constructor">constructor</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L38">cssom/css-timing-function-value.ts:38</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L38">cssom/css-timing-function-value.ts:38</a></small>
 </div>
 </aside>
 
@@ -125,7 +125,7 @@ title: Class CSSCubicBezierTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#type">type</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L24">cssom/css-timing-function-value.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L24">cssom/css-timing-function-value.ts:24</a></small>
 </div>
 </aside>
 
@@ -143,7 +143,7 @@ title: Class CSSCubicBezierTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
 </div>
 </aside>
 
@@ -161,7 +161,7 @@ title: Class CSSCubicBezierTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
 </div>
 </aside>
 
@@ -179,7 +179,7 @@ title: Class CSSCubicBezierTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
 </div>
 </aside>
 
@@ -197,7 +197,7 @@ title: Class CSSCubicBezierTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L40">cssom/css-timing-function-value.ts:40</a></small>
 </div>
 </aside>
 
@@ -223,7 +223,7 @@ title: Class CSSCubicBezierTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#is">is</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L28">cssom/css-timing-function-value.ts:28</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L28">cssom/css-timing-function-value.ts:28</a></small>
 </div>
 </aside>
 
@@ -259,7 +259,7 @@ title: Class CSSCubicBezierTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#tostring">toString</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L46">cssom/css-timing-function-value.ts:46</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L46">cssom/css-timing-function-value.ts:46</a></small>
 </div>
 </aside>
 

@@ -80,7 +80,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L48">cssom/css-rotate.ts:48</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L48">cssom/css-rotate.ts:48</a></small>
 </div>
 </aside>
 
@@ -129,7 +129,7 @@ title: Class CSSRotate
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L9">cssom/css-rotate.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L9">cssom/css-rotate.ts:9</a></small>
 </div>
 </aside>
 
@@ -155,7 +155,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L38">cssom/css-rotate.ts:38</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L38">cssom/css-rotate.ts:38</a></small>
 </div>
 </aside>
 
@@ -184,7 +184,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L14">cssom/css-rotate.ts:14</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L14">cssom/css-rotate.ts:14</a></small>
 </div>
 </aside>
 
@@ -200,7 +200,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L18">cssom/css-rotate.ts:18</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L18">cssom/css-rotate.ts:18</a></small>
 </div>
 </aside>
 
@@ -237,7 +237,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L22">cssom/css-rotate.ts:22</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L22">cssom/css-rotate.ts:22</a></small>
 </div>
 </aside>
 
@@ -253,7 +253,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L26">cssom/css-rotate.ts:26</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L26">cssom/css-rotate.ts:26</a></small>
 </div>
 </aside>
 
@@ -290,7 +290,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L30">cssom/css-rotate.ts:30</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L30">cssom/css-rotate.ts:30</a></small>
 </div>
 </aside>
 
@@ -306,7 +306,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L34">cssom/css-rotate.ts:34</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L34">cssom/css-rotate.ts:34</a></small>
 </div>
 </aside>
 
@@ -345,7 +345,7 @@ title: Class CSSRotate
 <aside class="tsd-sources pb-2">
 <div>Implementation of <a href="../_cssom_css_transform_value_.csstransformcomponent/">CSSTransformComponent</a>.<a href="../_cssom_css_transform_value_.csstransformcomponent/#tomatrix">toMatrix</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L42">cssom/css-rotate.ts:42</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L42">cssom/css-rotate.ts:42</a></small>
 </div>
 </aside>
 
@@ -372,7 +372,7 @@ title: Class CSSRotate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-rotate.ts#L69">cssom/css-rotate.ts:69</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-rotate.ts#L69">cssom/css-rotate.ts:69</a></small>
 </div>
 </aside>
 

@@ -69,7 +69,7 @@ title: Class CSSGrayscaleFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L65">cssom/css-filter-value.ts:65</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L65">cssom/css-filter-value.ts:65</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSGrayscaleFilter
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L67">cssom/css-filter-value.ts:67</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L67">cssom/css-filter-value.ts:67</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSGrayscaleFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L74">cssom/css-filter-value.ts:74</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L74">cssom/css-filter-value.ts:74</a></small>
 </div>
 </aside>
 

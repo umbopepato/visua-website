@@ -61,7 +61,7 @@ A base class to create Visua CLI plugins
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L41">plugin.ts:41</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/plugin.ts#L36">plugin.ts:36</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -100,14 +100,14 @@ static options: OptionsMap = {
 </div>
 
 <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class">
-<li class="tsd-signature tsd-kind-icon">run<span class="tsd-signature-symbol">(</span>styleMap<span class="tsd-signature-symbol">: </span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a>, options<span class="tsd-signature-symbol">: </span><a href="../_plugin_/#options" class="tsd-signature-type">Options</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
+<li class="tsd-signature tsd-kind-icon">run<span class="tsd-signature-symbol">(</span>styleMap<span class="tsd-signature-symbol">: </span><a href="../_cssom_style_map_.stylemap/" class="tsd-signature-type">StyleMap</a>, options<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">object</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
 </ul>
 
 <ul class="tsd-descriptions">
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L49">plugin.ts:49</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/plugin.ts#L44">plugin.ts:44</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -130,7 +130,7 @@ The StyleMap Visua generated from the loaded identity css files
 
 </li>
 <li>
-<div class="h6 mb-0">options: <a href="../_plugin_/#options" class="tsd-signature-type">Options</a></div>
+<div class="h6 mb-0">options: <span class="tsd-signature-type">object</span></div>
 
 <div class="pt-1 tsd-comment">
 <div markdown="1">
@@ -139,6 +139,13 @@ The initialized plugin options
 </div>
 </div>
 
+<ul class="tsd-parameters">
+<li class="tsd-parameter-index-signature">
+<code><span class="tsd-signature-symbol">[</span>key: <span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">]: </span><span class="tsd-signature-type">any</span></code>
+
+
+</li>
+</ul>
 </li>
 </ul>
 

@@ -53,7 +53,7 @@ title: Interface CSSShadowComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L11">cssom/css-box-shadow-value.ts:11</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L11">cssom/css-box-shadow-value.ts:11</a></small>
 </div>
 </aside>
 
@@ -71,7 +71,7 @@ title: Interface CSSShadowComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L13">cssom/css-box-shadow-value.ts:13</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L13">cssom/css-box-shadow-value.ts:13</a></small>
 </div>
 </aside>
 
@@ -89,7 +89,7 @@ title: Interface CSSShadowComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L8">cssom/css-box-shadow-value.ts:8</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L8">cssom/css-box-shadow-value.ts:8</a></small>
 </div>
 </aside>
 
@@ -107,7 +107,7 @@ title: Interface CSSShadowComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L9">cssom/css-box-shadow-value.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L9">cssom/css-box-shadow-value.ts:9</a></small>
 </div>
 </aside>
 
@@ -125,7 +125,7 @@ title: Interface CSSShadowComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L10">cssom/css-box-shadow-value.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L10">cssom/css-box-shadow-value.ts:10</a></small>
 </div>
 </aside>
 
@@ -143,7 +143,7 @@ title: Interface CSSShadowComponents
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-box-shadow-value.ts#L12">cssom/css-box-shadow-value.ts:12</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-box-shadow-value.ts#L12">cssom/css-box-shadow-value.ts:12</a></small>
 </div>
 </aside>
 

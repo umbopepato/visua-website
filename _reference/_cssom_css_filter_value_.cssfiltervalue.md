@@ -69,7 +69,7 @@ title: Class CSSFilterValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L155">cssom/css-filter-value.ts:155</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L155">cssom/css-filter-value.ts:155</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSFilterValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L157">cssom/css-filter-value.ts:157</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L157">cssom/css-filter-value.ts:157</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSFilterValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L161">cssom/css-filter-value.ts:161</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L161">cssom/css-filter-value.ts:161</a></small>
 </div>
 </aside>
 

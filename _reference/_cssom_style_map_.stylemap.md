@@ -64,7 +64,7 @@ The style map containing all the css variables defined in the parsed identity cs
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L79">cssom/style-map.ts:79</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L98">cssom/style-map.ts:98</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -141,12 +141,18 @@ The callback to run against each property
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L25">cssom/style-map.ts:25</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L29">cssom/style-map.ts:29</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
 <div markdown="1">
 Gets the CSSStyleValue given the corresponding property name
+</div>
+<div markdown="1">
+```typescript
+const primaryColor: CSSColorValue = styleMap.get('primary-color');
+```
+
 </div>
 </div>
 
@@ -190,12 +196,25 @@ The corresponding style value
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L37">cssom/style-map.ts:37</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L52">cssom/style-map.ts:52</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
 <div markdown="1">
 Gets the CSSStyleValues corresponding to the given array of property names
+</div>
+<div markdown="1">
+```typescript
+const values = styleMap.getAll(['primary-color', 'accent-color']);
+
+// In the values Object the keys correspond to the names of the variables
+// found in the styleMap. These are converted from hyphen-case to camel-case
+// so you don't have to use the bracket notation to access values and can
+// use destructuring declarations:
+
+const {primaryColor, secondaryColor} = styleMap.getAll(['primary-color', 'accent-color']);
+```
+
 </div>
 </div>
 
@@ -217,7 +236,7 @@ The array of property names
 <strong>Returns <span class="tsd-signature-type">object</span></strong>
 
 <div class="pt-1" markdown="1">
-The Object of found properties (the names are converted from hyphen-case to camel-case to allow for destructuring declarations)
+The Object of found properties
 
 </div>
 
@@ -239,19 +258,27 @@ The Object of found properties (the names are converted from hyphen-case to came
 </div>
 
 <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class">
-<li class="tsd-signature tsd-kind-icon">get<wbr>Similar<span class="tsd-signature-symbol">(</span>property<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">RegExp</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_style_map_.stylemapentry/" class="tsd-signature-type">StyleMapEntry</a><span class="tsd-signature-symbol">[]</span></li>
+<li class="tsd-signature tsd-kind-icon">get<wbr>Similar<span class="tsd-signature-symbol">(</span>regExp<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">RegExp</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_style_map_.stylemapentry/" class="tsd-signature-type">StyleMapEntry</a><span class="tsd-signature-symbol">[]</span></li>
 </ul>
 
 <ul class="tsd-descriptions">
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L53">cssom/style-map.ts:53</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L74">cssom/style-map.ts:74</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
 <div markdown="1">
 Gets the CSSStyleValues of the properties matching the given regex
+</div>
+<div markdown="1">
+```typescript
+const values = styleMap.getSimilar(/color$/);
+
+// All the variables with names ending with "color"
+```
+
 </div>
 </div>
 
@@ -259,7 +286,7 @@ Gets the CSSStyleValues of the properties matching the given regex
 <strong>Parameters</strong>
 <ul class="pl-3 pb-2 list-style-initial">
 <li>
-<div class="h6 mb-0">property: <span class="tsd-signature-type">RegExp</span></div>
+<div class="h6 mb-0">regExp: <span class="tsd-signature-type">RegExp</span></div>
 
 <div class="pt-1 tsd-comment">
 <div markdown="1">
@@ -295,7 +322,7 @@ An array of StyleMapEntries
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L88">cssom/style-map.ts:88</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L105">cssom/style-map.ts:105</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -327,7 +354,7 @@ Prints the StyleMap in a table
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/style-map.ts#L67">cssom/style-map.ts:67</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L89">cssom/style-map.ts:89</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

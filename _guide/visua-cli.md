@@ -4,17 +4,21 @@ index: 2
 ---
 
 Visua's npm package exposes a small CLI under the `visua` command for managing your projects, running and building
-plugins.
+plugins. To use the `visua` command everywhere you may want to install visua globally with the `-g` flag.
 
 #### Global options
 
 The following global options can be prepended to `list` and `run` commands:
+
+**Strict**
 
 ```
 -s or --strict
 ``` 
 
 Stops visua execution if some error has occurred during parsing.
+
+**Path**
 
 ```
 -p or --path [identityFilePath]

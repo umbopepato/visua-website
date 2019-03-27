@@ -47,7 +47,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L12">cssom/css-timing-function-value.ts:12</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L12">cssom/css-timing-function-value.ts:12</a></small>
 </div>
 </aside>
 
@@ -65,7 +65,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L5">cssom/css-timing-function-value.ts:5</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L5">cssom/css-timing-function-value.ts:5</a></small>
 </div>
 </aside>
 
@@ -83,7 +83,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L6">cssom/css-timing-function-value.ts:6</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L6">cssom/css-timing-function-value.ts:6</a></small>
 </div>
 </aside>
 
@@ -101,7 +101,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L8">cssom/css-timing-function-value.ts:8</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L8">cssom/css-timing-function-value.ts:8</a></small>
 </div>
 </aside>
 
@@ -119,7 +119,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L7">cssom/css-timing-function-value.ts:7</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L7">cssom/css-timing-function-value.ts:7</a></small>
 </div>
 </aside>
 
@@ -137,7 +137,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L14">cssom/css-timing-function-value.ts:14</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L14">cssom/css-timing-function-value.ts:14</a></small>
 </div>
 </aside>
 
@@ -155,7 +155,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L9">cssom/css-timing-function-value.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L9">cssom/css-timing-function-value.ts:9</a></small>
 </div>
 </aside>
 
@@ -173,7 +173,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L11">cssom/css-timing-function-value.ts:11</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L11">cssom/css-timing-function-value.ts:11</a></small>
 </div>
 </aside>
 
@@ -191,7 +191,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L10">cssom/css-timing-function-value.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L10">cssom/css-timing-function-value.ts:10</a></small>
 </div>
 </aside>
 
@@ -209,7 +209,7 @@ title: Enumeration CSSTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L13">cssom/css-timing-function-value.ts:13</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L13">cssom/css-timing-function-value.ts:13</a></small>
 </div>
 </aside>
 

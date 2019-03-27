@@ -73,7 +73,7 @@ An Error class for plugin exceptions
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L56">plugin.ts:56</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/plugin.ts#L51">plugin.ts:51</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

@@ -69,7 +69,7 @@ title: Class CSSSaturateFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L125">cssom/css-filter-value.ts:125</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L125">cssom/css-filter-value.ts:125</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSSaturateFilter
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L127">cssom/css-filter-value.ts:127</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L127">cssom/css-filter-value.ts:127</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSSaturateFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L134">cssom/css-filter-value.ts:134</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L134">cssom/css-filter-value.ts:134</a></small>
 </div>
 </aside>
 

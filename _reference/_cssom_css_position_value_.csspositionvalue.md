@@ -76,7 +76,7 @@ title: Class CSSPositionValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-position-value.ts#L17">cssom/css-position-value.ts:17</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-position-value.ts#L17">cssom/css-position-value.ts:17</a></small>
 </div>
 </aside>
 
@@ -110,7 +110,7 @@ title: Class CSSPositionValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-position-value.ts#L15">cssom/css-position-value.ts:15</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-position-value.ts#L15">cssom/css-position-value.ts:15</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSPositionValue
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-position-value.ts#L16">cssom/css-position-value.ts:16</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-position-value.ts#L16">cssom/css-position-value.ts:16</a></small>
 </div>
 </aside>
 
@@ -154,7 +154,7 @@ title: Class CSSPositionValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-position-value.ts#L132">cssom/css-position-value.ts:132</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-position-value.ts#L132">cssom/css-position-value.ts:132</a></small>
 </div>
 </aside>
 
@@ -184,7 +184,7 @@ title: Class CSSPositionValue
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-position-value.ts#L137">cssom/css-position-value.ts:137</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-position-value.ts#L137">cssom/css-position-value.ts:137</a></small>
 </div>
 </aside>
 

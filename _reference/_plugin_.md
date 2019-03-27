@@ -27,7 +27,6 @@ title: External module &quot;plugin&quot;
 <section class="tsd-index-section ">
 <strong>Type aliases</strong>
 <ul>
-<li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="../_plugin_/#options" class="tsd-kind-icon">Options</a></li>
 <li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="../_plugin_/#optionsmap" class="tsd-kind-icon">Options<wbr>Map</a></li>
 <li class="tsd-kind-type-alias tsd-parent-kind-external-module"><a href="../_plugin_/#valueinitializer" class="tsd-kind-icon">Value<wbr>Initializer</a></li>
 </ul>
@@ -47,39 +46,6 @@ title: External module &quot;plugin&quot;
 <section class="pb-4 pt-2 tsd-kind-type-alias tsd-parent-kind-external-module">
 <div class="d-flex flex-row">
 
-<h4 id="options">Options</h4>
-</div>
-
-<code class="tsd-signature tsd-kind-icon">Options<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">object</span></code>
-
-<aside class="tsd-sources pb-2">
-<div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L17">plugin.ts:17</a></small>
-</div>
-</aside>
-<div class="pt-1 tsd-comment">
-<div markdown="1">
-The `string` to `any` map of parsed command line options
-</div>
-</div>
-
-
-<div class="tsd-type-declaration">
-<strong>Type declaration</strong>
-<ul class="tsd-parameters">
-<li class="tsd-parameter-index-signature">
-<code><span class="tsd-signature-symbol">[</span>key: <span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">]: </span><span class="tsd-signature-type">any</span></code>
-
-
-</li>
-</ul>
-</div>
-
-
-</section>
-<section class="pb-4 pt-2 tsd-kind-type-alias tsd-parent-kind-external-module">
-<div class="d-flex flex-row">
-
 <h4 id="optionsmap">Options<wbr>Map</h4>
 </div>
 
@@ -87,7 +53,7 @@ The `string` to `any` map of parsed command line options
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L12">plugin.ts:12</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/plugin.ts#L12">plugin.ts:12</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -121,7 +87,7 @@ are either type constructors such as `String` or `Boolean` or `ValueInitializers
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L6">plugin.ts:6</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/plugin.ts#L6">plugin.ts:6</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -180,7 +146,7 @@ A function that takes a textual option value and deserializes it
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L126">plugin.ts:126</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/plugin.ts#L121">plugin.ts:121</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -236,7 +202,7 @@ Unlike `templatel` this doesn't remove entire lines that contain null or undefin
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/plugin.ts#L78">plugin.ts:78</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/plugin.ts#L73">plugin.ts:73</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

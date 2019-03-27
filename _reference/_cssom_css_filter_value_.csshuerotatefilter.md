@@ -69,7 +69,7 @@ title: Class CSSHueRotateFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L80">cssom/css-filter-value.ts:80</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L80">cssom/css-filter-value.ts:80</a></small>
 </div>
 </aside>
 
@@ -103,7 +103,7 @@ title: Class CSSHueRotateFilter
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L82">cssom/css-filter-value.ts:82</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L82">cssom/css-filter-value.ts:82</a></small>
 </div>
 </aside>
 
@@ -128,7 +128,7 @@ title: Class CSSHueRotateFilter
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-filter-value.ts#L89">cssom/css-filter-value.ts:89</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-filter-value.ts#L89">cssom/css-filter-value.ts:89</a></small>
 </div>
 </aside>
 

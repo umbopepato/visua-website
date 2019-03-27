@@ -93,7 +93,7 @@ Represents a CSS border value like the one used in `border` properties.
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L50">cssom/css-border-value.ts:50</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-border-value.ts#L50">cssom/css-border-value.ts:50</a></small>
 </div>
 </aside>
 
@@ -127,7 +127,7 @@ Represents a CSS border value like the one used in `border` properties.
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L50">cssom/css-border-value.ts:50</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-border-value.ts#L50">cssom/css-border-value.ts:50</a></small>
 </div>
 </aside>
 
@@ -145,7 +145,7 @@ Represents a CSS border value like the one used in `border` properties.
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L37">cssom/css-border-value.ts:37</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-border-value.ts#L37">cssom/css-border-value.ts:37</a></small>
 </div>
 </aside>
 
@@ -163,7 +163,7 @@ Represents a CSS border value like the one used in `border` properties.
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L35">cssom/css-border-value.ts:35</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-border-value.ts#L35">cssom/css-border-value.ts:35</a></small>
 </div>
 </aside>
 
@@ -181,7 +181,7 @@ Represents a CSS border value like the one used in `border` properties.
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L38">cssom/css-border-value.ts:38</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-border-value.ts#L38">cssom/css-border-value.ts:38</a></small>
 </div>
 </aside>
 
@@ -199,7 +199,7 @@ Represents a CSS border value like the one used in `border` properties.
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L36">cssom/css-border-value.ts:36</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-border-value.ts#L36">cssom/css-border-value.ts:36</a></small>
 </div>
 </aside>
 
@@ -224,7 +224,7 @@ Represents a CSS border value like the one used in `border` properties.
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-border-value.ts#L68">cssom/css-border-value.ts:68</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-border-value.ts#L68">cssom/css-border-value.ts:68</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

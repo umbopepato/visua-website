@@ -79,7 +79,7 @@ title: Class CSSTranslate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-translate.ts#L18">cssom/css-translate.ts:18</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-translate.ts#L18">cssom/css-translate.ts:18</a></small>
 </div>
 </aside>
 
@@ -123,7 +123,7 @@ title: Class CSSTranslate
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-translate.ts#L20">cssom/css-translate.ts:20</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-translate.ts#L20">cssom/css-translate.ts:20</a></small>
 </div>
 </aside>
 
@@ -141,7 +141,7 @@ title: Class CSSTranslate
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-translate.ts#L20">cssom/css-translate.ts:20</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-translate.ts#L20">cssom/css-translate.ts:20</a></small>
 </div>
 </aside>
 
@@ -159,7 +159,7 @@ title: Class CSSTranslate
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-translate.ts#L20">cssom/css-translate.ts:20</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-translate.ts#L20">cssom/css-translate.ts:20</a></small>
 </div>
 </aside>
 
@@ -185,7 +185,7 @@ title: Class CSSTranslate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-translate.ts#L9">cssom/css-translate.ts:9</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-translate.ts#L9">cssom/css-translate.ts:9</a></small>
 </div>
 </aside>
 
@@ -216,7 +216,7 @@ title: Class CSSTranslate
 <aside class="tsd-sources pb-2">
 <div>Implementation of <a href="../_cssom_css_transform_value_.csstransformcomponent/">CSSTransformComponent</a>.<a href="../_cssom_css_transform_value_.csstransformcomponent/#tomatrix">toMatrix</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-translate.ts#L13">cssom/css-translate.ts:13</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-translate.ts#L13">cssom/css-translate.ts:13</a></small>
 </div>
 </aside>
 
@@ -243,7 +243,7 @@ title: Class CSSTranslate
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-translate.ts#L33">cssom/css-translate.ts:33</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-translate.ts#L33">cssom/css-translate.ts:33</a></small>
 </div>
 </aside>
 

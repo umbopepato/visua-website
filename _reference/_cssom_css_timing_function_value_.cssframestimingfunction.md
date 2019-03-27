@@ -72,7 +72,7 @@ title: Class CSSFramesTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#constructor">constructor</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L65">cssom/css-timing-function-value.ts:65</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L65">cssom/css-timing-function-value.ts:65</a></small>
 </div>
 </aside>
 
@@ -106,7 +106,7 @@ title: Class CSSFramesTimingFunction
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L67">cssom/css-timing-function-value.ts:67</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L67">cssom/css-timing-function-value.ts:67</a></small>
 </div>
 </aside>
 
@@ -125,7 +125,7 @@ title: Class CSSFramesTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#type">type</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L24">cssom/css-timing-function-value.ts:24</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L24">cssom/css-timing-function-value.ts:24</a></small>
 </div>
 </aside>
 
@@ -151,7 +151,7 @@ title: Class CSSFramesTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Inherited from <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#is">is</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L28">cssom/css-timing-function-value.ts:28</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L28">cssom/css-timing-function-value.ts:28</a></small>
 </div>
 </aside>
 
@@ -187,7 +187,7 @@ title: Class CSSFramesTimingFunction
 <aside class="tsd-sources pb-2">
 <div>Overrides <a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/">CSSTimingFunctionValue</a>.<a href="../_cssom_css_timing_function_value_.csstimingfunctionvalue/#tostring">toString</a></div>
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-timing-function-value.ts#L72">cssom/css-timing-function-value.ts:72</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-timing-function-value.ts#L72">cssom/css-timing-function-value.ts:72</a></small>
 </div>
 </aside>
 

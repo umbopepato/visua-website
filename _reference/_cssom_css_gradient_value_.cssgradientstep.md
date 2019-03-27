@@ -65,7 +65,7 @@ title: Class CSSGradientStep
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L8">cssom/css-gradient-value.ts:8</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-gradient-value.ts#L8">cssom/css-gradient-value.ts:8</a></small>
 </div>
 </aside>
 
@@ -104,7 +104,7 @@ title: Class CSSGradientStep
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L10">cssom/css-gradient-value.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-gradient-value.ts#L10">cssom/css-gradient-value.ts:10</a></small>
 </div>
 </aside>
 
@@ -122,7 +122,7 @@ title: Class CSSGradientStep
 
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L10">cssom/css-gradient-value.ts:10</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-gradient-value.ts#L10">cssom/css-gradient-value.ts:10</a></small>
 </div>
 </aside>
 
@@ -147,7 +147,7 @@ title: Class CSSGradientStep
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/6f68f03/src/cssom/css-gradient-value.ts#L16">cssom/css-gradient-value.ts:16</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/css-gradient-value.ts#L16">cssom/css-gradient-value.ts:16</a></small>
 </div>
 </aside>
 

@@ -40,6 +40,7 @@ The style map containing all the css variables defined in the parsed identity cs
 <li class="tsd-kind-method tsd-parent-kind-class"><a href="../_cssom_style_map_.stylemap/#foreach" class="tsd-kind-icon">for<wbr>Each</a></li>
 <li class="tsd-kind-method tsd-parent-kind-class"><a href="../_cssom_style_map_.stylemap/#get" class="tsd-kind-icon">get</a></li>
 <li class="tsd-kind-method tsd-parent-kind-class"><a href="../_cssom_style_map_.stylemap/#getall" class="tsd-kind-icon">get<wbr>All</a></li>
+<li class="tsd-kind-method tsd-parent-kind-class tsd-has-type-parameter"><a href="../_cssom_style_map_.stylemap/#getbytype" class="tsd-kind-icon">get<wbr>ByType</a></li>
 <li class="tsd-kind-method tsd-parent-kind-class"><a href="../_cssom_style_map_.stylemap/#getsimilar" class="tsd-kind-icon">get<wbr>Similar</a></li>
 <li class="tsd-kind-method tsd-parent-kind-class"><a href="../_cssom_style_map_.stylemap/#print" class="tsd-kind-icon">print</a></li>
 <li class="tsd-kind-method tsd-parent-kind-class"><a href="../_cssom_style_map_.stylemap/#set" class="tsd-kind-icon">set</a></li>
@@ -64,7 +65,7 @@ The style map containing all the css variables defined in the parsed identity cs
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L98">cssom/style-map.ts:98</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L111">cssom/style-map.ts:111</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -251,6 +252,66 @@ The Object of found properties
 </ul>
 
 </section>
+<section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class tsd-has-type-parameter">
+<div class="d-flex flex-row">
+
+<h4 id="getbytype">get<wbr>ByType</h4>
+</div>
+
+<ul class="tsd-signatures tsd-kind-method tsd-parent-kind-class tsd-has-type-parameter">
+<li class="tsd-signature tsd-kind-icon">get<wbr>ByType&lt;T&gt;<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">...</span>types<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">T</span><span class="tsd-signature-symbol">[]</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="../_cssom_style_map_.stylemapentry/" class="tsd-signature-type">StyleMapEntry</a><span class="tsd-signature-symbol">[]</span></li>
+</ul>
+
+<ul class="tsd-descriptions">
+<li class="tsd-description">
+<aside class="tsd-sources pb-2">
+<div class="d-flex flex-column">
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L90">cssom/style-map.ts:90</a></small>
+</div>
+</aside>
+<div class="pt-1 tsd-comment">
+<div markdown="1">
+Gets the CSSStyleValues of the properties extending `types`
+</div>
+<div markdown="1">
+```typescript
+const values = styleMap.getByType(CSSHexColor, CSSRgbaColor);
+```
+
+</div>
+</div>
+
+<strong>Type parameters</strong>
+<ul class="tsd-type-parameters">
+<li>
+<code>T<span class="tsd-signature-symbol">: </span><a href="../_cssom_css_style_value_.cssstylevalue/" class="tsd-signature-type">CSSStyleValue</a></code>
+</li>
+</ul>
+<strong>Parameters</strong>
+<ul class="pl-3 pb-2 list-style-initial">
+<li>
+<div class="h6 mb-0"><span class="badge badge-primary">Rest</span> <span class="tsd-signature-symbol">...</span>types: <span class="tsd-signature-type">T</span><span class="tsd-signature-symbol">[]</span></div>
+
+<div class="pt-1 tsd-comment">
+<div markdown="1">
+The instances of CSSStyleValue
+</div>
+</div>
+
+</li>
+</ul>
+
+<strong>Returns <a href="../_cssom_style_map_.stylemapentry/" class="tsd-signature-type">StyleMapEntry</a><span class="tsd-signature-symbol">[]</span></strong>
+
+<div class="pt-1" markdown="1">
+An array of StyleMapEntries
+
+</div>
+
+</li>
+</ul>
+
+</section>
 <section class="pb-4 pt-2 tsd-kind-method tsd-parent-kind-class">
 <div class="d-flex flex-row">
 
@@ -322,7 +383,7 @@ An array of StyleMapEntries
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L105">cssom/style-map.ts:105</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L118">cssom/style-map.ts:118</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">
@@ -354,7 +415,7 @@ Prints the StyleMap in a table
 <li class="tsd-description">
 <aside class="tsd-sources pb-2">
 <div class="d-flex flex-column">
-<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L89">cssom/style-map.ts:89</a></small>
+<small class="text-muted">Defined in <a href="https://github.com/umbopepato/visua/blob/b2262eb/src/cssom/style-map.ts#L102">cssom/style-map.ts:102</a></small>
 </div>
 </aside>
 <div class="pt-1 tsd-comment">

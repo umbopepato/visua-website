@@ -121,7 +121,7 @@ progressive results and when one or more missing variables are fundamental to th
 
 With the `styleMap#set()` method, plugins can modify/add variables to the stylemap. Changes persist during the
 execution (but not on the file system) and subsequent plugins will see the modified stylemap. Plugins are run serially
-in the order specified in the run command so plugins that provide a "middleware" functionality, modifying the stylemap,
+in the order specified in the run command so the ones that provide a "middleware" functionality, modifying the stylemap,
 should come first. 
 
 #### Writing templates
@@ -159,6 +159,65 @@ run(styleMap: StyleMap, options: Options) {
 }
 ```
 
+#### Building and testing
+
+The starter template is already set up with TypeScript. To build run:
+
+```bash
+$ npm run build
+```
+
+or, to run compilation in watch mode run:
+
+```bash
+$ npm run build:w
+```
+
+#### Testing
+
+The starter template is already set up for testing with `mocha`, `chai` and `ts-node`. In `test/index.spec.ts` you can
+find a basic example of how to test your plugin with mock data.
+
+To run tests launch the following command:
+
+```bash
+$ npm run test
+```
+
+#### Running plugins locally
+
+To run a plugin locally without publishing it to npm you have two choices:
+
+- **Install it locally by path**  
+  
+  From the package that depends on your plugin, install it with:
+  
+  ```bash
+  $ npm install <path-to-plugin-folder>
+  ```
+  
+  However this may cause problems with dependencies because it only creates a symlink to the plugin folder so the
+  devDependencies are kept.
+  
+- **Pack and local install**
+  
+  To install a production-like copy of your plugin you can use the [`pack`](https://docs.npmjs.com/cli/pack.html) npm
+  command:
+  
+  ```bash
+  $ # Move out from your plugin package folder to avoid creating the tarball here
+  $ cd ..
+  $ # Pack your plugin
+  $ npm pack ./<plugin-folder>
+  ```
+  
+  This creates a tarball in the current working directory named `<plugin-name>-<version>.tgz`.
+  Now from the package where you're installing your plugin, run:
+  
+  ```bash
+  $ npm install [-D] <path-to-plugin-tarball>
+  ```
+
 #### Publishing
 
 Review the following checklist before publishing your plugin to npm:
@@ -172,5 +231,4 @@ Review the following checklist before publishing your plugin to npm:
   only listed in devDependencies and peerDependencies (with the same version) and *not* in dependencies.
   
 - **Test it properly**  
-  The starter template is already set up for testing with `mocha`, `chai` and `ts-node`. In `test/index.spec.ts` you can
-  find a basic example of how to test your plugin with mock data.
+  See [testing](#testing).

@@ -78,8 +78,8 @@ $ npx visua run bootstrap
 This should have created a `variables.scss` file in the same directory that looks like this:
 
 ```scss
-$primary-color: #EFEFEF;
-$secondary-color: #4F4F4F;
+$primary-color: #276FFF;
+$secondary-color: #00DBFF;
 $font-family-base: 'Raleway', sans-serif;
 $headings-font-family: 'Montserrat', sans-serif;
 $spacer: 1.2em;

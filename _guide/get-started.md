@@ -85,7 +85,7 @@ $headings-font-family: 'Montserrat', sans-serif;
 $spacer: 1.2em;
 ```
 
-#### Should I use visua or design tokens build tools?
+#### Design tokens
 
 Although variables in identity files and plugins may be used as an alternative to design tokens, the aims are different:
 design tokens are mostly used to store design systems configurations while visua is intended to describe brand
@@ -96,5 +96,4 @@ If you are developing a whole design system dedicated to your brand and want to 
 
 Instead use visua if you want a simple way to easily apply your brand identity to existing design systems on multiple
 platforms and frameworks by directly building **themes**. Also, visua is not limited to builds: although building themes
-is the most obvious application for plugins, they can perform any kind of operation with the parsed styles. And,
-besides plugins, the API allows you to read identity files in your node.js package.
+is the most obvious application for plugins, they can perform any kind of operation with the parsed styles.

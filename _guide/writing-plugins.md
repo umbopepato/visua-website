@@ -227,7 +227,7 @@ Review the following checklist before publishing your plugin to npm:
   (if you generated it using the CLI this should be fine).
 
 - **Check visua versions**  
-  Be explicit about the version of visua with which your plugin is compatible: make sure the `visua` package is 
+  Be specific about the version of visua with which your plugin is compatible: make sure the `visua` package is 
   only listed in devDependencies and peerDependencies (with the same version) and *not* in dependencies.
   
 - **Test it properly**  

@@ -30,7 +30,7 @@ method.
 
 The StyleMap contains instances of `CSSStyleValue`. These objects are very similar to the ones used in
 [CSS Typed OM](https://www.w3.org/TR/css-typed-om-1/), a new web API used to represent and manipulate CSS values.
-Actually visua contains a partial implementation of this specification.
+Visua in fact contains a partial implementation of this specification.
 
 The following is the list of all the values visua is capable of understanding along with their corresponding
 `CSSStyleValue` instances:
